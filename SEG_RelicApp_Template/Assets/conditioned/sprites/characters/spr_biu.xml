@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Created with TexturePacker http://www.codeandweb.com/texturepacker-->
+<!-- $TexturePacker:SmartUpdate:0886779b212d36c6dcf96f3418bd7fbe:feaf8ca405676681bc276be01a3b0938:5afa6b3b43347192874061ab6e66d110$ -->
+<!--Format:
+n  => name of the sprite
+x  => sprite x pos in texture
+y  => sprite y pos in texture
+w  => sprite width (may be trimmed)
+h  => sprite height (may be trimmed)
+pX => x pos of the pivot point (relative to sprite width)
+pY => y pos of the pivot point (relative to sprite height)
+oX => sprite's x-corner offset (only available if trimmed)
+oY => sprite's y-corner offset (only available if trimmed)
+oW => sprite's original width (only available if trimmed)
+oH => sprite's original height (only available if trimmed)
+r => 'y' only set if sprite is rotated
+with polygon mode enabled:
+vertices   => points in sprite coordinate system (x0,y0,x1,y1,x2,y2, ...)
+verticesUV => points in sheet coordinate system (x0,y0,x1,y1,x2,y2, ...)
+triangles  => sprite triangulation, 3 vertex indices per triangle
+-->
+<TextureAtlas imagePath="sprites/characters/spr_biu.png" width="912" height="1128">
+    <sprite n="spr_biu_dash_0.png" x="0" y="0" w="114" h="94" pX="0.5" pY="0.5"/>
+    <sprite n="spr_biu_dash_1.png" x="114" y="0" w="114" h="94" pX="0.5" pY="0.5"/>
+    <sprite n="spr_biu_dash_fx_0.png" x="228" y="0" w="114" h="94" pX="0.5" pY="0.5"/>
+    <sprite n="spr_biu_death_0.png" x="342" y="0" w="114" h="94" pX="0.5" pY="0.5"/>
+    <sprite n="spr_biu_death_1.png" x="456" y="0" w="114" h="94" pX="0.5" pY="0.5"/>
+    <sprite n="spr_biu_death_2.png" x="570" y="0" w="114" h="94" pX="0.5" pY="0.5"/>
+    <sprite n="spr_biu_death_3.png" x="684" y="0" w="114" h="94" pX="0.5" pY="0.5"/>
+    <sprite n="spr_biu_death_4.png" x="798" y="0" w="114" h="94" pX="0.5" pY="0.5"/>
+    <sprite n="spr_biu_death_5.png" x="0" y="94" w="114" h="94" pX="0.5" pY="0.5"/>
+    <sprite n="spr_biu_death_6.png" x="114" y="94" w="114" h="94" pX="0.5" pY="0.5"/>
+    <sprite n="spr_biu_death_7.png" x="228" y="94" w="114" h="94" pX="0.5" pY="0.5"/>
+    <sprite n="spr_biu_death_8.png" x="342" y="94" w="114" h="94" pX="0.5" pY="0.5"/>
+    <sprite n="spr_biu_death_9.png" x="456" y="94" w="114" h="94" pX="0.5" pY="0.5"/>
+    <sprite n="spr_biu_death_10.png" x="570" y="94" w="114" h="94" pX="0.5" pY="0.5"/>
+    <sprite n="spr_biu_dig_0.png" x="684" y="94" w="114" h="94" pX="0.5" pY="0.5"/>
+    <sprite n="spr_biu_dig_1.png" x="798" y="94" w="114" h="94" pX="0.5" pY="0.5"/>
+    <sprite n="spr_biu_dig_2.png" x="0" y="188" w="114" h="94" pX="0.5" pY="0.5"/>
+    <sprite n="spr_biu_hit_0.png" x="114" y="188" w="114" h="94" pX="0.5" pY="0.5"/>
+    <sprite n="spr_biu_hit_1.png" x="228" y="188" w="114" h="94" pX="0.5" pY="0.5"/>
+    <sprite n="spr_biu_holo_0.png" x="342" y="188" w="114" h="94" pX="0.5" pY="0.5"/>
+    <sprite n="spr_biu_holo_1.png" x="456" y="188" w="114" h="94" pX="0.5" pY="0.5"/>
+    <sprite n="spr_biu_holo_2.png" x="570" y="188" w="114" h="94" pX="0.5" pY="0.5"/>
+    <sprite n="spr_biu_holo_3.png" x="684" y="188" w="114" h="94" pX="0.5" pY="0.5"/>
+    <sprite n="spr_biu_holo_4.png" x="798" y="188" w="114" h="94" pX="0.5" pY="0.5"/>
+    <sprite n="spr_biu_holo_5.png" x="0" y="282" w="114" h="94" pX="0.5" pY="0.5"/>
+    <sprite n="spr_biu_holo_6.png" x="114" y="282" w="114" h="94" pX="0.5" pY="0.5"/>
+    <sprite n="spr_biu_holo_7.png" x="228" y="282" w="114" h="94" pX="0.5" pY="0.5"/>
+    <sprite n="spr_biu_holo_8.png" x="342" y="282" w="114" h="94" pX="0.5" pY="0.5"/>
+    <sprite n="spr_biu_holo_9.png" x="456" y="282" w="114" h="94" pX="0.5" pY="0.5"/>
+    <sprite n="spr_biu_holo_10.png" x="570" y="282" w="114" h="94" pX="0.5" pY="0.5"/>
+    <sprite n="spr_biu_holo_11.png" x="684" y="282" w="114" h="94" pX="0.5" pY="0.5"/>
+    <sprite n="spr_biu_holo_12.png" x="798" y="282" w="114" h="94" pX="0.5" pY="0.5"/>
+    <sprite n="spr_biu_holo_13.png" x="0" y="376" w="114" h="94" pX="0.5" pY="0.5"/>
+    <sprite n="spr_biu_holo_14.png" x="114" y="376" w="114" h="94" pX="0.5" pY="0.5"/>
+    <sprite n="spr_biu_holo_15.png" x="228" y="376" w="114" h="94" pX="0.5" pY="0.5"/>
+    <sprite n="spr_biu_holo_16.png" x="342" y="376" w="114" h="94" pX="0.5" pY="0.5"/>
+    <sprite n="spr_biu_holo_17.png" x="456" y="376" w="114" h="94" pX="0.5" pY="0.5"/>
+    <sprite n="spr_biu_holo_18.png" x="570" y="376" w="114" h="94" pX="0.5" pY="0.5"/>
+    <sprite n="spr_biu_holo_19.png" x="684" y="376" w="114" h="94" pX="0.5" pY="0.5"/>
+    <sprite n="spr_biu_holo_20.png" x="798" y="376" w="114" h="94" pX="0.5" pY="0.5"/>
+    <sprite n="spr_biu_holo_21.png" x="0" y="470" w="114" h="94" pX="0.5" pY="0.5"/>
+    <sprite n="spr_biu_holo_22.png" x="114" y="470" w="114" h="94" pX="0.5" pY="0.5"/>
+    <sprite n="spr_biu_holo_23.png" x="228" y="470" w="114" h="94" pX="0.5" pY="0.5"/>
+    <sprite n="spr_biu_holo_24.png" x="342" y="470" w="114" h="94" pX="0.5" pY="0.5"/>
+    <sprite n="spr_biu_holo_25.png" x="456" y="470" w="114" h="94" pX="0.5" pY="0.5"/>
+    <sprite n="spr_biu_holo_26.png" x="570" y="470" w="114" h="94" pX="0.5" pY="0.5"/>
+    <sprite n="spr_biu_idle_0.png" x="684" y="470" w="114" h="94" pX="0.5" pY="0.5"/>
+    <sprite n="spr_biu_idle_1.png" x="798" y="470" w="114" h="94" pX="0.5" pY="0.5"/>
+    <sprite n="spr_biu_idle_2.png" x="0" y="564" w="114" h="94" pX="0.5" pY="0.5"/>
+    <sprite n="spr_biu_idle_3.png" x="114" y="564" w="114" h="94" pX="0.5" pY="0.5"/>
+    <sprite n="spr_biu_idle_4.png" x="228" y="564" w="114" h="94" pX="0.5" pY="0.5"/>
+    <sprite n="spr_biu_idle_5.png" x="342" y="564" w="114" h="94" pX="0.5" pY="0.5"/>
+    <sprite n="spr_biu_idle_6.png" x="456" y="564" w="114" h="94" pX="0.5" pY="0.5"/>
+    <sprite n="spr_biu_idle_7.png" x="570" y="564" w="114" h="94" pX="0.5" pY="0.5"/>
+    <sprite n="spr_biu_idle_8.png" x="684" y="564" w="114" h="94" pX="0.5" pY="0.5"/>
+    <sprite n="spr_biu_idle_9.png" x="798" y="564" w="114" h="94" pX="0.5" pY="0.5"/>
+    <sprite n="spr_biu_melee_0.png" x="0" y="658" w="114" h="94" pX="0.5" pY="0.5"/>
+    <sprite n="spr_biu_melee_1.png" x="114" y="658" w="114" h="94" pX="0.5" pY="0.5"/>
+    <sprite n="spr_biu_melee_2.png" x="228" y="658" w="114" h="94" pX="0.5" pY="0.5"/>
+    <sprite n="spr_biu_melee_3.png" x="342" y="658" w="114" h="94" pX="0.5" pY="0.5"/>
+    <sprite n="spr_biu_melee_4.png" x="456" y="658" w="114" h="94" pX="0.5" pY="0.5"/>
+    <sprite n="spr_biu_melee_5.png" x="570" y="658" w="114" h="94" pX="0.5" pY="0.5"/>
+    <sprite n="spr_biu_melee_6.png" x="684" y="658" w="114" h="94" pX="0.5" pY="0.5"/>
+    <sprite n="spr_biu_sprint_0.png" x="798" y="658" w="114" h="94" pX="0.5" pY="0.5"/>
+    <sprite n="spr_biu_sprint_1.png" x="0" y="752" w="114" h="94" pX="0.5" pY="0.5"/>
+    <sprite n="spr_biu_sprint_2.png" x="114" y="752" w="114" h="94" pX="0.5" pY="0.5"/>
+    <sprite n="spr_biu_sprint_3.png" x="228" y="752" w="114" h="94" pX="0.5" pY="0.5"/>
+    <sprite n="spr_biu_sprint_4.png" x="342" y="752" w="114" h="94" pX="0.5" pY="0.5"/>
+    <sprite n="spr_biu_sprint_5.png" x="456" y="752" w="114" h="94" pX="0.5" pY="0.5"/>
+    <sprite n="spr_biu_teleport_in_0.png" x="570" y="752" w="114" h="94" pX="0.5" pY="0.5"/>
+    <sprite n="spr_biu_teleport_in_1.png" x="684" y="752" w="114" h="94" pX="0.5" pY="0.5"/>
+    <sprite n="spr_biu_teleport_in_2.png" x="798" y="752" w="114" h="94" pX="0.5" pY="0.5"/>
+    <sprite n="spr_biu_teleport_in_3.png" x="0" y="846" w="114" h="94" pX="0.5" pY="0.5"/>
+    <sprite n="spr_biu_teleport_in_4.png" x="114" y="846" w="114" h="94" pX="0.5" pY="0.5"/>
+    <sprite n="spr_biu_teleport_in_5.png" x="228" y="846" w="114" h="94" pX="0.5" pY="0.5"/>
+    <sprite n="spr_biu_teleport_in_6.png" x="342" y="846" w="114" h="94" pX="0.5" pY="0.5"/>
+    <sprite n="spr_biu_teleport_in_7.png" x="456" y="846" w="114" h="94" pX="0.5" pY="0.5"/>
+    <sprite n="spr_biu_teleport_out_0.png" x="570" y="846" w="114" h="94" pX="0.5" pY="0.5"/>
+    <sprite n="spr_biu_teleport_out_1.png" x="684" y="846" w="114" h="94" pX="0.5" pY="0.5"/>
+    <sprite n="spr_biu_teleport_out_2.png" x="798" y="846" w="114" h="94" pX="0.5" pY="0.5"/>
+    <sprite n="spr_biu_teleport_out_3.png" x="0" y="940" w="114" h="94" pX="0.5" pY="0.5"/>
+    <sprite n="spr_biu_teleport_out_4.png" x="114" y="940" w="114" h="94" pX="0.5" pY="0.5"/>
+    <sprite n="spr_biu_teleport_out_5.png" x="228" y="940" w="114" h="94" pX="0.5" pY="0.5"/>
+    <sprite n="spr_biu_teleport_out_6.png" x="342" y="940" w="114" h="94" pX="0.5" pY="0.5"/>
+    <sprite n="spr_biu_teleport_out_7.png" x="456" y="940" w="114" h="94" pX="0.5" pY="0.5"/>
+    <sprite n="spr_biu_walk_0.png" x="570" y="940" w="114" h="94" pX="0.5" pY="0.5"/>
+    <sprite n="spr_biu_walk_1.png" x="684" y="940" w="114" h="94" pX="0.5" pY="0.5"/>
+    <sprite n="spr_biu_walk_2.png" x="798" y="940" w="114" h="94" pX="0.5" pY="0.5"/>
+    <sprite n="spr_biu_walk_3.png" x="0" y="1034" w="114" h="94" pX="0.5" pY="0.5"/>
+    <sprite n="spr_biu_walk_4.png" x="114" y="1034" w="114" h="94" pX="0.5" pY="0.5"/>
+    <sprite n="spr_biu_walk_5.png" x="228" y="1034" w="114" h="94" pX="0.5" pY="0.5"/>
+</TextureAtlas>

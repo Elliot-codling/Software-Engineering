@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Created with TexturePacker http://www.codeandweb.com/texturepacker-->
+<!-- $TexturePacker:SmartUpdate:6f4acb6f123084b24ff659d172b8705e:615289d9bc0e2bb299beb0e86042ca9b:e91ee5e7a2fb393768073e235a0ef9cd$ -->
+<!--Format:
+n  => name of the sprite
+x  => sprite x pos in texture
+y  => sprite y pos in texture
+w  => sprite width (may be trimmed)
+h  => sprite height (may be trimmed)
+pX => x pos of the pivot point (relative to sprite width)
+pY => y pos of the pivot point (relative to sprite height)
+oX => sprite's x-corner offset (only available if trimmed)
+oY => sprite's y-corner offset (only available if trimmed)
+oW => sprite's original width (only available if trimmed)
+oH => sprite's original height (only available if trimmed)
+r => 'y' only set if sprite is rotated
+with polygon mode enabled:
+vertices   => points in sprite coordinate system (x0,y0,x1,y1,x2,y2, ...)
+verticesUV => points in sheet coordinate system (x0,y0,x1,y1,x2,y2, ...)
+triangles  => sprite triangulation, 3 vertex indices per triangle
+-->
+<TextureAtlas imagePath="spr_turtle2.png" width="456" height="1786">
+    <sprite n="spr_turtle2_death1_0.png" x="0" y="0" w="114" h="94" pX="0.5" pY="0.5"/>
+    <sprite n="spr_turtle2_death1_1.png" x="114" y="0" w="114" h="94" pX="0.5" pY="0.5"/>
+    <sprite n="spr_turtle2_death1_2.png" x="228" y="0" w="114" h="94" pX="0.5" pY="0.5"/>
+    <sprite n="spr_turtle2_death1_3.png" x="342" y="0" w="114" h="94" pX="0.5" pY="0.5"/>
+    <sprite n="spr_turtle2_death1_4.png" x="0" y="94" w="114" h="94" pX="0.5" pY="0.5"/>
+    <sprite n="spr_turtle2_death1_5.png" x="114" y="94" w="114" h="94" pX="0.5" pY="0.5"/>
+    <sprite n="spr_turtle2_death1_6.png" x="228" y="94" w="114" h="94" pX="0.5" pY="0.5"/>
+    <sprite n="spr_turtle2_death1_7.png" x="342" y="94" w="114" h="94" pX="0.5" pY="0.5"/>
+    <sprite n="spr_turtle2_death1_8.png" x="0" y="188" w="114" h="94" pX="0.5" pY="0.5"/>
+    <sprite n="spr_turtle2_death1_9.png" x="114" y="188" w="114" h="94" pX="0.5" pY="0.5"/>
+    <sprite n="spr_turtle2_death1_10.png" x="228" y="188" w="114" h="94" pX="0.5" pY="0.5"/>
+    <sprite n="spr_turtle2_death1_11.png" x="342" y="188" w="114" h="94" pX="0.5" pY="0.5"/>
+    <sprite n="spr_turtle2_death1_12.png" x="0" y="282" w="114" h="94" pX="0.5" pY="0.5"/>
+    <sprite n="spr_turtle2_death1_13.png" x="114" y="282" w="114" h="94" pX="0.5" pY="0.5"/>
+    <sprite n="spr_turtle2_death2_0.png" x="228" y="282" w="114" h="94" pX="0.5" pY="0.5"/>
+    <sprite n="spr_turtle2_death2_1.png" x="342" y="282" w="114" h="94" pX="0.5" pY="0.5"/>
+    <sprite n="spr_turtle2_death2_2.png" x="0" y="376" w="114" h="94" pX="0.5" pY="0.5"/>
+    <sprite n="spr_turtle2_death2_3.png" x="114" y="376" w="114" h="94" pX="0.5" pY="0.5"/>
+    <sprite n="spr_turtle2_death2_4.png" x="228" y="376" w="114" h="94" pX="0.5" pY="0.5"/>
+    <sprite n="spr_turtle2_death2_5.png" x="342" y="376" w="114" h="94" pX="0.5" pY="0.5"/>
+    <sprite n="spr_turtle2_death2_6.png" x="0" y="470" w="114" h="94" pX="0.5" pY="0.5"/>
+    <sprite n="spr_turtle2_death2_7.png" x="114" y="470" w="114" h="94" pX="0.5" pY="0.5"/>
+    <sprite n="spr_turtle2_death2_8.png" x="228" y="470" w="114" h="94" pX="0.5" pY="0.5"/>
+    <sprite n="spr_turtle2_death2_9.png" x="342" y="470" w="114" h="94" pX="0.5" pY="0.5"/>
+    <sprite n="spr_turtle2_death2_10.png" x="0" y="564" w="114" h="94" pX="0.5" pY="0.5"/>
+    <sprite n="spr_turtle2_death2_11.png" x="114" y="564" w="114" h="94" pX="0.5" pY="0.5"/>
+    <sprite n="spr_turtle2_death2_12.png" x="228" y="564" w="114" h="94" pX="0.5" pY="0.5"/>
+    <sprite n="spr_turtle2_death2_13.png" x="342" y="564" w="114" h="94" pX="0.5" pY="0.5"/>
+    <sprite n="spr_turtle2_death3_0.png" x="0" y="658" w="114" h="94" pX="0.5" pY="0.5"/>
+    <sprite n="spr_turtle2_death3_1.png" x="114" y="658" w="114" h="94" pX="0.5" pY="0.5"/>
+    <sprite n="spr_turtle2_death3_2.png" x="228" y="658" w="114" h="94" pX="0.5" pY="0.5"/>
+    <sprite n="spr_turtle2_death3_3.png" x="342" y="658" w="114" h="94" pX="0.5" pY="0.5"/>
+    <sprite n="spr_turtle2_death3_4.png" x="0" y="752" w="114" h="94" pX="0.5" pY="0.5"/>
+    <sprite n="spr_turtle2_death3_5.png" x="114" y="752" w="114" h="94" pX="0.5" pY="0.5"/>
+    <sprite n="spr_turtle2_death3_6.png" x="228" y="752" w="114" h="94" pX="0.5" pY="0.5"/>
+    <sprite n="spr_turtle2_death3_7.png" x="342" y="752" w="114" h="94" pX="0.5" pY="0.5"/>
+    <sprite n="spr_turtle2_death3_8.png" x="0" y="846" w="114" h="94" pX="0.5" pY="0.5"/>
+    <sprite n="spr_turtle2_death3_9.png" x="114" y="846" w="114" h="94" pX="0.5" pY="0.5"/>
+    <sprite n="spr_turtle2_death3_10.png" x="228" y="846" w="114" h="94" pX="0.5" pY="0.5"/>
+    <sprite n="spr_turtle2_death3_11.png" x="342" y="846" w="114" h="94" pX="0.5" pY="0.5"/>
+    <sprite n="spr_turtle2_death3_12.png" x="0" y="940" w="114" h="94" pX="0.5" pY="0.5"/>
+    <sprite n="spr_turtle2_death3_13.png" x="114" y="940" w="114" h="94" pX="0.5" pY="0.5"/>
+    <sprite n="spr_turtle2_hit_0.png" x="228" y="940" w="114" h="94" pX="0.5" pY="0.5"/>
+    <sprite n="spr_turtle2_hit_1.png" x="342" y="940" w="114" h="94" pX="0.5" pY="0.5"/>
+    <sprite n="spr_turtle2_idle_0.png" x="0" y="1034" w="114" h="94" pX="0.5" pY="0.5"/>
+    <sprite n="spr_turtle2_idle_1.png" x="114" y="1034" w="114" h="94" pX="0.5" pY="0.5"/>
+    <sprite n="spr_turtle2_idle_2.png" x="228" y="1034" w="114" h="94" pX="0.5" pY="0.5"/>
+    <sprite n="spr_turtle2_idle_3.png" x="342" y="1034" w="114" h="94" pX="0.5" pY="0.5"/>
+    <sprite n="spr_turtle2_idle_4.png" x="0" y="1128" w="114" h="94" pX="0.5" pY="0.5"/>
+    <sprite n="spr_turtle2_idle_5.png" x="114" y="1128" w="114" h="94" pX="0.5" pY="0.5"/>
+    <sprite n="spr_turtle2_idle_6.png" x="228" y="1128" w="114" h="94" pX="0.5" pY="0.5"/>
+    <sprite n="spr_turtle2_idle_7.png" x="342" y="1128" w="114" h="94" pX="0.5" pY="0.5"/>
+    <sprite n="spr_turtle2_idle_8.png" x="0" y="1222" w="114" h="94" pX="0.5" pY="0.5"/>
+    <sprite n="spr_turtle2_idle_9.png" x="114" y="1222" w="114" h="94" pX="0.5" pY="0.5"/>
+    <sprite n="spr_turtle2_idle_10.png" x="228" y="1222" w="114" h="94" pX="0.5" pY="0.5"/>
+    <sprite n="spr_turtle2_idle_11.png" x="342" y="1222" w="114" h="94" pX="0.5" pY="0.5"/>
+    <sprite n="spr_turtle2_precision_0.png" x="0" y="1316" w="114" h="94" pX="0.5" pY="0.5"/>
+    <sprite n="spr_turtle2_precision_1.png" x="114" y="1316" w="114" h="94" pX="0.5" pY="0.5"/>
+    <sprite n="spr_turtle2_precision_2.png" x="228" y="1316" w="114" h="94" pX="0.5" pY="0.5"/>
+    <sprite n="spr_turtle2_precision_3.png" x="342" y="1316" w="114" h="94" pX="0.5" pY="0.5"/>
+    <sprite n="spr_turtle2_precision_4.png" x="0" y="1410" w="114" h="94" pX="0.5" pY="0.5"/>
+    <sprite n="spr_turtle2_precision_5.png" x="114" y="1410" w="114" h="94" pX="0.5" pY="0.5"/>
+    <sprite n="spr_turtle2_precision_6.png" x="228" y="1410" w="114" h="94" pX="0.5" pY="0.5"/>
+    <sprite n="spr_turtle2_precision_7.png" x="342" y="1410" w="114" h="94" pX="0.5" pY="0.5"/>
+    <sprite n="spr_turtle2_precision_8.png" x="0" y="1504" w="114" h="94" pX="0.5" pY="0.5"/>
+    <sprite n="spr_turtle2_precision_9.png" x="114" y="1504" w="114" h="94" pX="0.5" pY="0.5"/>
+    <sprite n="spr_turtle2_precision_10.png" x="228" y="1504" w="114" h="94" pX="0.5" pY="0.5"/>
+    <sprite n="spr_turtle2_precision_11.png" x="342" y="1504" w="114" h="94" pX="0.5" pY="0.5"/>
+    <sprite n="spr_turtle2_precision_12.png" x="0" y="1598" w="114" h="94" pX="0.5" pY="0.5"/>
+    <sprite n="spr_turtle2_precision_13.png" x="114" y="1598" w="114" h="94" pX="0.5" pY="0.5"/>
+    <sprite n="spr_turtle2_walk_0.png" x="228" y="1598" w="114" h="94" pX="0.5" pY="0.5"/>
+    <sprite n="spr_turtle2_walk_1.png" x="342" y="1598" w="114" h="94" pX="0.5" pY="0.5"/>
+    <sprite n="spr_turtle2_walk_2.png" x="0" y="1692" w="114" h="94" pX="0.5" pY="0.5"/>
+    <sprite n="spr_turtle2_walk_3.png" x="114" y="1692" w="114" h="94" pX="0.5" pY="0.5"/>
+    <sprite n="spr_turtle2_walk_4.png" x="228" y="1692" w="114" h="94" pX="0.5" pY="0.5"/>
+    <sprite n="spr_turtle2_walk_5.png" x="342" y="1692" w="114" h="94" pX="0.5" pY="0.5"/>
+</TextureAtlas>

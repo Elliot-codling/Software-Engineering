@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Created with TexturePacker http://www.codeandweb.com/texturepacker-->
+<!-- $TexturePacker:SmartUpdate:ef253d97a409897a036d6888cf281455:f6dc7d8e7d73a87b7392689d8d904519:3c34630278791ed4366b2655f2313f07$ -->
+<!--Format:
+n  => name of the sprite
+x  => sprite x pos in texture
+y  => sprite y pos in texture
+w  => sprite width (may be trimmed)
+h  => sprite height (may be trimmed)
+pX => x pos of the pivot point (relative to sprite width)
+pY => y pos of the pivot point (relative to sprite height)
+oX => sprite's x-corner offset (only available if trimmed)
+oY => sprite's y-corner offset (only available if trimmed)
+oW => sprite's original width (only available if trimmed)
+oH => sprite's original height (only available if trimmed)
+r => 'y' only set if sprite is rotated
+with polygon mode enabled:
+vertices   => points in sprite coordinate system (x0,y0,x1,y1,x2,y2, ...)
+verticesUV => points in sheet coordinate system (x0,y0,x1,y1,x2,y2, ...)
+triangles  => sprite triangulation, 3 vertex indices per triangle
+-->
+<TextureAtlas imagePath="spr_knight.png" width="504" height="216">
+    <sprite n="spr_knight_idle_down_0.png" x="0" y="0" w="72" h="72" pX="0.5" pY="0.5"/>
+    <sprite n="spr_knight_idle_side_0.png" x="72" y="0" w="72" h="72" pX="0.5" pY="0.5"/>
+    <sprite n="spr_knight_idle_up_0.png" x="144" y="0" w="72" h="72" pX="0.5" pY="0.5"/>
+    <sprite n="spr_knight_walk_down_0.png" x="216" y="0" w="72" h="72" pX="0.5" pY="0.5"/>
+    <sprite n="spr_knight_walk_down_1.png" x="288" y="0" w="72" h="72" pX="0.5" pY="0.5"/>
+    <sprite n="spr_knight_walk_down_2.png" x="360" y="0" w="72" h="72" pX="0.5" pY="0.5"/>
+    <sprite n="spr_knight_walk_down_3.png" x="432" y="0" w="72" h="72" pX="0.5" pY="0.5"/>
+    <sprite n="spr_knight_walk_down_4.png" x="0" y="72" w="72" h="72" pX="0.5" pY="0.5"/>
+    <sprite n="spr_knight_walk_down_5.png" x="72" y="72" w="72" h="72" pX="0.5" pY="0.5"/>
+    <sprite n="spr_knight_walk_side_0.png" x="144" y="72" w="72" h="72" pX="0.5" pY="0.5"/>
+    <sprite n="spr_knight_walk_side_1.png" x="216" y="72" w="72" h="72" pX="0.5" pY="0.5"/>
+    <sprite n="spr_knight_walk_side_2.png" x="288" y="72" w="72" h="72" pX="0.5" pY="0.5"/>
+    <sprite n="spr_knight_walk_side_3.png" x="360" y="72" w="72" h="72" pX="0.5" pY="0.5"/>
+    <sprite n="spr_knight_walk_side_4.png" x="432" y="72" w="72" h="72" pX="0.5" pY="0.5"/>
+    <sprite n="spr_knight_walk_side_5.png" x="0" y="144" w="72" h="72" pX="0.5" pY="0.5"/>
+    <sprite n="spr_knight_walk_up_0.png" x="72" y="144" w="72" h="72" pX="0.5" pY="0.5"/>
+    <sprite n="spr_knight_walk_up_1.png" x="144" y="144" w="72" h="72" pX="0.5" pY="0.5"/>
+    <sprite n="spr_knight_walk_up_2.png" x="216" y="144" w="72" h="72" pX="0.5" pY="0.5"/>
+    <sprite n="spr_knight_walk_up_3.png" x="288" y="144" w="72" h="72" pX="0.5" pY="0.5"/>
+    <sprite n="spr_knight_walk_up_4.png" x="360" y="144" w="72" h="72" pX="0.5" pY="0.5"/>
+    <sprite n="spr_knight_walk_up_5.png" x="432" y="144" w="72" h="72" pX="0.5" pY="0.5"/>
+</TextureAtlas>
