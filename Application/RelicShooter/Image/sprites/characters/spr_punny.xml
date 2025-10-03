@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Created with TexturePacker http://www.codeandweb.com/texturepacker-->
+<!-- $TexturePacker:SmartUpdate:fcee0016be3d65c12ae5d50cd5b4a761:ee8c9215a0932e570efbe6ea6340c6dd:54faa5655536489b9f09d65f29dda6bc$ -->
+<!--Format:
+n  => name of the sprite
+x  => sprite x pos in texture
+y  => sprite y pos in texture
+w  => sprite width (may be trimmed)
+h  => sprite height (may be trimmed)
+pX => x pos of the pivot point (relative to sprite width)
+pY => y pos of the pivot point (relative to sprite height)
+oX => sprite's x-corner offset (only available if trimmed)
+oY => sprite's y-corner offset (only available if trimmed)
+oW => sprite's original width (only available if trimmed)
+oH => sprite's original height (only available if trimmed)
+r => 'y' only set if sprite is rotated
+with polygon mode enabled:
+vertices   => points in sprite coordinate system (x0,y0,x1,y1,x2,y2, ...)
+verticesUV => points in sheet coordinate system (x0,y0,x1,y1,x2,y2, ...)
+triangles  => sprite triangulation, 3 vertex indices per triangle
+-->
+<TextureAtlas imagePath="spr_punny.png" width="456" height="1786">
+    <sprite n="spr_punny_dash_0.png" x="0" y="0" w="114" h="94" pX="0.5" pY="0.5"/>
+    <sprite n="spr_punny_dash_1.png" x="114" y="0" w="114" h="94" pX="0.5" pY="0.5"/>
+    <sprite n="spr_punny_dash_fx_0.png" x="228" y="0" w="114" h="94" pX="0.5" pY="0.5"/>
+    <sprite n="spr_punny_death_0.png" x="342" y="0" w="114" h="94" pX="0.5" pY="0.5"/>
+    <sprite n="spr_punny_death_1.png" x="0" y="94" w="114" h="94" pX="0.5" pY="0.5"/>
+    <sprite n="spr_punny_death_2.png" x="114" y="94" w="114" h="94" pX="0.5" pY="0.5"/>
+    <sprite n="spr_punny_death_3.png" x="228" y="94" w="114" h="94" pX="0.5" pY="0.5"/>
+    <sprite n="spr_punny_death_4.png" x="342" y="94" w="114" h="94" pX="0.5" pY="0.5"/>
+    <sprite n="spr_punny_death_5.png" x="0" y="188" w="114" h="94" pX="0.5" pY="0.5"/>
+    <sprite n="spr_punny_death_6.png" x="114" y="188" w="114" h="94" pX="0.5" pY="0.5"/>
+    <sprite n="spr_punny_death_7.png" x="228" y="188" w="114" h="94" pX="0.5" pY="0.5"/>
+    <sprite n="spr_punny_death_8.png" x="342" y="188" w="114" h="94" pX="0.5" pY="0.5"/>
+    <sprite n="spr_punny_death_9.png" x="0" y="282" w="114" h="94" pX="0.5" pY="0.5"/>
+    <sprite n="spr_punny_death_10.png" x="114" y="282" w="114" h="94" pX="0.5" pY="0.5"/>
+    <sprite n="spr_punny_dig_0.png" x="228" y="282" w="114" h="94" pX="0.5" pY="0.5"/>
+    <sprite n="spr_punny_dig_1.png" x="342" y="282" w="114" h="94" pX="0.5" pY="0.5"/>
+    <sprite n="spr_punny_dig_2.png" x="0" y="376" w="114" h="94" pX="0.5" pY="0.5"/>
+    <sprite n="spr_punny_hit_0.png" x="114" y="376" w="114" h="94" pX="0.5" pY="0.5"/>
+    <sprite n="spr_punny_hit_1.png" x="228" y="376" w="114" h="94" pX="0.5" pY="0.5"/>
+    <sprite n="spr_punny_holo_0.png" x="342" y="376" w="114" h="94" pX="0.5" pY="0.5"/>
+    <sprite n="spr_punny_holo_1.png" x="0" y="470" w="114" h="94" pX="0.5" pY="0.5"/>
+    <sprite n="spr_punny_holo_2.png" x="114" y="470" w="114" h="94" pX="0.5" pY="0.5"/>
+    <sprite n="spr_punny_holo_3.png" x="228" y="470" w="114" h="94" pX="0.5" pY="0.5"/>
+    <sprite n="spr_punny_holo_4.png" x="342" y="470" w="114" h="94" pX="0.5" pY="0.5"/>
+    <sprite n="spr_punny_holo_5.png" x="0" y="564" w="114" h="94" pX="0.5" pY="0.5"/>
+    <sprite n="spr_punny_holo_6.png" x="114" y="564" w="114" h="94" pX="0.5" pY="0.5"/>
+    <sprite n="spr_punny_holo_7.png" x="228" y="564" w="114" h="94" pX="0.5" pY="0.5"/>
+    <sprite n="spr_punny_holo_8.png" x="342" y="564" w="114" h="94" pX="0.5" pY="0.5"/>
+    <sprite n="spr_punny_holo_9.png" x="0" y="658" w="114" h="94" pX="0.5" pY="0.5"/>
+    <sprite n="spr_punny_holo_10.png" x="114" y="658" w="114" h="94" pX="0.5" pY="0.5"/>
+    <sprite n="spr_punny_holo_11.png" x="228" y="658" w="114" h="94" pX="0.5" pY="0.5"/>
+    <sprite n="spr_punny_holo_12.png" x="342" y="658" w="114" h="94" pX="0.5" pY="0.5"/>
+    <sprite n="spr_punny_holo_13.png" x="0" y="752" w="114" h="94" pX="0.5" pY="0.5"/>
+    <sprite n="spr_punny_holo_14.png" x="114" y="752" w="114" h="94" pX="0.5" pY="0.5"/>
+    <sprite n="spr_punny_holo_15.png" x="228" y="752" w="114" h="94" pX="0.5" pY="0.5"/>
+    <sprite n="spr_punny_holo_16.png" x="342" y="752" w="114" h="94" pX="0.5" pY="0.5"/>
+    <sprite n="spr_punny_holo_17.png" x="0" y="846" w="114" h="94" pX="0.5" pY="0.5"/>
+    <sprite n="spr_punny_holo_18.png" x="114" y="846" w="114" h="94" pX="0.5" pY="0.5"/>
+    <sprite n="spr_punny_holo_19.png" x="228" y="846" w="114" h="94" pX="0.5" pY="0.5"/>
+    <sprite n="spr_punny_holo_20.png" x="342" y="846" w="114" h="94" pX="0.5" pY="0.5"/>
+    <sprite n="spr_punny_holo_21.png" x="0" y="940" w="114" h="94" pX="0.5" pY="0.5"/>
+    <sprite n="spr_punny_holo_22.png" x="114" y="940" w="114" h="94" pX="0.5" pY="0.5"/>
+    <sprite n="spr_punny_holo_23.png" x="228" y="940" w="114" h="94" pX="0.5" pY="0.5"/>
+    <sprite n="spr_punny_holo_24.png" x="342" y="940" w="114" h="94" pX="0.5" pY="0.5"/>
+    <sprite n="spr_punny_holo_25.png" x="0" y="1034" w="114" h="94" pX="0.5" pY="0.5"/>
+    <sprite n="spr_punny_holo_26.png" x="114" y="1034" w="114" h="94" pX="0.5" pY="0.5"/>
+    <sprite n="spr_punny_idle_0.png" x="228" y="1034" w="114" h="94" pX="0.5" pY="0.5"/>
+    <sprite n="spr_punny_idle_1.png" x="342" y="1034" w="114" h="94" pX="0.5" pY="0.5"/>
+    <sprite n="spr_punny_idle_2.png" x="0" y="1128" w="114" h="94" pX="0.5" pY="0.5"/>
+    <sprite n="spr_punny_idle_3.png" x="114" y="1128" w="114" h="94" pX="0.5" pY="0.5"/>
+    <sprite n="spr_punny_idle_4.png" x="228" y="1128" w="114" h="94" pX="0.5" pY="0.5"/>
+    <sprite n="spr_punny_idle_5.png" x="342" y="1128" w="114" h="94" pX="0.5" pY="0.5"/>
+    <sprite n="spr_punny_idle_6.png" x="0" y="1222" w="114" h="94" pX="0.5" pY="0.5"/>
+    <sprite n="spr_punny_idle_7.png" x="114" y="1222" w="114" h="94" pX="0.5" pY="0.5"/>
+    <sprite n="spr_punny_idle_8.png" x="228" y="1222" w="114" h="94" pX="0.5" pY="0.5"/>
+    <sprite n="spr_punny_idle_9.png" x="342" y="1222" w="114" h="94" pX="0.5" pY="0.5"/>
+    <sprite n="spr_punny_melee_0.png" x="0" y="1316" w="114" h="94" pX="0.5" pY="0.5"/>
+    <sprite n="spr_punny_melee_1.png" x="114" y="1316" w="114" h="94" pX="0.5" pY="0.5"/>
+    <sprite n="spr_punny_melee_2.png" x="228" y="1316" w="114" h="94" pX="0.5" pY="0.5"/>
+    <sprite n="spr_punny_melee_3.png" x="342" y="1316" w="114" h="94" pX="0.5" pY="0.5"/>
+    <sprite n="spr_punny_melee_4.png" x="0" y="1410" w="114" h="94" pX="0.5" pY="0.5"/>
+    <sprite n="spr_punny_melee_5.png" x="114" y="1410" w="114" h="94" pX="0.5" pY="0.5"/>
+    <sprite n="spr_punny_melee_6.png" x="228" y="1410" w="114" h="94" pX="0.5" pY="0.5"/>
+    <sprite n="spr_punny_sprint_0.png" x="342" y="1410" w="114" h="94" pX="0.5" pY="0.5"/>
+    <sprite n="spr_punny_sprint_1.png" x="0" y="1504" w="114" h="94" pX="0.5" pY="0.5"/>
+    <sprite n="spr_punny_sprint_2.png" x="114" y="1504" w="114" h="94" pX="0.5" pY="0.5"/>
+    <sprite n="spr_punny_sprint_3.png" x="228" y="1504" w="114" h="94" pX="0.5" pY="0.5"/>
+    <sprite n="spr_punny_sprint_4.png" x="342" y="1504" w="114" h="94" pX="0.5" pY="0.5"/>
+    <sprite n="spr_punny_sprint_5.png" x="0" y="1598" w="114" h="94" pX="0.5" pY="0.5"/>
+    <sprite n="spr_punny_walk_0.png" x="114" y="1598" w="114" h="94" pX="0.5" pY="0.5"/>
+    <sprite n="spr_punny_walk_1.png" x="228" y="1598" w="114" h="94" pX="0.5" pY="0.5"/>
+    <sprite n="spr_punny_walk_2.png" x="342" y="1598" w="114" h="94" pX="0.5" pY="0.5"/>
+    <sprite n="spr_punny_walk_3.png" x="0" y="1692" w="114" h="94" pX="0.5" pY="0.5"/>
+    <sprite n="spr_punny_walk_4.png" x="114" y="1692" w="114" h="94" pX="0.5" pY="0.5"/>
+    <sprite n="spr_punny_walk_5.png" x="228" y="1692" w="114" h="94" pX="0.5" pY="0.5"/>
+</TextureAtlas>

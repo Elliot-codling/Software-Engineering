@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Created with TexturePacker http://www.codeandweb.com/texturepacker-->
+<!-- $TexturePacker:SmartUpdate:440765d1157700d77c55511113448a0f:a6b71d083585ce42ff98b6460a15cb18:f6a0fd40abc17190927669e35cd33e31$ -->
+<!--Format:
+n  => name of the sprite
+x  => sprite x pos in texture
+y  => sprite y pos in texture
+w  => sprite width (may be trimmed)
+h  => sprite height (may be trimmed)
+pX => x pos of the pivot point (relative to sprite width)
+pY => y pos of the pivot point (relative to sprite height)
+oX => sprite's x-corner offset (only available if trimmed)
+oY => sprite's y-corner offset (only available if trimmed)
+oW => sprite's original width (only available if trimmed)
+oH => sprite's original height (only available if trimmed)
+r => 'y' only set if sprite is rotated
+with polygon mode enabled:
+vertices   => points in sprite coordinate system (x0,y0,x1,y1,x2,y2, ...)
+verticesUV => points in sheet coordinate system (x0,y0,x1,y1,x2,y2, ...)
+triangles  => sprite triangulation, 3 vertex indices per triangle
+-->
+<TextureAtlas imagePath="spr_worm.png" width="82" height="896">
+    <sprite n="spr_worm_death1_0.png" x="0" y="0" w="82" h="32" pX="0.5" pY="0.5"/>
+    <sprite n="spr_worm_death1_1.png" x="0" y="32" w="82" h="32" pX="0.5" pY="0.5"/>
+    <sprite n="spr_worm_death1_2.png" x="0" y="64" w="82" h="32" pX="0.5" pY="0.5"/>
+    <sprite n="spr_worm_death1_3.png" x="0" y="96" w="82" h="32" pX="0.5" pY="0.5"/>
+    <sprite n="spr_worm_death1_4.png" x="0" y="128" w="82" h="32" pX="0.5" pY="0.5"/>
+    <sprite n="spr_worm_death1_5.png" x="0" y="160" w="82" h="32" pX="0.5" pY="0.5"/>
+    <sprite n="spr_worm_death1_6.png" x="0" y="192" w="82" h="32" pX="0.5" pY="0.5"/>
+    <sprite n="spr_worm_death1_7.png" x="0" y="224" w="82" h="32" pX="0.5" pY="0.5"/>
+    <sprite n="spr_worm_death1_8.png" x="0" y="256" w="82" h="32" pX="0.5" pY="0.5"/>
+    <sprite n="spr_worm_death1_9.png" x="0" y="288" w="82" h="32" pX="0.5" pY="0.5"/>
+    <sprite n="spr_worm_death1_10.png" x="0" y="320" w="82" h="32" pX="0.5" pY="0.5"/>
+    <sprite n="spr_worm_death2_0.png" x="0" y="352" w="82" h="32" pX="0.5" pY="0.5"/>
+    <sprite n="spr_worm_death2_1.png" x="0" y="384" w="82" h="32" pX="0.5" pY="0.5"/>
+    <sprite n="spr_worm_death2_2.png" x="0" y="416" w="82" h="32" pX="0.5" pY="0.5"/>
+    <sprite n="spr_worm_death2_3.png" x="0" y="448" w="82" h="32" pX="0.5" pY="0.5"/>
+    <sprite n="spr_worm_death2_4.png" x="0" y="480" w="82" h="32" pX="0.5" pY="0.5"/>
+    <sprite n="spr_worm_death2_5.png" x="0" y="512" w="82" h="32" pX="0.5" pY="0.5"/>
+    <sprite n="spr_worm_death2_6.png" x="0" y="544" w="82" h="32" pX="0.5" pY="0.5"/>
+    <sprite n="spr_worm_death2_7.png" x="0" y="576" w="82" h="32" pX="0.5" pY="0.5"/>
+    <sprite n="spr_worm_death2_8.png" x="0" y="608" w="82" h="32" pX="0.5" pY="0.5"/>
+    <sprite n="spr_worm_death2_9.png" x="0" y="640" w="82" h="32" pX="0.5" pY="0.5"/>
+    <sprite n="spr_worm_death2_10.png" x="0" y="672" w="82" h="32" pX="0.5" pY="0.5"/>
+    <sprite n="spr_worm_idle_0.png" x="0" y="704" w="82" h="32" pX="0.5" pY="0.5"/>
+    <sprite n="spr_worm_spawn_0.png" x="0" y="736" w="82" h="32" pX="0.5" pY="0.5"/>
+    <sprite n="spr_worm_walk_0.png" x="0" y="768" w="82" h="32" pX="0.5" pY="0.5"/>
+    <sprite n="spr_worm_walk_1.png" x="0" y="800" w="82" h="32" pX="0.5" pY="0.5"/>
+    <sprite n="spr_worm_walk_2.png" x="0" y="832" w="82" h="32" pX="0.5" pY="0.5"/>
+    <sprite n="spr_worm_walk_3.png" x="0" y="864" w="82" h="32" pX="0.5" pY="0.5"/>
+</TextureAtlas>

@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Created with TexturePacker http://www.codeandweb.com/texturepacker-->
+<!-- $TexturePacker:SmartUpdate:015eb6f9d797d7bd64856894236beefd:961af313857b98c5b3e7a6be9c4c6e27:39a15cfba25bd406b093d48cc18e1c9b$ -->
+<!--Format:
+n  => name of the sprite
+x  => sprite x pos in texture
+y  => sprite y pos in texture
+w  => sprite width (may be trimmed)
+h  => sprite height (may be trimmed)
+pX => x pos of the pivot point (relative to sprite width)
+pY => y pos of the pivot point (relative to sprite height)
+oX => sprite's x-corner offset (only available if trimmed)
+oY => sprite's y-corner offset (only available if trimmed)
+oW => sprite's original width (only available if trimmed)
+oH => sprite's original height (only available if trimmed)
+r => 'y' only set if sprite is rotated
+with polygon mode enabled:
+vertices   => points in sprite coordinate system (x0,y0,x1,y1,x2,y2, ...)
+verticesUV => points in sheet coordinate system (x0,y0,x1,y1,x2,y2, ...)
+triangles  => sprite triangulation, 3 vertex indices per triangle
+-->
+<TextureAtlas imagePath="spr_enemy.png" width="690" height="94">
+    <sprite n="spr_enemy_0.png" x="0" y="0" w="72" h="72" pX="0.5" pY="0.5"/>
+    <sprite n="spr_enemy_1.png" x="72" y="0" w="72" h="72" pX="0.5" pY="0.5"/>
+    <sprite n="spr_enemy_2.png" x="144" y="0" w="72" h="72" pX="0.5" pY="0.5"/>
+    <sprite n="spr_enemy_3.png" x="216" y="0" w="72" h="72" pX="0.5" pY="0.5"/>
+    <sprite n="spr_enemy_4.png" x="288" y="0" w="72" h="72" pX="0.5" pY="0.5"/>
+    <sprite n="spr_enemy_5.png" x="360" y="0" w="72" h="72" pX="0.5" pY="0.5"/>
+    <sprite n="spr_enemy_hit_0.png" x="432" y="0" w="72" h="72" pX="0.5" pY="0.5"/>
+    <sprite n="spr_enemy_hit_1.png" x="504" y="0" w="72" h="72" pX="0.5" pY="0.5"/>
+    <sprite n="spr_enemy_weakspot_0.png" x="576" y="0" w="114" h="94" pX="0.5" pY="0.5"/>
+</TextureAtlas>

@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Created with TexturePacker http://www.codeandweb.com/texturepacker-->
+<!-- $TexturePacker:SmartUpdate:faa39680853e1f6188bc6f4e4fb33cb8:48ad824f6d696169297d7a159c0ce5d8:eafcd2ea032669a57437024d10181390$ -->
+<!--Format:
+n  => name of the sprite
+x  => sprite x pos in texture
+y  => sprite y pos in texture
+w  => sprite width (may be trimmed)
+h  => sprite height (may be trimmed)
+pX => x pos of the pivot point (relative to sprite width)
+pY => y pos of the pivot point (relative to sprite height)
+oX => sprite's x-corner offset (only available if trimmed)
+oY => sprite's y-corner offset (only available if trimmed)
+oW => sprite's original width (only available if trimmed)
+oH => sprite's original height (only available if trimmed)
+r => 'y' only set if sprite is rotated
+with polygon mode enabled:
+vertices   => points in sprite coordinate system (x0,y0,x1,y1,x2,y2, ...)
+verticesUV => points in sheet coordinate system (x0,y0,x1,y1,x2,y2, ...)
+triangles  => sprite triangulation, 3 vertex indices per triangle
+-->
+<TextureAtlas imagePath="spr_duncan.png" width="456" height="1128">
+    <sprite n="spr_ducanElite_dash_0.png" x="0" y="0" w="114" h="94" pX="0.5" pY="0.5"/>
+    <sprite n="spr_ducanElite_death2_0.png" x="114" y="0" w="114" h="94" pX="0.5" pY="0.5"/>
+    <sprite n="spr_ducanElite_death2_1.png" x="228" y="0" w="114" h="94" pX="0.5" pY="0.5"/>
+    <sprite n="spr_ducanElite_death2_2.png" x="342" y="0" w="114" h="94" pX="0.5" pY="0.5"/>
+    <sprite n="spr_ducanElite_death2_3.png" x="0" y="94" w="114" h="94" pX="0.5" pY="0.5"/>
+    <sprite n="spr_ducanElite_death2_4.png" x="114" y="94" w="114" h="94" pX="0.5" pY="0.5"/>
+    <sprite n="spr_ducanElite_death2_5.png" x="228" y="94" w="114" h="94" pX="0.5" pY="0.5"/>
+    <sprite n="spr_ducanElite_death2_6.png" x="342" y="94" w="114" h="94" pX="0.5" pY="0.5"/>
+    <sprite n="spr_ducanElite_death2_7.png" x="0" y="188" w="114" h="94" pX="0.5" pY="0.5"/>
+    <sprite n="spr_ducanElite_death2_8.png" x="114" y="188" w="114" h="94" pX="0.5" pY="0.5"/>
+    <sprite n="spr_ducanElite_death2_9.png" x="228" y="188" w="114" h="94" pX="0.5" pY="0.5"/>
+    <sprite n="spr_ducanElite_death2_10.png" x="342" y="188" w="114" h="94" pX="0.5" pY="0.5"/>
+    <sprite n="spr_ducanElite_death3_0.png" x="0" y="282" w="114" h="94" pX="0.5" pY="0.5"/>
+    <sprite n="spr_ducanElite_death3_1.png" x="114" y="282" w="114" h="94" pX="0.5" pY="0.5"/>
+    <sprite n="spr_ducanElite_death3_2.png" x="228" y="282" w="114" h="94" pX="0.5" pY="0.5"/>
+    <sprite n="spr_ducanElite_death3_3.png" x="342" y="282" w="114" h="94" pX="0.5" pY="0.5"/>
+    <sprite n="spr_ducanElite_death3_4.png" x="0" y="376" w="114" h="94" pX="0.5" pY="0.5"/>
+    <sprite n="spr_ducanElite_death3_5.png" x="114" y="376" w="114" h="94" pX="0.5" pY="0.5"/>
+    <sprite n="spr_ducanElite_death3_6.png" x="228" y="376" w="114" h="94" pX="0.5" pY="0.5"/>
+    <sprite n="spr_ducanElite_death3_7.png" x="342" y="376" w="114" h="94" pX="0.5" pY="0.5"/>
+    <sprite n="spr_ducanElite_death3_8.png" x="0" y="470" w="114" h="94" pX="0.5" pY="0.5"/>
+    <sprite n="spr_ducanElite_death3_9.png" x="114" y="470" w="114" h="94" pX="0.5" pY="0.5"/>
+    <sprite n="spr_ducanElite_death3_10.png" x="228" y="470" w="114" h="94" pX="0.5" pY="0.5"/>
+    <sprite n="spr_ducanElite_death_0.png" x="342" y="470" w="114" h="94" pX="0.5" pY="0.5"/>
+    <sprite n="spr_ducanElite_death_1.png" x="0" y="564" w="114" h="94" pX="0.5" pY="0.5"/>
+    <sprite n="spr_ducanElite_death_2.png" x="114" y="564" w="114" h="94" pX="0.5" pY="0.5"/>
+    <sprite n="spr_ducanElite_death_3.png" x="228" y="564" w="114" h="94" pX="0.5" pY="0.5"/>
+    <sprite n="spr_ducanElite_death_4.png" x="342" y="564" w="114" h="94" pX="0.5" pY="0.5"/>
+    <sprite n="spr_ducanElite_death_5.png" x="0" y="658" w="114" h="94" pX="0.5" pY="0.5"/>
+    <sprite n="spr_ducanElite_death_6.png" x="114" y="658" w="114" h="94" pX="0.5" pY="0.5"/>
+    <sprite n="spr_ducanElite_death_7.png" x="228" y="658" w="114" h="94" pX="0.5" pY="0.5"/>
+    <sprite n="spr_ducanElite_death_8.png" x="342" y="658" w="114" h="94" pX="0.5" pY="0.5"/>
+    <sprite n="spr_ducanElite_death_9.png" x="0" y="752" w="114" h="94" pX="0.5" pY="0.5"/>
+    <sprite n="spr_ducanElite_hit_0.png" x="114" y="752" w="114" h="94" pX="0.5" pY="0.5"/>
+    <sprite n="spr_ducanElite_hit_1.png" x="228" y="752" w="114" h="94" pX="0.5" pY="0.5"/>
+    <sprite n="spr_ducanElite_idle_0.png" x="342" y="752" w="114" h="94" pX="0.5" pY="0.5"/>
+    <sprite n="spr_ducanElite_idle_1.png" x="0" y="846" w="114" h="94" pX="0.5" pY="0.5"/>
+    <sprite n="spr_ducanElite_idle_2.png" x="114" y="846" w="114" h="94" pX="0.5" pY="0.5"/>
+    <sprite n="spr_ducanElite_idle_3.png" x="228" y="846" w="114" h="94" pX="0.5" pY="0.5"/>
+    <sprite n="spr_ducanElite_idle_4.png" x="342" y="846" w="114" h="94" pX="0.5" pY="0.5"/>
+    <sprite n="spr_ducanElite_idle_5.png" x="0" y="940" w="114" h="94" pX="0.5" pY="0.5"/>
+    <sprite n="spr_ducanElite_walk_0.png" x="114" y="940" w="114" h="94" pX="0.5" pY="0.5"/>
+    <sprite n="spr_ducanElite_walk_1.png" x="228" y="940" w="114" h="94" pX="0.5" pY="0.5"/>
+    <sprite n="spr_ducanElite_walk_2.png" x="342" y="940" w="114" h="94" pX="0.5" pY="0.5"/>
+    <sprite n="spr_ducanElite_walk_3.png" x="0" y="1034" w="114" h="94" pX="0.5" pY="0.5"/>
+    <sprite n="spr_ducanElite_walk_4.png" x="114" y="1034" w="114" h="94" pX="0.5" pY="0.5"/>
+    <sprite n="spr_ducanElite_walk_5.png" x="228" y="1034" w="114" h="94" pX="0.5" pY="0.5"/>
+</TextureAtlas>
