@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Created with TexturePacker http://www.codeandweb.com/texturepacker-->
+<!-- $TexturePacker:SmartUpdate:443928f0d6bc66cc30224dc22889ad77:f8aec0f39c3a1c4e94b7a3f29d490eef:00a069ee7b191fa18c10c70948fd235d$ -->
+<!--Format:
+n  => name of the sprite
+x  => sprite x pos in texture
+y  => sprite y pos in texture
+w  => sprite width (may be trimmed)
+h  => sprite height (may be trimmed)
+pX => x pos of the pivot point (relative to sprite width)
+pY => y pos of the pivot point (relative to sprite height)
+oX => sprite's x-corner offset (only available if trimmed)
+oY => sprite's y-corner offset (only available if trimmed)
+oW => sprite's original width (only available if trimmed)
+oH => sprite's original height (only available if trimmed)
+r => 'y' only set if sprite is rotated
+with polygon mode enabled:
+vertices   => points in sprite coordinate system (x0,y0,x1,y1,x2,y2, ...)
+verticesUV => points in sheet coordinate system (x0,y0,x1,y1,x2,y2, ...)
+triangles  => sprite triangulation, 3 vertex indices per triangle
+-->
+<TextureAtlas imagePath="backgrounds/bg_desert.png" width="1600" height="64">
+    <sprite n="floor_desert-0-0.png" x="0" y="0" w="64" h="64" pX="0.5" pY="0.5"/>
+    <sprite n="floor_desert-1-0.png" x="64" y="0" w="64" h="64" pX="0.5" pY="0.5"/>
+    <sprite n="spr_wall_stage1_static_0-0-0.png" x="128" y="0" w="64" h="64" pX="0.5" pY="0.5"/>
+    <sprite n="spr_wall_stage1_static_0-0-1.png" x="192" y="0" w="64" h="64" pX="0.5" pY="0.5"/>
+    <sprite n="spr_wall_stage1_static_1-0-0.png" x="256" y="0" w="64" h="64" pX="0.5" pY="0.5"/>
+    <sprite n="spr_wall_stage1_static_1-0-1.png" x="320" y="0" w="64" h="64" pX="0.5" pY="0.5"/>
+    <sprite n="spr_wall_stage1_static_2-0-0.png" x="384" y="0" w="64" h="64" pX="0.5" pY="0.5"/>
+    <sprite n="spr_wall_stage1_static_2-0-1.png" x="448" y="0" w="64" h="64" pX="0.5" pY="0.5"/>
+    <sprite n="spr_wall_stage1_static_3-0-0.png" x="512" y="0" w="64" h="64" pX="0.5" pY="0.5"/>
+    <sprite n="spr_wall_stage1_static_3-0-1.png" x="576" y="0" w="64" h="64" pX="0.5" pY="0.5"/>
+    <sprite n="spr_wall_stage1_static_4-0-0.png" x="640" y="0" w="64" h="64" pX="0.5" pY="0.5"/>
+    <sprite n="spr_wall_stage1_static_4-0-1.png" x="704" y="0" w="64" h="64" pX="0.5" pY="0.5"/>
+    <sprite n="tileset_desert-0-0.png" x="768" y="0" w="64" h="64" pX="0.5" pY="0.5"/>
+    <sprite n="tileset_desert-0-1.png" x="832" y="0" w="64" h="64" pX="0.5" pY="0.5"/>
+    <sprite n="tileset_desert-0-2.png" x="896" y="0" w="64" h="64" pX="0.5" pY="0.5"/>
+    <sprite n="tileset_desert-0-3.png" x="960" y="0" w="64" h="64" pX="0.5" pY="0.5"/>
+    <sprite n="tileset_desert-1-0.png" x="1024" y="0" w="64" h="64" pX="0.5" pY="0.5"/>
+    <sprite n="tileset_desert-1-1.png" x="1088" y="0" w="64" h="64" pX="0.5" pY="0.5"/>
+    <sprite n="tileset_desert-2-0.png" x="1152" y="0" w="64" h="64" pX="0.5" pY="0.5"/>
+    <sprite n="tileset_desert-3-0.png" x="1216" y="0" w="64" h="64" pX="0.5" pY="0.5"/>
+    <sprite n="tileset_desert-4-0.png" x="1280" y="0" w="64" h="64" pX="0.5" pY="0.5"/>
+    <sprite n="tileset_desert-5-0.png" x="1344" y="0" w="64" h="64" pX="0.5" pY="0.5"/>
+    <sprite n="tileset_desert-5-1.png" x="1408" y="0" w="64" h="64" pX="0.5" pY="0.5"/>
+    <sprite n="tileset_desert-5-2.png" x="1472" y="0" w="64" h="64" pX="0.5" pY="0.5"/>
+    <sprite n="tileset_desert-5-3.png" x="1536" y="0" w="64" h="64" pX="0.5" pY="0.5"/>
+</TextureAtlas>

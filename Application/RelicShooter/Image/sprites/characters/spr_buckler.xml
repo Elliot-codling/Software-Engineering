@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Created with TexturePacker http://www.codeandweb.com/texturepacker-->
+<!-- $TexturePacker:SmartUpdate:98bf458130f3b6e72853b471847d893d:7dc041a43f83561fa176b2fdc865278c:6a550399936a2443a8b90fb92fefacca$ -->
+<!--Format:
+n  => name of the sprite
+x  => sprite x pos in texture
+y  => sprite y pos in texture
+w  => sprite width (may be trimmed)
+h  => sprite height (may be trimmed)
+pX => x pos of the pivot point (relative to sprite width)
+pY => y pos of the pivot point (relative to sprite height)
+oX => sprite's x-corner offset (only available if trimmed)
+oY => sprite's y-corner offset (only available if trimmed)
+oW => sprite's original width (only available if trimmed)
+oH => sprite's original height (only available if trimmed)
+r => 'y' only set if sprite is rotated
+with polygon mode enabled:
+vertices   => points in sprite coordinate system (x0,y0,x1,y1,x2,y2, ...)
+verticesUV => points in sheet coordinate system (x0,y0,x1,y1,x2,y2, ...)
+triangles  => sprite triangulation, 3 vertex indices per triangle
+-->
+<TextureAtlas imagePath="spr_buckler.png" width="456" height="1034">
+    <sprite n="spr_buckler_dash_0.png" x="0" y="0" w="114" h="94" pX="0.5" pY="0.5"/>
+    <sprite n="spr_buckler_dash_1.png" x="114" y="0" w="114" h="94" pX="0.5" pY="0.5"/>
+    <sprite n="spr_buckler_hit_0.png" x="228" y="0" w="114" h="94" pX="0.5" pY="0.5"/>
+    <sprite n="spr_buckler_hit_1.png" x="342" y="0" w="114" h="94" pX="0.5" pY="0.5"/>
+    <sprite n="spr_buckler_hit_2.png" x="0" y="94" w="114" h="94" pX="0.5" pY="0.5"/>
+    <sprite n="spr_buckler_hit_3.png" x="114" y="94" w="114" h="94" pX="0.5" pY="0.5"/>
+    <sprite n="spr_buckler_hit_4.png" x="228" y="94" w="114" h="94" pX="0.5" pY="0.5"/>
+    <sprite n="spr_buckler_hit_5.png" x="342" y="94" w="114" h="94" pX="0.5" pY="0.5"/>
+    <sprite n="spr_buckler_hit_6.png" x="0" y="188" w="114" h="94" pX="0.5" pY="0.5"/>
+    <sprite n="spr_buckler_hit_7.png" x="114" y="188" w="114" h="94" pX="0.5" pY="0.5"/>
+    <sprite n="spr_buckler_hit_8.png" x="228" y="188" w="114" h="94" pX="0.5" pY="0.5"/>
+    <sprite n="spr_buckler_hit_9.png" x="342" y="188" w="114" h="94" pX="0.5" pY="0.5"/>
+    <sprite n="spr_buckler_idle_0.png" x="0" y="282" w="114" h="94" pX="0.5" pY="0.5"/>
+    <sprite n="spr_buckler_idle_1.png" x="114" y="282" w="114" h="94" pX="0.5" pY="0.5"/>
+    <sprite n="spr_buckler_idle_2.png" x="228" y="282" w="114" h="94" pX="0.5" pY="0.5"/>
+    <sprite n="spr_buckler_idle_3.png" x="342" y="282" w="114" h="94" pX="0.5" pY="0.5"/>
+    <sprite n="spr_buckler_idle_4.png" x="0" y="376" w="114" h="94" pX="0.5" pY="0.5"/>
+    <sprite n="spr_buckler_idle_5.png" x="114" y="376" w="114" h="94" pX="0.5" pY="0.5"/>
+    <sprite n="spr_buckler_idle_6.png" x="228" y="376" w="114" h="94" pX="0.5" pY="0.5"/>
+    <sprite n="spr_buckler_idle_7.png" x="342" y="376" w="114" h="94" pX="0.5" pY="0.5"/>
+    <sprite n="spr_buckler_idle_8.png" x="0" y="470" w="114" h="94" pX="0.5" pY="0.5"/>
+    <sprite n="spr_buckler_idle_9.png" x="114" y="470" w="114" h="94" pX="0.5" pY="0.5"/>
+    <sprite n="spr_buckler_melee_0.png" x="228" y="470" w="114" h="94" pX="0.5" pY="0.5"/>
+    <sprite n="spr_buckler_melee_1.png" x="342" y="470" w="114" h="94" pX="0.5" pY="0.5"/>
+    <sprite n="spr_buckler_melee_2.png" x="0" y="564" w="114" h="94" pX="0.5" pY="0.5"/>
+    <sprite n="spr_buckler_melee_3.png" x="114" y="564" w="114" h="94" pX="0.5" pY="0.5"/>
+    <sprite n="spr_buckler_melee_4.png" x="228" y="564" w="114" h="94" pX="0.5" pY="0.5"/>
+    <sprite n="spr_buckler_melee_5.png" x="342" y="564" w="114" h="94" pX="0.5" pY="0.5"/>
+    <sprite n="spr_buckler_melee_6.png" x="0" y="658" w="114" h="94" pX="0.5" pY="0.5"/>
+    <sprite n="spr_buckler_melee_7.png" x="114" y="658" w="114" h="94" pX="0.5" pY="0.5"/>
+    <sprite n="spr_buckler_melee_8.png" x="228" y="658" w="114" h="94" pX="0.5" pY="0.5"/>
+    <sprite n="spr_buckler_melee_9.png" x="342" y="658" w="114" h="94" pX="0.5" pY="0.5"/>
+    <sprite n="spr_buckler_sprint_0.png" x="0" y="752" w="114" h="94" pX="0.5" pY="0.5"/>
+    <sprite n="spr_buckler_sprint_1.png" x="114" y="752" w="114" h="94" pX="0.5" pY="0.5"/>
+    <sprite n="spr_buckler_sprint_2.png" x="228" y="752" w="114" h="94" pX="0.5" pY="0.5"/>
+    <sprite n="spr_buckler_sprint_3.png" x="342" y="752" w="114" h="94" pX="0.5" pY="0.5"/>
+    <sprite n="spr_buckler_sprint_4.png" x="0" y="846" w="114" h="94" pX="0.5" pY="0.5"/>
+    <sprite n="spr_buckler_sprint_5.png" x="114" y="846" w="114" h="94" pX="0.5" pY="0.5"/>
+    <sprite n="spr_buckler_walk_0.png" x="228" y="846" w="114" h="94" pX="0.5" pY="0.5"/>
+    <sprite n="spr_buckler_walk_1.png" x="342" y="846" w="114" h="94" pX="0.5" pY="0.5"/>
+    <sprite n="spr_buckler_walk_2.png" x="0" y="940" w="114" h="94" pX="0.5" pY="0.5"/>
+    <sprite n="spr_buckler_walk_3.png" x="114" y="940" w="114" h="94" pX="0.5" pY="0.5"/>
+    <sprite n="spr_buckler_walk_4.png" x="228" y="940" w="114" h="94" pX="0.5" pY="0.5"/>
+    <sprite n="spr_buckler_walk_5.png" x="342" y="940" w="114" h="94" pX="0.5" pY="0.5"/>
+</TextureAtlas>

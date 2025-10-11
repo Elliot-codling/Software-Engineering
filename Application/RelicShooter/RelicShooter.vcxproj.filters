@@ -1,0 +1,248 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{4FC737F1-C7A5-4376-A066-2A32D752A2FF}</UniqueIdentifier>
+      <Extensions>cpp;c;cc;cxx;def;odl;idl;hpj;bat;asm;asmx</Extensions>
+    </Filter>
+    <Filter Include="Source Files\Game">
+      <UniqueIdentifier>{59f715f8-7b7f-4fc4-8e09-ee73587c1830}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\Engine">
+      <UniqueIdentifier>{95e3d62f-cd31-423f-a04d-0a25b7fc7dba}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\Engine\Renderer">
+      <UniqueIdentifier>{dea23a6f-cc51-4b3e-bc50-8b5e44704b93}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\Engine\Utils">
+      <UniqueIdentifier>{ee139353-ae5a-4e02-a060-a786d7aa45fa}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\Engine\System">
+      <UniqueIdentifier>{b9bf4b61-b353-41eb-9723-124c5292ae42}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\Engine\System\Context">
+      <UniqueIdentifier>{00c28413-5243-443e-a62e-ab8c1869cb20}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\Game\Audio">
+      <UniqueIdentifier>{f92badde-30c3-4a2f-adae-2a095974b904}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\Game\GameStates">
+      <UniqueIdentifier>{c47d214d-8485-479b-92ed-8ef2e6420e1d}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\Game\Input">
+      <UniqueIdentifier>{622eb1e3-43d3-43f1-b451-e5f17b937d81}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\Game\UI">
+      <UniqueIdentifier>{0118a8fc-b5c7-4d97-a2d8-241dea6b98e5}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\Engine\Math">
+      <UniqueIdentifier>{a30e8f2c-fb59-4904-b56d-0cf732fb7c37}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\Engine\Containers">
+      <UniqueIdentifier>{8661bdd3-2455-4535-822b-6c6d04371ee8}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\Engine\Core">
+      <UniqueIdentifier>{189c6125-a12c-4ff1-9d20-3499d358a4fa}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\Engine\System\GameState">
+      <UniqueIdentifier>{86f0d159-02cf-4ccf-bf8a-eb11f7692f1a}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\Engine\System\Assets">
+      <UniqueIdentifier>{fc659986-6676-4030-ab10-8212c429b1d1}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\Engine\Audio">
+      <UniqueIdentifier>{53d0cb0f-4497-49bd-91c7-dbca3bb83a3e}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\Engine\UI">
+      <UniqueIdentifier>{e5db4a94-157b-4113-ab8c-0d86ca2f1e60}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\Game\GameObjects">
+      <UniqueIdentifier>{9d2a7245-f5d0-43ad-9701-5ce25736c5da}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\Engine\Input">
+      <UniqueIdentifier>{ed220a76-24fc-441f-b4a9-5f27e62c40b3}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\Engine\System\Animation">
+      <UniqueIdentifier>{1cce2e97-e98b-4410-9b79-02bbf9cb5db5}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\Game\GameData">
+      <UniqueIdentifier>{1b93484d-c902-461e-b09d-9ec2347cb489}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\Engine\Physics">
+      <UniqueIdentifier>{35e23798-edad-434f-b360-0ddfc879cc83}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="Source\Main.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Source\Game\Game.cpp">
+      <Filter>Source Files\Game</Filter>
+    </ClCompile>
+    <ClCompile Include="Source\Engine\Renderer\RenderManager.cpp">
+      <Filter>Source Files\Engine\Renderer</Filter>
+    </ClCompile>
+    <ClCompile Include="Source\Engine\Renderer\Sprite.cpp">
+      <Filter>Source Files\Engine\Renderer</Filter>
+    </ClCompile>
+    <ClCompile Include="Source\Engine\Renderer\AnimatedSprite.cpp">
+      <Filter>Source Files\Engine\Renderer</Filter>
+    </ClCompile>
+    <ClCompile Include="Source\Engine\Core\Types.cpp">
+      <Filter>Source Files\Engine\Core</Filter>
+    </ClCompile>
+    <ClCompile Include="Source\Engine\System\Context\ContextProvider.cpp">
+      <Filter>Source Files\Engine\System\Context</Filter>
+    </ClCompile>
+    <ClCompile Include="Source\Engine\System\Context\SysContextProvider.cpp">
+      <Filter>Source Files\Engine\System\Context</Filter>
+    </ClCompile>
+    <ClCompile Include="Source\Engine\Renderer\FrameTimer.cpp">
+      <Filter>Source Files\Engine\Renderer</Filter>
+    </ClCompile>
+    <ClCompile Include="Source\Engine\System\GameState\GameState.cpp">
+      <Filter>Source Files\Engine\System\GameState</Filter>
+    </ClCompile>
+    <ClCompile Include="Source\Engine\System\GameState\GameStateManager.cpp">
+      <Filter>Source Files\Engine\System\GameState</Filter>
+    </ClCompile>
+    <ClCompile Include="Source\Engine\System\Assets\AssetManager.cpp">
+      <Filter>Source Files\Engine\System\Assets</Filter>
+    </ClCompile>
+    <ClCompile Include="Source\Engine\Audio\Audio.cpp">
+      <Filter>Source Files\Engine\Audio</Filter>
+    </ClCompile>
+    <ClCompile Include="Source\Engine\Audio\StreamedAudio.cpp">
+      <Filter>Source Files\Engine\Audio</Filter>
+    </ClCompile>
+    <ClCompile Include="Source\Engine\Audio\SoundEffect.cpp">
+      <Filter>Source Files\Engine\Audio</Filter>
+    </ClCompile>
+    <ClCompile Include="Source\Engine\UI\Text.cpp">
+      <Filter>Source Files\Engine\UI</Filter>
+    </ClCompile>
+    <ClCompile Include="Source\Engine\Core\GameObject.cpp">
+      <Filter>Source Files\Engine\Core</Filter>
+    </ClCompile>
+    <ClCompile Include="Source\Engine\Audio\AudioManager.cpp">
+      <Filter>Source Files\Engine\Audio</Filter>
+    </ClCompile>
+    <ClCompile Include="Source\Engine\Input\InputManager.cpp">
+      <Filter>Source Files\Engine\Input</Filter>
+    </ClCompile>
+    <ClCompile Include="Source\Engine\System\Animation\AnimationStateMachine.cpp">
+      <Filter>Source Files\Engine\System\Animation</Filter>
+    </ClCompile>
+    <ClCompile Include="Source\Game\GameData\GameDataManager.cpp">
+      <Filter>Source Files\Game\GameData</Filter>
+    </ClCompile>
+    <ClCompile Include="Source\Engine\Physics\Collider2D.cpp">
+      <Filter>Source Files\Engine\Physics</Filter>
+    </ClCompile>
+    <ClCompile Include="Source\Engine\Physics\BoxCollider2D.cpp">
+      <Filter>Source Files\Engine\Physics</Filter>
+    </ClCompile>
+    <ClCompile Include="Source\Engine\Physics\CircleCollider2D.cpp">
+      <Filter>Source Files\Engine\Physics</Filter>
+    </ClCompile>
+    <ClCompile Include="Source\Engine\Renderer\WindowManager.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Source\Game\GameStates\GameStateTest.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Source\Game\GameObjects\GameObjectWithText.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Source\Game\GameObjects\GameObjectWithSprite.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="Source\Game\Game.h">
+      <Filter>Source Files\Game</Filter>
+    </ClInclude>
+    <ClInclude Include="Source\Engine\Renderer\RenderManager.h">
+      <Filter>Source Files\Engine\Renderer</Filter>
+    </ClInclude>
+    <ClInclude Include="Source\Engine\Utils\Utils.h">
+      <Filter>Source Files\Engine\Utils</Filter>
+    </ClInclude>
+    <ClInclude Include="Source\Engine\Renderer\Sprite.h">
+      <Filter>Source Files\Engine\Renderer</Filter>
+    </ClInclude>
+    <ClInclude Include="Source\Engine\Renderer\AnimatedSprite.h">
+      <Filter>Source Files\Engine\Renderer</Filter>
+    </ClInclude>
+    <ClInclude Include="Source\Engine\Core\Types.h">
+      <Filter>Source Files\Engine\Core</Filter>
+    </ClInclude>
+    <ClInclude Include="Source\Engine\System\Context\ContextProvider.h">
+      <Filter>Source Files\Engine\System\Context</Filter>
+    </ClInclude>
+    <ClInclude Include="Source\Engine\System\Context\SysContextProvider.h">
+      <Filter>Source Files\Engine\System\Context</Filter>
+    </ClInclude>
+    <ClInclude Include="Source\Engine\Renderer\FrameTimer.h">
+      <Filter>Source Files\Engine\Renderer</Filter>
+    </ClInclude>
+    <ClInclude Include="Source\Engine\System\GameState\GameState.h">
+      <Filter>Source Files\Engine\System\GameState</Filter>
+    </ClInclude>
+    <ClInclude Include="Source\Engine\System\GameState\GameStateManager.h">
+      <Filter>Source Files\Engine\System\GameState</Filter>
+    </ClInclude>
+    <ClInclude Include="Source\Engine\System\Assets\AssetManager.h">
+      <Filter>Source Files\Engine\System\Assets</Filter>
+    </ClInclude>
+    <ClInclude Include="Source\Engine\Audio\Audio.h">
+      <Filter>Source Files\Engine\Audio</Filter>
+    </ClInclude>
+    <ClInclude Include="Source\Engine\Audio\StreamedAudio.h">
+      <Filter>Source Files\Engine\Audio</Filter>
+    </ClInclude>
+    <ClInclude Include="Source\Engine\Audio\SoundEffect.h">
+      <Filter>Source Files\Engine\Audio</Filter>
+    </ClInclude>
+    <ClInclude Include="Source\Engine\UI\Text.h">
+      <Filter>Source Files\Engine\UI</Filter>
+    </ClInclude>
+    <ClInclude Include="Source\Engine\Core\GameObject.h">
+      <Filter>Source Files\Engine\Core</Filter>
+    </ClInclude>
+    <ClInclude Include="Source\Engine\Audio\AudioManager.h">
+      <Filter>Source Files\Engine\Audio</Filter>
+    </ClInclude>
+    <ClInclude Include="Source\Engine\Input\InputManager.h">
+      <Filter>Source Files\Engine\Input</Filter>
+    </ClInclude>
+    <ClInclude Include="Source\Engine\Input\InputDevice.h">
+      <Filter>Source Files\Engine\Input</Filter>
+    </ClInclude>
+    <ClInclude Include="Source\Engine\Core\MathHelpers.h">
+      <Filter>Source Files\Engine\Core</Filter>
+    </ClInclude>
+    <ClInclude Include="Source\Engine\System\Animation\AnimationStateMachine.h">
+      <Filter>Source Files\Engine\System\Animation</Filter>
+    </ClInclude>
+    <ClInclude Include="Source\Game\GameData\GameDataManager.h">
+      <Filter>Source Files\Game\GameData</Filter>
+    </ClInclude>
+    <ClInclude Include="Source\Game\GameData\SpritesheetDef.h">
+      <Filter>Source Files\Game\GameData</Filter>
+    </ClInclude>
+    <ClInclude Include="Source\Engine\Physics\Collider2D.h">
+      <Filter>Source Files\Engine\Physics</Filter>
+    </ClInclude>
+    <ClInclude Include="Source\Engine\Physics\BoxCollider2D.h">
+      <Filter>Source Files\Engine\Physics</Filter>
+    </ClInclude>
+    <ClInclude Include="Source\Engine\Physics\CircleCollider2D.h">
+      <Filter>Source Files\Engine\Physics</Filter>
+    </ClInclude>
+    <ClInclude Include="Source\Engine\Renderer\WindowManager.h" />
+    <ClInclude Include="Source\Game\GameStates\GameStateTest.h" />
+    <ClInclude Include="Source\Game\GameObjects\GameObjectWithText.h" />
+    <ClInclude Include="Source\Game\GameObjects\GameObjectWithSprite.h" />
+  </ItemGroup>
+</Project>

@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Created with TexturePacker http://www.codeandweb.com/texturepacker-->
+<!-- $TexturePacker:SmartUpdate:d1eee93fffcd0d3cf4906084b40c7f2b:b94748001ccdbe63fafafd59577a8c94:b7ab0e453a736c2726da7e2b8fa58a0a$ -->
+<!--Format:
+n  => name of the sprite
+x  => sprite x pos in texture
+y  => sprite y pos in texture
+w  => sprite width (may be trimmed)
+h  => sprite height (may be trimmed)
+pX => x pos of the pivot point (relative to sprite width)
+pY => y pos of the pivot point (relative to sprite height)
+oX => sprite's x-corner offset (only available if trimmed)
+oY => sprite's y-corner offset (only available if trimmed)
+oW => sprite's original width (only available if trimmed)
+oH => sprite's original height (only available if trimmed)
+r => 'y' only set if sprite is rotated
+with polygon mode enabled:
+vertices   => points in sprite coordinate system (x0,y0,x1,y1,x2,y2, ...)
+verticesUV => points in sheet coordinate system (x0,y0,x1,y1,x2,y2, ...)
+triangles  => sprite triangulation, 3 vertex indices per triangle
+-->
+<TextureAtlas imagePath="spr_gloves.png" width="1938" height="188">
+    <sprite n="spr_gloves_dash_0.png" x="0" y="0" w="114" h="94" pX="0.5" pY="0.5"/>
+    <sprite n="spr_gloves_dash_1.png" x="114" y="0" w="114" h="94" pX="0.5" pY="0.5"/>
+    <sprite n="spr_gloves_hit_0.png" x="228" y="0" w="114" h="94" pX="0.5" pY="0.5"/>
+    <sprite n="spr_gloves_hit_1.png" x="342" y="0" w="114" h="94" pX="0.5" pY="0.5"/>
+    <sprite n="spr_gloves_idle_0.png" x="456" y="0" w="114" h="94" pX="0.5" pY="0.5"/>
+    <sprite n="spr_gloves_idle_1.png" x="570" y="0" w="114" h="94" pX="0.5" pY="0.5"/>
+    <sprite n="spr_gloves_idle_2.png" x="684" y="0" w="114" h="94" pX="0.5" pY="0.5"/>
+    <sprite n="spr_gloves_idle_3.png" x="798" y="0" w="114" h="94" pX="0.5" pY="0.5"/>
+    <sprite n="spr_gloves_idle_4.png" x="912" y="0" w="114" h="94" pX="0.5" pY="0.5"/>
+    <sprite n="spr_gloves_idle_5.png" x="1026" y="0" w="114" h="94" pX="0.5" pY="0.5"/>
+    <sprite n="spr_gloves_idle_6.png" x="1140" y="0" w="114" h="94" pX="0.5" pY="0.5"/>
+    <sprite n="spr_gloves_idle_7.png" x="1254" y="0" w="114" h="94" pX="0.5" pY="0.5"/>
+    <sprite n="spr_gloves_idle_8.png" x="1368" y="0" w="114" h="94" pX="0.5" pY="0.5"/>
+    <sprite n="spr_gloves_idle_9.png" x="1482" y="0" w="114" h="94" pX="0.5" pY="0.5"/>
+    <sprite n="spr_gloves_melee_0.png" x="1596" y="0" w="114" h="94" pX="0.5" pY="0.5"/>
+    <sprite n="spr_gloves_melee_1.png" x="1710" y="0" w="114" h="94" pX="0.5" pY="0.5"/>
+    <sprite n="spr_gloves_melee_2.png" x="1824" y="0" w="114" h="94" pX="0.5" pY="0.5"/>
+    <sprite n="spr_gloves_melee_3.png" x="0" y="94" w="114" h="94" pX="0.5" pY="0.5"/>
+    <sprite n="spr_gloves_melee_4.png" x="114" y="94" w="114" h="94" pX="0.5" pY="0.5"/>
+    <sprite n="spr_gloves_melee_5.png" x="228" y="94" w="114" h="94" pX="0.5" pY="0.5"/>
+    <sprite n="spr_gloves_melee_6.png" x="342" y="94" w="114" h="94" pX="0.5" pY="0.5"/>
+    <sprite n="spr_gloves_sprint_0.png" x="456" y="94" w="114" h="94" pX="0.5" pY="0.5"/>
+    <sprite n="spr_gloves_sprint_1.png" x="570" y="94" w="114" h="94" pX="0.5" pY="0.5"/>
+    <sprite n="spr_gloves_sprint_2.png" x="684" y="94" w="114" h="94" pX="0.5" pY="0.5"/>
+    <sprite n="spr_gloves_sprint_3.png" x="798" y="94" w="114" h="94" pX="0.5" pY="0.5"/>
+    <sprite n="spr_gloves_sprint_4.png" x="912" y="94" w="114" h="94" pX="0.5" pY="0.5"/>
+    <sprite n="spr_gloves_sprint_5.png" x="1026" y="94" w="114" h="94" pX="0.5" pY="0.5"/>
+    <sprite n="spr_gloves_walk_0.png" x="1140" y="94" w="114" h="94" pX="0.5" pY="0.5"/>
+    <sprite n="spr_gloves_walk_1.png" x="1254" y="94" w="114" h="94" pX="0.5" pY="0.5"/>
+    <sprite n="spr_gloves_walk_2.png" x="1368" y="94" w="114" h="94" pX="0.5" pY="0.5"/>
+    <sprite n="spr_gloves_walk_3.png" x="1482" y="94" w="114" h="94" pX="0.5" pY="0.5"/>
+    <sprite n="spr_gloves_walk_4.png" x="1596" y="94" w="114" h="94" pX="0.5" pY="0.5"/>
+    <sprite n="spr_gloves_walk_5.png" x="1710" y="94" w="114" h="94" pX="0.5" pY="0.5"/>
+</TextureAtlas>
