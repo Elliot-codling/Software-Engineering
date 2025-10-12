@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Created with TexturePacker http://www.codeandweb.com/texturepacker-->
+<!-- $TexturePacker:SmartUpdate:6a38a1b2933f012fb6782b5bc9b24a0a:177a78faad09c162c29f5db853980d98:2be4f0c8bc8bf3b064c0539a4d384cc9$ -->
+<!--Format:
+n  => name of the sprite
+x  => sprite x pos in texture
+y  => sprite y pos in texture
+w  => sprite width (may be trimmed)
+h  => sprite height (may be trimmed)
+pX => x pos of the pivot point (relative to sprite width)
+pY => y pos of the pivot point (relative to sprite height)
+oX => sprite's x-corner offset (only available if trimmed)
+oY => sprite's y-corner offset (only available if trimmed)
+oW => sprite's original width (only available if trimmed)
+oH => sprite's original height (only available if trimmed)
+r => 'y' only set if sprite is rotated
+with polygon mode enabled:
+vertices   => points in sprite coordinate system (x0,y0,x1,y1,x2,y2, ...)
+verticesUV => points in sheet coordinate system (x0,y0,x1,y1,x2,y2, ...)
+triangles  => sprite triangulation, 3 vertex indices per triangle
+-->
+<TextureAtlas imagePath="spr_ghost.png" width="228" height="1692">
+    <sprite n="spr_ghost_facing_0.png" x="0" y="0" w="114" h="94" pX="0.5" pY="0.5"/>
+    <sprite n="spr_ghost_facing_1.png" x="114" y="0" w="114" h="94" pX="0.5" pY="0.5"/>
+    <sprite n="spr_ghost_facing_2.png" x="0" y="94" w="114" h="94" pX="0.5" pY="0.5"/>
+    <sprite n="spr_ghost_facing_3.png" x="114" y="94" w="114" h="94" pX="0.5" pY="0.5"/>
+    <sprite n="spr_ghost_facing_4.png" x="0" y="188" w="114" h="94" pX="0.5" pY="0.5"/>
+    <sprite n="spr_ghost_facing_5.png" x="114" y="188" w="114" h="94" pX="0.5" pY="0.5"/>
+    <sprite n="spr_ghost_facing_6.png" x="0" y="282" w="114" h="94" pX="0.5" pY="0.5"/>
+    <sprite n="spr_ghost_facing_7.png" x="114" y="282" w="114" h="94" pX="0.5" pY="0.5"/>
+    <sprite n="spr_ghost_facing_8.png" x="0" y="376" w="114" h="94" pX="0.5" pY="0.5"/>
+    <sprite n="spr_ghost_facing_9.png" x="114" y="376" w="114" h="94" pX="0.5" pY="0.5"/>
+    <sprite n="spr_ghost_facing_10.png" x="0" y="470" w="114" h="94" pX="0.5" pY="0.5"/>
+    <sprite n="spr_ghost_facing_11.png" x="114" y="470" w="114" h="94" pX="0.5" pY="0.5"/>
+    <sprite n="spr_ghost_idle_0.png" x="0" y="564" w="114" h="94" pX="0.5" pY="0.5"/>
+    <sprite n="spr_ghost_idle_1.png" x="114" y="564" w="114" h="94" pX="0.5" pY="0.5"/>
+    <sprite n="spr_ghost_idle_2.png" x="0" y="658" w="114" h="94" pX="0.5" pY="0.5"/>
+    <sprite n="spr_ghost_idle_3.png" x="114" y="658" w="114" h="94" pX="0.5" pY="0.5"/>
+    <sprite n="spr_ghost_idle_4.png" x="0" y="752" w="114" h="94" pX="0.5" pY="0.5"/>
+    <sprite n="spr_ghost_idle_5.png" x="114" y="752" w="114" h="94" pX="0.5" pY="0.5"/>
+    <sprite n="spr_ghost_idle_6.png" x="0" y="846" w="114" h="94" pX="0.5" pY="0.5"/>
+    <sprite n="spr_ghost_idle_7.png" x="114" y="846" w="114" h="94" pX="0.5" pY="0.5"/>
+    <sprite n="spr_ghost_idle_8.png" x="0" y="940" w="114" h="94" pX="0.5" pY="0.5"/>
+    <sprite n="spr_ghost_idle_9.png" x="114" y="940" w="114" h="94" pX="0.5" pY="0.5"/>
+    <sprite n="spr_ghost_idle_10.png" x="0" y="1034" w="114" h="94" pX="0.5" pY="0.5"/>
+    <sprite n="spr_ghost_idle_11.png" x="114" y="1034" w="114" h="94" pX="0.5" pY="0.5"/>
+    <sprite n="spr_ghost_walking_0.png" x="0" y="1128" w="114" h="94" pX="0.5" pY="0.5"/>
+    <sprite n="spr_ghost_walking_1.png" x="114" y="1128" w="114" h="94" pX="0.5" pY="0.5"/>
+    <sprite n="spr_ghost_walking_2.png" x="0" y="1222" w="114" h="94" pX="0.5" pY="0.5"/>
+    <sprite n="spr_ghost_walking_3.png" x="114" y="1222" w="114" h="94" pX="0.5" pY="0.5"/>
+    <sprite n="spr_ghost_walking_4.png" x="0" y="1316" w="114" h="94" pX="0.5" pY="0.5"/>
+    <sprite n="spr_ghost_walking_5.png" x="114" y="1316" w="114" h="94" pX="0.5" pY="0.5"/>
+    <sprite n="spr_ghost_walking_6.png" x="0" y="1410" w="114" h="94" pX="0.5" pY="0.5"/>
+    <sprite n="spr_ghost_walking_7.png" x="114" y="1410" w="114" h="94" pX="0.5" pY="0.5"/>
+    <sprite n="spr_ghost_walking_8.png" x="0" y="1504" w="114" h="94" pX="0.5" pY="0.5"/>
+    <sprite n="spr_ghost_walking_9.png" x="114" y="1504" w="114" h="94" pX="0.5" pY="0.5"/>
+    <sprite n="spr_ghost_walking_10.png" x="0" y="1598" w="114" h="94" pX="0.5" pY="0.5"/>
+    <sprite n="spr_ghost_walking_11.png" x="114" y="1598" w="114" h="94" pX="0.5" pY="0.5"/>
+</TextureAtlas>

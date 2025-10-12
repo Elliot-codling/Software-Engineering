@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Created with TexturePacker http://www.codeandweb.com/texturepacker-->
+<!-- $TexturePacker:SmartUpdate:3faf9fd508d13647f2d2d0b7cb0c822d:63adf38ea95fb9c9903d269c76d4b792:3faf3d706caacb47987ed8098616f89b$ -->
+<!--Format:
+n  => name of the sprite
+x  => sprite x pos in texture
+y  => sprite y pos in texture
+w  => sprite width (may be trimmed)
+h  => sprite height (may be trimmed)
+pX => x pos of the pivot point (relative to sprite width)
+pY => y pos of the pivot point (relative to sprite height)
+oX => sprite's x-corner offset (only available if trimmed)
+oY => sprite's y-corner offset (only available if trimmed)
+oW => sprite's original width (only available if trimmed)
+oH => sprite's original height (only available if trimmed)
+r => 'y' only set if sprite is rotated
+with polygon mode enabled:
+vertices   => points in sprite coordinate system (x0,y0,x1,y1,x2,y2, ...)
+verticesUV => points in sheet coordinate system (x0,y0,x1,y1,x2,y2, ...)
+triangles  => sprite triangulation, 3 vertex indices per triangle
+-->
+<TextureAtlas imagePath="spr_sae.png" width="456" height="1504">
+    <sprite n="spr_sae_idleShop_0.png" x="0" y="0" w="114" h="94" pX="0.5" pY="0.5"/>
+    <sprite n="spr_sae_idleShop_1.png" x="114" y="0" w="114" h="94" pX="0.5" pY="0.5"/>
+    <sprite n="spr_sae_idleShop_2.png" x="228" y="0" w="114" h="94" pX="0.5" pY="0.5"/>
+    <sprite n="spr_sae_idleShop_3.png" x="342" y="0" w="114" h="94" pX="0.5" pY="0.5"/>
+    <sprite n="spr_sae_idleShop_4.png" x="0" y="94" w="114" h="94" pX="0.5" pY="0.5"/>
+    <sprite n="spr_sae_idleShop_5.png" x="114" y="94" w="114" h="94" pX="0.5" pY="0.5"/>
+    <sprite n="spr_sae_idleShop_6.png" x="228" y="94" w="114" h="94" pX="0.5" pY="0.5"/>
+    <sprite n="spr_sae_idleShop_7.png" x="342" y="94" w="114" h="94" pX="0.5" pY="0.5"/>
+    <sprite n="spr_sae_idleShop_8.png" x="0" y="188" w="114" h="94" pX="0.5" pY="0.5"/>
+    <sprite n="spr_sae_idleShop_9.png" x="114" y="188" w="114" h="94" pX="0.5" pY="0.5"/>
+    <sprite n="spr_sae_idleShop_10.png" x="228" y="188" w="114" h="94" pX="0.5" pY="0.5"/>
+    <sprite n="spr_sae_idleShop_11.png" x="342" y="188" w="114" h="94" pX="0.5" pY="0.5"/>
+    <sprite n="spr_sae_idleShop_12.png" x="0" y="282" w="114" h="94" pX="0.5" pY="0.5"/>
+    <sprite n="spr_sae_idleShop_13.png" x="114" y="282" w="114" h="94" pX="0.5" pY="0.5"/>
+    <sprite n="spr_sae_idleShop_14.png" x="228" y="282" w="114" h="94" pX="0.5" pY="0.5"/>
+    <sprite n="spr_sae_idleShop_15.png" x="342" y="282" w="114" h="94" pX="0.5" pY="0.5"/>
+    <sprite n="spr_sae_idleShop_16.png" x="0" y="376" w="114" h="94" pX="0.5" pY="0.5"/>
+    <sprite n="spr_sae_idleShop_17.png" x="114" y="376" w="114" h="94" pX="0.5" pY="0.5"/>
+    <sprite n="spr_sae_idleShop_18.png" x="228" y="376" w="114" h="94" pX="0.5" pY="0.5"/>
+    <sprite n="spr_sae_idleShop_19.png" x="342" y="376" w="114" h="94" pX="0.5" pY="0.5"/>
+    <sprite n="spr_sae_idleShop_20.png" x="0" y="470" w="114" h="94" pX="0.5" pY="0.5"/>
+    <sprite n="spr_sae_idleShop_21.png" x="114" y="470" w="114" h="94" pX="0.5" pY="0.5"/>
+    <sprite n="spr_sae_idleShop_22.png" x="228" y="470" w="114" h="94" pX="0.5" pY="0.5"/>
+    <sprite n="spr_sae_idleShop_23.png" x="342" y="470" w="114" h="94" pX="0.5" pY="0.5"/>
+    <sprite n="spr_sae_idleShop_24.png" x="0" y="564" w="114" h="94" pX="0.5" pY="0.5"/>
+    <sprite n="spr_sae_idleShop_25.png" x="114" y="564" w="114" h="94" pX="0.5" pY="0.5"/>
+    <sprite n="spr_sae_idleShop_26.png" x="228" y="564" w="114" h="94" pX="0.5" pY="0.5"/>
+    <sprite n="spr_sae_idleShop_27.png" x="342" y="564" w="114" h="94" pX="0.5" pY="0.5"/>
+    <sprite n="spr_sae_idleShop_28.png" x="0" y="658" w="114" h="94" pX="0.5" pY="0.5"/>
+    <sprite n="spr_sae_idleShop_29.png" x="114" y="658" w="114" h="94" pX="0.5" pY="0.5"/>
+    <sprite n="spr_sae_idleShop_30.png" x="228" y="658" w="114" h="94" pX="0.5" pY="0.5"/>
+    <sprite n="spr_sae_idleShop_31.png" x="342" y="658" w="114" h="94" pX="0.5" pY="0.5"/>
+    <sprite n="spr_sae_idleShop_32.png" x="0" y="752" w="114" h="94" pX="0.5" pY="0.5"/>
+    <sprite n="spr_sae_idleShop_33.png" x="114" y="752" w="114" h="94" pX="0.5" pY="0.5"/>
+    <sprite n="spr_sae_idleShop_34.png" x="228" y="752" w="114" h="94" pX="0.5" pY="0.5"/>
+    <sprite n="spr_sae_idleShop_35.png" x="342" y="752" w="114" h="94" pX="0.5" pY="0.5"/>
+    <sprite n="spr_sae_idleShop_36.png" x="0" y="846" w="114" h="94" pX="0.5" pY="0.5"/>
+    <sprite n="spr_sae_idleShop_37.png" x="114" y="846" w="114" h="94" pX="0.5" pY="0.5"/>
+    <sprite n="spr_sae_idleShop_38.png" x="228" y="846" w="114" h="94" pX="0.5" pY="0.5"/>
+    <sprite n="spr_sae_idleShop_39.png" x="342" y="846" w="114" h="94" pX="0.5" pY="0.5"/>
+    <sprite n="spr_sae_idleShop_40.png" x="0" y="940" w="114" h="94" pX="0.5" pY="0.5"/>
+    <sprite n="spr_sae_idleShop_41.png" x="114" y="940" w="114" h="94" pX="0.5" pY="0.5"/>
+    <sprite n="spr_sae_idleShop_42.png" x="228" y="940" w="114" h="94" pX="0.5" pY="0.5"/>
+    <sprite n="spr_sae_idleShop_43.png" x="342" y="940" w="114" h="94" pX="0.5" pY="0.5"/>
+    <sprite n="spr_sae_idleShop_44.png" x="0" y="1034" w="114" h="94" pX="0.5" pY="0.5"/>
+    <sprite n="spr_sae_idleShop_45.png" x="114" y="1034" w="114" h="94" pX="0.5" pY="0.5"/>
+    <sprite n="spr_sae_idleShop_46.png" x="228" y="1034" w="114" h="94" pX="0.5" pY="0.5"/>
+    <sprite n="spr_sae_idleShop_47.png" x="342" y="1034" w="114" h="94" pX="0.5" pY="0.5"/>
+    <sprite n="spr_sae_idleShop_48.png" x="0" y="1128" w="114" h="94" pX="0.5" pY="0.5"/>
+    <sprite n="spr_sae_idleShop_49.png" x="114" y="1128" w="114" h="94" pX="0.5" pY="0.5"/>
+    <sprite n="spr_sae_idleShop_50.png" x="228" y="1128" w="114" h="94" pX="0.5" pY="0.5"/>
+    <sprite n="spr_sae_idleShop_51.png" x="342" y="1128" w="114" h="94" pX="0.5" pY="0.5"/>
+    <sprite n="spr_sae_idleShop_52.png" x="0" y="1222" w="114" h="94" pX="0.5" pY="0.5"/>
+    <sprite n="spr_sae_idleShop_53.png" x="114" y="1222" w="114" h="94" pX="0.5" pY="0.5"/>
+    <sprite n="spr_sae_idleShop_54.png" x="228" y="1222" w="114" h="94" pX="0.5" pY="0.5"/>
+    <sprite n="spr_sae_idleShop_55.png" x="342" y="1222" w="114" h="94" pX="0.5" pY="0.5"/>
+    <sprite n="spr_sae_idleShop_56.png" x="0" y="1316" w="114" h="94" pX="0.5" pY="0.5"/>
+    <sprite n="spr_sae_idleShop_57.png" x="114" y="1316" w="114" h="94" pX="0.5" pY="0.5"/>
+    <sprite n="spr_sae_idleShop_58.png" x="228" y="1316" w="114" h="94" pX="0.5" pY="0.5"/>
+    <sprite n="spr_sae_idleShop_59.png" x="342" y="1316" w="114" h="94" pX="0.5" pY="0.5"/>
+    <sprite n="spr_sae_idleShop_60.png" x="0" y="1410" w="114" h="94" pX="0.5" pY="0.5"/>
+    <sprite n="spr_sae_idleShop_61.png" x="114" y="1410" w="114" h="94" pX="0.5" pY="0.5"/>
+    <sprite n="spr_sae_idleShop_62.png" x="228" y="1410" w="114" h="94" pX="0.5" pY="0.5"/>
+    <sprite n="spr_sae_idleShop_63.png" x="342" y="1410" w="114" h="94" pX="0.5" pY="0.5"/>
+</TextureAtlas>
