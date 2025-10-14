@@ -10,7 +10,6 @@ int main()
 	//Run the Game (Blocking Call)
 	game.Run();
 
-
 	//If we reach here, the game loop has executed
 	return 0;
 }
