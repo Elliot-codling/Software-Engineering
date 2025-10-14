@@ -157,6 +157,9 @@
     <ClCompile Include="Source\Game\GameObjects\GameObjectWithSprite.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="Source\Game\GameObjects\GameObjectWithAnimatedSprite.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="Source\Game\Game.h">
@@ -244,5 +247,6 @@
     <ClInclude Include="Source\Game\GameStates\GameStateTest.h" />
     <ClInclude Include="Source\Game\GameObjects\GameObjectWithText.h" />
     <ClInclude Include="Source\Game\GameObjects\GameObjectWithSprite.h" />
+    <ClInclude Include="Source\Game\GameObjects\GameObjectWithAnimatedSprite.h" />
   </ItemGroup>
 </Project>
