@@ -2,6 +2,8 @@
 
 #include <iostream>
 
+#include "../../Engine/Input/InputDevice.h"
+
 void GameObjectWithAnimatedSprite::Initialise()
 {
     
@@ -38,8 +40,7 @@ void GameObjectWithAnimatedSprite::Update()
     else
     {
         m_AnimatedSprite.scale(2 - scaleFactor, 2 - scaleFactor);
-    }
-    
+    }    
 }
 
 void GameObjectWithAnimatedSprite::GetPosition(float& px, float& py)

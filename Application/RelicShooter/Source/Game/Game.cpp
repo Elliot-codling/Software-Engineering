@@ -8,6 +8,7 @@
 #include "../Engine/System/Context/SysContextProvider.h"
 #include "../Engine/Input/InputDevice.h"
 #include "GameStates/GameStateTest.h"
+#include "Input/KeyboardAndMouseInputDevice.h"
 
 const int WINDOW_WIDTH = 1600;
 const int WINDOW_HEIGHT = 900;
@@ -58,7 +59,10 @@ void Game::Initialise()
 
 	//add a default game state
 	GameStateTest* tgamestate = new GameStateTest();
-	m_GameStateManager.QueueGameState(tgamestate);	
+	m_GameStateManager.QueueGameState(tgamestate);
+
+	KeyboardAndMouseInputDevice* inputDevice = new KeyboardAndMouseInputDevice();
+	m_InputManager.SetInputDevice(inputDevice);
 }
 
 void Game::Run()

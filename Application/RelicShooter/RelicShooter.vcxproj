@@ -47,6 +47,7 @@
     <ClCompile Include="Source\Engine\UI\Text.cpp" />
     <ClCompile Include="Source\Game\Game.cpp" />
     <ClCompile Include="Source\Game\GameData\GameDataManager.cpp" />
+    <ClCompile Include="Source\Game\Input\KeyboardAndMouseInputDevice.cpp" />
     <ClCompile Include="Source\Main.cpp" />
   </ItemGroup>
   <ItemGroup>
@@ -82,6 +83,7 @@
     <ClInclude Include="Source\Game\Game.h" />
     <ClInclude Include="Source\Game\GameData\GameDataManager.h" />
     <ClInclude Include="Source\Game\GameData\SpritesheetDef.h" />
+    <ClInclude Include="Source\Game\Input\KeyboardAndMouseInputDevice.h" />
   </ItemGroup>
   <PropertyGroup Label="Globals">
     <VCProjectVersion>15.0</VCProjectVersion>
