@@ -1,0 +1,310 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project DefaultTargets="Build" ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup Label="ProjectConfigurations">
+    <ProjectConfiguration Include="Debug|Win32">
+      <Configuration>Debug</Configuration>
+      <Platform>Win32</Platform>
+    </ProjectConfiguration>
+    <ProjectConfiguration Include="Release|Win32">
+      <Configuration>Release</Configuration>
+      <Platform>Win32</Platform>
+    </ProjectConfiguration>
+    <ProjectConfiguration Include="Debug|x64">
+      <Configuration>Debug</Configuration>
+      <Platform>x64</Platform>
+    </ProjectConfiguration>
+    <ProjectConfiguration Include="Release|x64">
+      <Configuration>Release</Configuration>
+      <Platform>x64</Platform>
+    </ProjectConfiguration>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="Source\Game\GameObjects\UI\HUD\GameEndScreenUIComponent.cpp" />
+    <ClCompile Include="Source\Game\GameObjects\Player\RayCastLine.cpp" />
+    <ClCompile Include="Source\Game\GameData\EnemyWave.cpp" />
+    <ClCompile Include="Source\Game\GameObjects\Weapons\EnemyWeapons\EnemyBullet.cpp" />
+    <ClCompile Include="Source\Game\GameObjects\Weapons\EnemyWeapons\EnemyPistol.cpp" />
+    <ClCompile Include="Source\Game\GameObjects\Weapons\EnemyWeapons\EnemyShotgun.cpp" />
+    <ClCompile Include="Source\Game\GameObjects\Weapons\EnemyWeapons\EnemyBaseWeapon.cpp" />
+    <ClCompile Include="Source\Game\Handlers\GameEndHandler.cpp" />
+    <ClCompile Include="Source\Game\GameData\level.cpp" />
+    <ClCompile Include="Source\Game\GameObjects\UI\EffectOverlay.cpp" />
+    <ClCompile Include="Source\Game\GameObjects\UI\HUD\PointsUIComponent.cpp" />
+    <ClCompile Include="Source\Game\GameObjects\UI\HUD\HealthUIComponent.cpp" />
+    <ClCompile Include="Source\Game\GameObjects\UI\HUD\UIElement.cpp" />
+    <ClCompile Include="Source\Game\GameObjects\UI\ReloadCharacter.cpp" />
+    <ClCompile Include="Source\Game\GameObjects\Collectables\AmmoCollectible.cpp" />
+    <ClCompile Include="Source\Game\GameObjects\Collectables\HealthCollectible.cpp" />
+    <ClCompile Include="Source\Game\GameObjects\Collectables\Item.cpp" />
+    <ClCompile Include="Source\Game\GameObjects\Factories\ItemFactory.cpp" />
+    <ClCompile Include="Source\Game\GameObjects\Enemies\Kamikaze.cpp" />
+    <ClCompile Include="Source\Game\GameObjects\Enemies\Shooter.cpp" />
+    <ClCompile Include="Source\Game\GameObjects\Enemies\Enemy.cpp" />
+    <ClCompile Include="Source\Game\GameObjects\Weapons\Rifle.cpp" />
+    <ClCompile Include="Source\Game\GameObjects\Weapons\Shotgun.cpp" />
+    <ClCompile Include="Source\Game\GameObjects\Weapons\Bullet.cpp" />
+    <ClCompile Include="Source\Game\GameStates\GameStateLevel1.cpp" />
+    <ClCompile Include="Source\Game\Layers\LayerManager.cpp" />
+    <ClCompile Include="Source\Game\GameObjects\UI\Crosshair.cpp" />
+    <ClCompile Include="Source\Game\Input\GamePad.cpp" />
+    <ClCompile Include="Source\Game\Input\ControllerInputDevice.cpp" />
+    <ClCompile Include="Source\Game\GameObjects\Weapons\BaseWeapon.cpp" />
+    <ClCompile Include="Source\Game\GameStates\GameplayState.cpp" />
+    <ClCompile Include="Source\Game\GameObjects\Obstacles\Obstacle.cpp" />
+    <ClCompile Include="Source\Game\Input\InputWrapper.cpp" />
+    <ClCompile Include="Source\Game\Layers\Layer.cpp" />
+    <ClCompile Include="Source\Game\GameObjects\Player\Player.cpp" />
+    <ClCompile Include="Source\Game\GameObjects\UI\Button.cpp" />
+    <ClCompile Include="Source\Game\GameStates\MainMenuState.cpp" />
+    <ClCompile Include="Source\Game\GameObjects\BaseGameObjects\GameObjectWithAnimatedSprite.cpp" />
+    <ClCompile Include="Source\Game\GameObjects\BaseGameObjects\GameObjectWithSprite.cpp" />
+    <ClCompile Include="Source\Game\GameObjects\BaseGameObjects\GameObjectWithText.cpp" />
+    <ClCompile Include="Source\Game\GameStates\GameStateTest.cpp" />
+    <ClCompile Include="Source\Engine\Audio\Audio.cpp" />
+    <ClCompile Include="Source\Engine\Audio\AudioManager.cpp" />
+    <ClCompile Include="Source\Engine\Audio\SoundEffect.cpp" />
+    <ClCompile Include="Source\Engine\Audio\StreamedAudio.cpp" />
+    <ClCompile Include="Source\Engine\Core\Types.cpp" />
+    <ClCompile Include="Source\Engine\Input\InputManager.cpp" />
+    <ClCompile Include="Source\Engine\Physics\BoxCollider2D.cpp" />
+    <ClCompile Include="Source\Engine\Physics\CircleCollider2D.cpp" />
+    <ClCompile Include="Source\Engine\Physics\Collider2D.cpp" />
+    <ClCompile Include="Source\Engine\Renderer\AnimatedSprite.cpp" />
+    <ClCompile Include="Source\Engine\Renderer\FrameTimer.cpp" />
+    <ClCompile Include="Source\Engine\Renderer\RenderManager.cpp" />
+    <ClCompile Include="Source\Engine\Renderer\Sprite.cpp" />
+    <ClCompile Include="Source\Engine\Renderer\WindowManager.cpp" />
+    <ClCompile Include="Source\Engine\System\Animation\AnimationStateMachine.cpp" />
+    <ClCompile Include="Source\Engine\System\Assets\AssetManager.cpp" />
+    <ClCompile Include="Source\Engine\System\Context\ContextProvider.cpp" />
+    <ClCompile Include="Source\Engine\System\Context\SysContextProvider.cpp" />
+    <ClCompile Include="Source\Engine\System\GameState\GameState.cpp" />
+    <ClCompile Include="Source\Engine\System\GameState\GameStateManager.cpp" />
+    <ClCompile Include="Source\Engine\UI\Text.cpp" />
+    <ClCompile Include="Source\Game\Game.cpp" />
+    <ClCompile Include="Source\Game\GameData\GameDataManager.cpp" />
+    <ClCompile Include="Source\Game\Input\KeyboardAndMouseInputDevice.cpp" />
+    <ClCompile Include="Source\Game\GameStates\GameStateLevel2.cpp" />
+    <ClCompile Include="Source\Main.cpp" />
+    <ClCompile Include="Source\Game\GameObjects\Enemies\Walker.cpp" />
+    <ClCompile Include="Source\Game\GameObjects\UI\ScrollableBackground.cpp" />
+    <ClCompile Include="Source\Game\GameData\TileMap.cpp" />
+    <ClCompile Include="Source\Game\GameObjects\Collectables\SpeedCollectible.cpp" />
+    <ClCompile Include="Source\Game\GameObjects\UI\HUD\UIManager.cpp" />
+    <ClCompile Include="Source\Game\GameObjects\UI\HUD\StaminaUIComponent.cpp" />
+    <ClCompile Include="Source\Game\GameObjects\UI\HUD\WeaponUIComponent.cpp" />
+    <ClCompile Include="Source\Game\GameObjects\UI\HUD\WaveUIComponent.cpp" />
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="Source\Game\GameObjects\UI\HUD\GameEndScreenUIComponent.h" />
+    <ClInclude Include="Source\Game\GameObjects\Player\RayCastLine.h" />
+    <ClInclude Include="Source\Game\GameData\EnemyWave.h" />
+    <ClInclude Include="Source\Game\GameObjects\Weapons\EnemyWeapons\EnemyBullet.h" />
+    <ClInclude Include="Source\Game\GameObjects\Weapons\EnemyWeapons\EnemyPistol.h" />
+    <ClInclude Include="Source\Game\GameObjects\Weapons\EnemyWeapons\EnemyShotgun.h" />
+    <ClInclude Include="Source\Game\GameObjects\Weapons\EnemyWeapons\EnemyBaseWeapon.h" />
+    <ClInclude Include="Source\Game\Handlers\GameEndHandler.h" />
+    <ClInclude Include="Source\Game\GameData\level.h" />
+    <ClInclude Include="Source\Game\GameObjects\UI\EffectOverlay.h" />
+    <ClInclude Include="Source\Game\GameObjects\UI\HUD\PointsUIComponent.h" />
+    <ClInclude Include="Source\Game\GameObjects\UI\HUD\HealthUIComponent.h" />
+    <ClInclude Include="Source\Game\GameObjects\UI\HUD\UIElement.h" />
+    <ClInclude Include="Source\Game\GameObjects\UI\ReloadCharacter.h" />
+    <ClInclude Include="Source\Game\GameObjects\Collectables\AmmoCollectible.h" />
+    <ClInclude Include="Source\Game\GameObjects\Collectables\HealthCollectible.h" />
+    <ClInclude Include="Source\Game\GameObjects\Collectables\Item.h" />
+    <ClInclude Include="Source\Game\GameObjects\Factories\ItemFactory.h" />
+    <ClInclude Include="Source\Game\GameObjects\Enemies\Kamikaze.h" />
+    <ClInclude Include="Source\Game\GameObjects\Enemies\Shooter.h" />
+    <ClInclude Include="Source\Game\GameObjects\Enemies\Enemy.h" />
+    <ClInclude Include="Source\Game\GameObjects\Weapons\Rifle.h" />
+    <ClInclude Include="Source\Game\GameObjects\Weapons\Shotgun.h" />
+    <ClInclude Include="Source\Game\GameObjects\Weapons\Bullet.h" />
+    <ClInclude Include="Source\Game\GameStates\GameStateLevel1.h" />
+    <ClInclude Include="Source\Game\GameStates\GameStateLevel2.h" />
+    <ClInclude Include="Source\Game\Layers\LayerManager.h" />
+    <ClInclude Include="Source\Game\GameObjects\UI\Crosshair.h" />
+    <ClInclude Include="Source\Game\Input\GamePadManager.h" />
+    <ClInclude Include="Source\Game\Input\GamePad.h" />
+    <ClInclude Include="Source\Game\Input\ControllerInputDevice.h" />
+    <ClInclude Include="Source\Game\GameObjects\Weapons\BaseWeapon.h" />
+    <ClInclude Include="Source\Game\GameStates\GameplayState.h" />
+    <ClInclude Include="Source\Game\GameObjects\Obstacles\Obstacle.h" />
+    <ClInclude Include="Source\Game\Input\InputWrapper.h" />
+    <ClInclude Include="Source\Game\Layers\Layer.h" />
+    <ClInclude Include="Source\Game\GameObjects\Player\Player.h" />
+    <ClInclude Include="Source\Game\GameObjects\UI\Button.h" />
+    <ClInclude Include="Source\Game\DebugHandler.hpp" />
+    <ClInclude Include="Source\Game\GameStates\MainMenuState.h" />
+    <ClInclude Include="Source\Game\GameObjects\BaseGameObjects\GameObjectWithAnimatedSprite.h" />
+    <ClInclude Include="Source\Game\GameObjects\BaseGameObjects\GameObjectWithSprite.h" />
+    <ClInclude Include="Source\Game\GameObjects\BaseGameObjects\GameObjectWithText.h" />
+    <ClInclude Include="Source\Game\GameStates\GameStateTest.h" />
+    <ClInclude Include="Source\Engine\Audio\Audio.h" />
+    <ClInclude Include="Source\Engine\Audio\AudioManager.h" />
+    <ClInclude Include="Source\Engine\Audio\SoundEffect.h" />
+    <ClInclude Include="Source\Engine\Audio\StreamedAudio.h" />
+    <ClInclude Include="Source\Engine\Core\GameObject.h" />
+    <ClInclude Include="Source\Engine\Core\MathHelpers.h" />
+    <ClInclude Include="Source\Engine\Core\Types.h" />
+    <ClInclude Include="Source\Engine\Input\InputDevice.h" />
+    <ClInclude Include="Source\Engine\Input\InputManager.h" />
+    <ClInclude Include="Source\Engine\Physics\BoxCollider2D.h" />
+    <ClInclude Include="Source\Engine\Physics\CircleCollider2D.h" />
+    <ClInclude Include="Source\Engine\Physics\Collider2D.h" />
+    <ClInclude Include="Source\Engine\Renderer\AnimatedSprite.h" />
+    <ClInclude Include="Source\Engine\Renderer\FrameTimer.h" />
+    <ClInclude Include="Source\Engine\Renderer\RenderManager.h" />
+    <ClInclude Include="Source\Engine\Renderer\Sprite.h" />
+    <ClInclude Include="Source\Engine\Renderer\WindowManager.h" />
+    <ClInclude Include="Source\Engine\System\Animation\AnimationStateMachine.h" />
+    <ClInclude Include="Source\Engine\System\Assets\AssetManager.h" />
+    <ClInclude Include="Source\Engine\System\Context\ContextProvider.h" />
+    <ClInclude Include="Source\Engine\System\Context\SysContextProvider.h" />
+    <ClInclude Include="Source\Engine\System\GameState\GameState.h" />
+    <ClInclude Include="Source\Engine\System\GameState\GameStateManager.h" />
+    <ClInclude Include="Source\Engine\UI\Text.h" />
+    <ClInclude Include="Source\Engine\Utils\Utils.h" />
+    <ClInclude Include="Source\Game\Game.h" />
+    <ClInclude Include="Source\Game\GameData\GameDataManager.h" />
+    <ClInclude Include="Source\Game\GameData\SpritesheetDef.h" />
+    <ClInclude Include="Source\Game\Input\KeyboardAndMouseInputDevice.h" />
+    <ClInclude Include="Source\Game\GameObjects\Enemies\Walker.h" />
+    <ClInclude Include="Source\Game\GameObjects\UI\ScrollableBackground.h" />
+    <ClInclude Include="Source\Game\GameData\TileMap.h" />
+    <ClInclude Include="Source\Game\GameObjects\Collectables\SpeedCollectible.h" />
+    <ClInclude Include="Source\Game\GameObjects\UI\HUD\UIManager.h" />
+    <ClInclude Include="Source\Game\GameObjects\UI\HUD\StaminaUIComponent.h" />
+    <ClInclude Include="Source\Game\GameObjects\UI\HUD\WeaponUIComponent.h" />
+    <ClInclude Include="Source\Game\GameObjects\UI\HUD\WaveUIComponent.h" />
+  </ItemGroup>
+  <PropertyGroup Label="Globals">
+    <VCProjectVersion>15.0</VCProjectVersion>
+    <ProjectGuid>{7C601BBC-E127-4D99-B9FE-E7A63A16EC18}</ProjectGuid>
+    <RootNamespace>Project5110</RootNamespace>
+    <WindowsTargetPlatformVersion>10.0.19041.0</WindowsTargetPlatformVersion>
+  </PropertyGroup>
+  <Import Project="$(VCTargetsPath)\Microsoft.Cpp.Default.props" />
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'" Label="Configuration">
+    <ConfigurationType>Application</ConfigurationType>
+    <UseDebugLibraries>true</UseDebugLibraries>
+    <PlatformToolset>v143</PlatformToolset>
+    <CharacterSet>MultiByte</CharacterSet>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Release|Win32'" Label="Configuration">
+    <ConfigurationType>Application</ConfigurationType>
+    <UseDebugLibraries>false</UseDebugLibraries>
+    <PlatformToolset>v143</PlatformToolset>
+    <WholeProgramOptimization>true</WholeProgramOptimization>
+    <CharacterSet>MultiByte</CharacterSet>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|x64'" Label="Configuration">
+    <ConfigurationType>Application</ConfigurationType>
+    <UseDebugLibraries>true</UseDebugLibraries>
+    <PlatformToolset>v143</PlatformToolset>
+    <CharacterSet>MultiByte</CharacterSet>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Release|x64'" Label="Configuration">
+    <ConfigurationType>Application</ConfigurationType>
+    <UseDebugLibraries>false</UseDebugLibraries>
+    <PlatformToolset>v143</PlatformToolset>
+    <WholeProgramOptimization>true</WholeProgramOptimization>
+    <CharacterSet>MultiByte</CharacterSet>
+  </PropertyGroup>
+  <Import Project="$(VCTargetsPath)\Microsoft.Cpp.props" />
+  <ImportGroup Label="ExtensionSettings">
+  </ImportGroup>
+  <ImportGroup Label="Shared">
+  </ImportGroup>
+  <ImportGroup Label="PropertySheets" Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">
+    <Import Project="$(UserRootDir)\Microsoft.Cpp.$(Platform).user.props" Condition="exists('$(UserRootDir)\Microsoft.Cpp.$(Platform).user.props')" Label="LocalAppDataPlatform" />
+  </ImportGroup>
+  <ImportGroup Label="PropertySheets" Condition="'$(Configuration)|$(Platform)'=='Release|Win32'">
+    <Import Project="$(UserRootDir)\Microsoft.Cpp.$(Platform).user.props" Condition="exists('$(UserRootDir)\Microsoft.Cpp.$(Platform).user.props')" Label="LocalAppDataPlatform" />
+  </ImportGroup>
+  <ImportGroup Label="PropertySheets" Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">
+    <Import Project="$(UserRootDir)\Microsoft.Cpp.$(Platform).user.props" Condition="exists('$(UserRootDir)\Microsoft.Cpp.$(Platform).user.props')" Label="LocalAppDataPlatform" />
+  </ImportGroup>
+  <ImportGroup Label="PropertySheets" Condition="'$(Configuration)|$(Platform)'=='Release|x64'">
+    <Import Project="$(UserRootDir)\Microsoft.Cpp.$(Platform).user.props" Condition="exists('$(UserRootDir)\Microsoft.Cpp.$(Platform).user.props')" Label="LocalAppDataPlatform" />
+  </ImportGroup>
+  <PropertyGroup Label="UserMacros" />
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">
+    <IncludePath>../../Libraries/tinyxml2;../../Libraries/SFML-2.5.1/include</IncludePath>
+    <LibraryPath>../../Libraries/SFML-2.5.1/lib;../../Libraries/tinyxml2/lib;$(LibraryPath)</LibraryPath>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Release|Win32'">
+    <IncludePath>../../Libraries/tinyxml2;../../Libraries/SFML-2.5.1/include</IncludePath>
+    <LibraryPath>../../Libraries/SFML-2.5.1/lib;../../Libraries/tinyxml2/lib;$(LibraryPath)</LibraryPath>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">
+    <IncludePath>../../Libraries/tinyxml2;../../Libraries/SFML-2.5.1_x64/include</IncludePath>
+    <LibraryPath>../../Libraries/tinyxml2/lib;../../Libraries/SFML-2.5.1_x64/lib;$(LibraryPath)</LibraryPath>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Release|x64'">
+    <IncludePath>../../Libraries/tinyxml2/include;../../Libraries/SFML-2.5.1_x64/include</IncludePath>
+  </PropertyGroup>
+  <ItemDefinitionGroup Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">
+    <ClCompile>
+      <WarningLevel>Level3</WarningLevel>
+      <Optimization>Disabled</Optimization>
+      <SDLCheck>true</SDLCheck>
+      <AdditionalIncludeDirectories>
+      </AdditionalIncludeDirectories>
+      <PreprocessorDefinitions>_CRT_SECURE_NO_WARNINGS;%(PreprocessorDefinitions)</PreprocessorDefinitions>
+      <MultiProcessorCompilation>true</MultiProcessorCompilation>
+    </ClCompile>
+    <Link>
+      <AdditionalLibraryDirectories>
+      </AdditionalLibraryDirectories>
+      <AdditionalDependencies>tinyxml2-d.lib;sfml-graphics-d.lib;sfml-window-d.lib;sfml-system-d.lib;sfml-audio-d.lib;xinput.lib;%(AdditionalDependencies)</AdditionalDependencies>
+    </Link>
+  </ItemDefinitionGroup>
+  <ItemDefinitionGroup Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">
+    <ClCompile>
+      <WarningLevel>Level3</WarningLevel>
+      <Optimization>Disabled</Optimization>
+      <SDLCheck>true</SDLCheck>
+    </ClCompile>
+    <Link>
+      <AdditionalDependencies>tinyxml2-d_x64.lib;sfml-graphics-d.lib;sfml-window-d.lib;sfml-system-d.lib;sfml-audio-d.lib;%(AdditionalDependencies)</AdditionalDependencies>
+    </Link>
+  </ItemDefinitionGroup>
+  <ItemDefinitionGroup Condition="'$(Configuration)|$(Platform)'=='Release|Win32'">
+    <ClCompile>
+      <WarningLevel>Level3</WarningLevel>
+      <Optimization>MaxSpeed</Optimization>
+      <FunctionLevelLinking>true</FunctionLevelLinking>
+      <IntrinsicFunctions>true</IntrinsicFunctions>
+      <SDLCheck>true</SDLCheck>
+      <AdditionalIncludeDirectories>
+      </AdditionalIncludeDirectories>
+      <PreprocessorDefinitions>_CRT_SECURE_NO_WARNINGS;%(PreprocessorDefinitions)</PreprocessorDefinitions>
+      <WholeProgramOptimization>false</WholeProgramOptimization>
+      <MultiProcessorCompilation>true</MultiProcessorCompilation>
+    </ClCompile>
+    <Link>
+      <EnableCOMDATFolding>true</EnableCOMDATFolding>
+      <OptimizeReferences>true</OptimizeReferences>
+      <AdditionalLibraryDirectories>
+      </AdditionalLibraryDirectories>
+      <AdditionalDependencies>tinyxml2.lib;sfml-graphics.lib;sfml-window.lib;sfml-system.lib;sfml-audio.lib;xinput.lib;%(AdditionalDependencies)</AdditionalDependencies>
+    </Link>
+  </ItemDefinitionGroup>
+  <ItemDefinitionGroup Condition="'$(Configuration)|$(Platform)'=='Release|x64'">
+    <ClCompile>
+      <WarningLevel>Level3</WarningLevel>
+      <Optimization>MaxSpeed</Optimization>
+      <FunctionLevelLinking>true</FunctionLevelLinking>
+      <IntrinsicFunctions>true</IntrinsicFunctions>
+      <SDLCheck>true</SDLCheck>
+    </ClCompile>
+    <Link>
+      <EnableCOMDATFolding>true</EnableCOMDATFolding>
+      <OptimizeReferences>true</OptimizeReferences>
+    </Link>
+  </ItemDefinitionGroup>
+  <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
+  <ImportGroup Label="ExtensionTargets">
+  </ImportGroup>
+</Project>

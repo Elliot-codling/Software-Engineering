@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Created with TexturePacker http://www.codeandweb.com/texturepacker-->
+<!-- $TexturePacker:SmartUpdate:27c26452537383b7fabb36f834917843:aea5e3404779096df6fae5688444a050:29dee3b5149302f374253fee29d134bf$ -->
+<!--Format:
+n  => name of the sprite
+x  => sprite x pos in texture
+y  => sprite y pos in texture
+w  => sprite width (may be trimmed)
+h  => sprite height (may be trimmed)
+pX => x pos of the pivot point (relative to sprite width)
+pY => y pos of the pivot point (relative to sprite height)
+oX => sprite's x-corner offset (only available if trimmed)
+oY => sprite's y-corner offset (only available if trimmed)
+oW => sprite's original width (only available if trimmed)
+oH => sprite's original height (only available if trimmed)
+r => 'y' only set if sprite is rotated
+with polygon mode enabled:
+vertices   => points in sprite coordinate system (x0,y0,x1,y1,x2,y2, ...)
+verticesUV => points in sheet coordinate system (x0,y0,x1,y1,x2,y2, ...)
+triangles  => sprite triangulation, 3 vertex indices per triangle
+-->
+<TextureAtlas imagePath="spr_duck.png" width="1938" height="376">
+    <sprite n="spr_duck_dash_0.png" x="0" y="0" w="114" h="94" pX="0.5" pY="0.5"/>
+    <sprite n="spr_duck_dash_1.png" x="114" y="0" w="114" h="94" pX="0.5" pY="0.5"/>
+    <sprite n="spr_duck_dash_fx_0.png" x="228" y="0" w="114" h="94" pX="0.5" pY="0.5"/>
+    <sprite n="spr_duck_death2_0.png" x="342" y="0" w="114" h="94" pX="0.5" pY="0.5"/>
+    <sprite n="spr_duck_death2_1.png" x="456" y="0" w="114" h="94" pX="0.5" pY="0.5"/>
+    <sprite n="spr_duck_death2_2.png" x="570" y="0" w="114" h="94" pX="0.5" pY="0.5"/>
+    <sprite n="spr_duck_death2_3.png" x="684" y="0" w="114" h="94" pX="0.5" pY="0.5"/>
+    <sprite n="spr_duck_death2_4.png" x="798" y="0" w="114" h="94" pX="0.5" pY="0.5"/>
+    <sprite n="spr_duck_death2_5.png" x="912" y="0" w="114" h="94" pX="0.5" pY="0.5"/>
+    <sprite n="spr_duck_death2_6.png" x="1026" y="0" w="114" h="94" pX="0.5" pY="0.5"/>
+    <sprite n="spr_duck_death2_7.png" x="1140" y="0" w="114" h="94" pX="0.5" pY="0.5"/>
+    <sprite n="spr_duck_death2_8.png" x="1254" y="0" w="114" h="94" pX="0.5" pY="0.5"/>
+    <sprite n="spr_duck_death2_9.png" x="1368" y="0" w="114" h="94" pX="0.5" pY="0.5"/>
+    <sprite n="spr_duck_death2_10.png" x="1482" y="0" w="114" h="94" pX="0.5" pY="0.5"/>
+    <sprite n="spr_duck_death3_0.png" x="1596" y="0" w="114" h="94" pX="0.5" pY="0.5"/>
+    <sprite n="spr_duck_death3_1.png" x="1710" y="0" w="114" h="94" pX="0.5" pY="0.5"/>
+    <sprite n="spr_duck_death3_2.png" x="1824" y="0" w="114" h="94" pX="0.5" pY="0.5"/>
+    <sprite n="spr_duck_death3_3.png" x="0" y="94" w="114" h="94" pX="0.5" pY="0.5"/>
+    <sprite n="spr_duck_death3_4.png" x="114" y="94" w="114" h="94" pX="0.5" pY="0.5"/>
+    <sprite n="spr_duck_death3_5.png" x="228" y="94" w="114" h="94" pX="0.5" pY="0.5"/>
+    <sprite n="spr_duck_death3_6.png" x="342" y="94" w="114" h="94" pX="0.5" pY="0.5"/>
+    <sprite n="spr_duck_death3_7.png" x="456" y="94" w="114" h="94" pX="0.5" pY="0.5"/>
+    <sprite n="spr_duck_death3_8.png" x="570" y="94" w="114" h="94" pX="0.5" pY="0.5"/>
+    <sprite n="spr_duck_death3_9.png" x="684" y="94" w="114" h="94" pX="0.5" pY="0.5"/>
+    <sprite n="spr_duck_death3_10.png" x="798" y="94" w="114" h="94" pX="0.5" pY="0.5"/>
+    <sprite n="spr_duck_death_0.png" x="912" y="94" w="114" h="94" pX="0.5" pY="0.5"/>
+    <sprite n="spr_duck_death_1.png" x="1026" y="94" w="114" h="94" pX="0.5" pY="0.5"/>
+    <sprite n="spr_duck_death_2.png" x="1140" y="94" w="114" h="94" pX="0.5" pY="0.5"/>
+    <sprite n="spr_duck_death_3.png" x="1254" y="94" w="114" h="94" pX="0.5" pY="0.5"/>
+    <sprite n="spr_duck_death_4.png" x="1368" y="94" w="114" h="94" pX="0.5" pY="0.5"/>
+    <sprite n="spr_duck_death_5.png" x="1482" y="94" w="114" h="94" pX="0.5" pY="0.5"/>
+    <sprite n="spr_duck_death_6.png" x="1596" y="94" w="114" h="94" pX="0.5" pY="0.5"/>
+    <sprite n="spr_duck_death_7.png" x="1710" y="94" w="114" h="94" pX="0.5" pY="0.5"/>
+    <sprite n="spr_duck_death_8.png" x="1824" y="94" w="114" h="94" pX="0.5" pY="0.5"/>
+    <sprite n="spr_duck_death_9.png" x="0" y="188" w="114" h="94" pX="0.5" pY="0.5"/>
+    <sprite n="spr_duck_death_10.png" x="114" y="188" w="114" h="94" pX="0.5" pY="0.5"/>
+    <sprite n="spr_duck_death_11.png" x="228" y="188" w="114" h="94" pX="0.5" pY="0.5"/>
+    <sprite n="spr_duck_death_precision_0.png" x="342" y="188" w="114" h="94" pX="0.5" pY="0.5"/>
+    <sprite n="spr_duck_death_precision_1.png" x="456" y="188" w="114" h="94" pX="0.5" pY="0.5"/>
+    <sprite n="spr_duck_death_precision_2.png" x="570" y="188" w="114" h="94" pX="0.5" pY="0.5"/>
+    <sprite n="spr_duck_death_precision_3.png" x="684" y="188" w="114" h="94" pX="0.5" pY="0.5"/>
+    <sprite n="spr_duck_death_precision_4.png" x="798" y="188" w="114" h="94" pX="0.5" pY="0.5"/>
+    <sprite n="spr_duck_death_precision_5.png" x="912" y="188" w="114" h="94" pX="0.5" pY="0.5"/>
+    <sprite n="spr_duck_death_precision_6.png" x="1026" y="188" w="114" h="94" pX="0.5" pY="0.5"/>
+    <sprite n="spr_duck_death_precision_7.png" x="1140" y="188" w="114" h="94" pX="0.5" pY="0.5"/>
+    <sprite n="spr_duck_hit_0.png" x="1254" y="188" w="114" h="94" pX="0.5" pY="0.5"/>
+    <sprite n="spr_duck_hit_1.png" x="1368" y="188" w="114" h="94" pX="0.5" pY="0.5"/>
+    <sprite n="spr_duck_idle_0.png" x="1482" y="188" w="114" h="94" pX="0.5" pY="0.5"/>
+    <sprite n="spr_duck_idle_1.png" x="1596" y="188" w="114" h="94" pX="0.5" pY="0.5"/>
+    <sprite n="spr_duck_idle_2.png" x="1710" y="188" w="114" h="94" pX="0.5" pY="0.5"/>
+    <sprite n="spr_duck_idle_3.png" x="1824" y="188" w="114" h="94" pX="0.5" pY="0.5"/>
+    <sprite n="spr_duck_idle_4.png" x="0" y="282" w="114" h="94" pX="0.5" pY="0.5"/>
+    <sprite n="spr_duck_idle_5.png" x="114" y="282" w="114" h="94" pX="0.5" pY="0.5"/>
+    <sprite n="spr_duck_idle_6.png" x="228" y="282" w="114" h="94" pX="0.5" pY="0.5"/>
+    <sprite n="spr_duck_walk_0.png" x="342" y="282" w="114" h="94" pX="0.5" pY="0.5"/>
+    <sprite n="spr_duck_walk_1.png" x="456" y="282" w="114" h="94" pX="0.5" pY="0.5"/>
+    <sprite n="spr_duck_walk_2.png" x="570" y="282" w="114" h="94" pX="0.5" pY="0.5"/>
+    <sprite n="spr_duck_walk_3.png" x="684" y="282" w="114" h="94" pX="0.5" pY="0.5"/>
+    <sprite n="spr_duck_walk_4.png" x="798" y="282" w="114" h="94" pX="0.5" pY="0.5"/>
+    <sprite n="spr_duck_walk_5.png" x="912" y="282" w="114" h="94" pX="0.5" pY="0.5"/>
+    <sprite n="spr_duck_walk_6.png" x="1026" y="282" w="114" h="94" pX="0.5" pY="0.5"/>
+    <sprite n="spr_duck_walk_7.png" x="1140" y="282" w="114" h="94" pX="0.5" pY="0.5"/>
+    <sprite n="spr_duck_walk_8.png" x="1254" y="282" w="114" h="94" pX="0.5" pY="0.5"/>
+    <sprite n="spr_duck_walk_9.png" x="1368" y="282" w="114" h="94" pX="0.5" pY="0.5"/>
+    <sprite n="spr_duck_walk_10.png" x="1482" y="282" w="114" h="94" pX="0.5" pY="0.5"/>
+    <sprite n="spr_duck_walk_11.png" x="1596" y="282" w="114" h="94" pX="0.5" pY="0.5"/>
+    <sprite n="spr_duck_walk_12.png" x="1710" y="282" w="114" h="94" pX="0.5" pY="0.5"/>
+    <sprite n="spr_duck_weakspot_0.png" x="1824" y="282" w="114" h="94" pX="0.5" pY="0.5"/>
+</TextureAtlas>

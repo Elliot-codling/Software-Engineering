@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Created with TexturePacker https://www.codeandweb.com/texturepacker -->
+<!-- $TexturePacker:SmartUpdate:2c6695f8204e1e453344f0b83a860b1d:129ffae757d6eb0e6cb787c523a545e9:4f5581da215fc9c05f5c3fbe9ad1ce70$ -->
+<!--Format:
+n  => name of the sprite
+x  => sprite x pos in texture
+y  => sprite y pos in texture
+w  => sprite width (may be trimmed)
+h  => sprite height (may be trimmed)
+pX => x pos of the pivot point (relative to sprite width)
+pY => y pos of the pivot point (relative to sprite height)
+oX => sprite's x-corner offset (only available if trimmed)
+oY => sprite's y-corner offset (only available if trimmed)
+oW => sprite's original width (only available if trimmed)
+oH => sprite's original height (only available if trimmed)
+r => 'y' only set if sprite is rotated
+with polygon mode enabled:
+vertices   => points in sprite coordinate system (x0,y0,x1,y1,x2,y2, ...)
+verticesUV => points in sheet coordinate system (x0,y0,x1,y1,x2,y2, ...)
+triangles  => sprite triangulation, 3 vertex indices per triangle
+-->
+<TextureAtlas imagePath="spr_intro.png" width="1635" height="1944">
+    <sprite n="spr_logo_0.png" x="0" y="0" w="545" h="243" pX="0.5" pY="0.5"/>
+    <sprite n="spr_logo_1.png" x="545" y="0" w="545" h="243" pX="0.5" pY="0.5"/>
+    <sprite n="spr_logo_2.png" x="1090" y="0" w="545" h="243" pX="0.5" pY="0.5"/>
+    <sprite n="spr_logo_3.png" x="0" y="243" w="545" h="243" pX="0.5" pY="0.5"/>
+    <sprite n="spr_logo_4.png" x="545" y="243" w="545" h="243" pX="0.5" pY="0.5"/>
+    <sprite n="spr_logo_5.png" x="1090" y="243" w="545" h="243" pX="0.5" pY="0.5"/>
+    <sprite n="spr_logo_6.png" x="0" y="486" w="545" h="243" pX="0.5" pY="0.5"/>
+    <sprite n="spr_logo_7.png" x="545" y="486" w="545" h="243" pX="0.5" pY="0.5"/>
+    <sprite n="spr_logo_8.png" x="1090" y="486" w="545" h="243" pX="0.5" pY="0.5"/>
+    <sprite n="spr_logo_9.png" x="0" y="729" w="545" h="243" pX="0.5" pY="0.5"/>
+    <sprite n="spr_logo_10.png" x="545" y="729" w="545" h="243" pX="0.5" pY="0.5"/>
+    <sprite n="spr_logo_11.png" x="1090" y="729" w="545" h="243" pX="0.5" pY="0.5"/>
+    <sprite n="spr_logo_12.png" x="0" y="972" w="545" h="243" pX="0.5" pY="0.5"/>
+    <sprite n="spr_logo_13.png" x="545" y="972" w="545" h="243" pX="0.5" pY="0.5"/>
+    <sprite n="spr_logo_14.png" x="1090" y="972" w="545" h="243" pX="0.5" pY="0.5"/>
+    <sprite n="spr_logo_15.png" x="0" y="1215" w="545" h="243" pX="0.5" pY="0.5"/>
+    <sprite n="spr_logo_16.png" x="545" y="1215" w="545" h="243" pX="0.5" pY="0.5"/>
+    <sprite n="spr_logo_17.png" x="1090" y="1215" w="545" h="243" pX="0.5" pY="0.5"/>
+    <sprite n="spr_logo_18.png" x="0" y="1458" w="545" h="243" pX="0.5" pY="0.5"/>
+    <sprite n="spr_logo_19.png" x="545" y="1458" w="545" h="243" pX="0.5" pY="0.5"/>
+    <sprite n="spr_logo_20.png" x="1090" y="1458" w="545" h="243" pX="0.5" pY="0.5"/>
+    <sprite n="spr_logo_21.png" x="0" y="1701" w="545" h="243" pX="0.5" pY="0.5"/>
+    <sprite n="spr_logo_22.png" x="545" y="1701" w="545" h="243" pX="0.5" pY="0.5"/>
+    <sprite n="spr_logo_23.png" x="1090" y="1701" w="545" h="243" pX="0.5" pY="0.5"/>
+</TextureAtlas>

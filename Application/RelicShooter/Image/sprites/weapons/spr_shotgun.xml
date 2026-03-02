@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Created with TexturePacker https://www.codeandweb.com/texturepacker -->
+<!-- $TexturePacker:SmartUpdate:b6d19ee7410af0dba52cfe36574b842d:74f64acf09771457e0a887e48df1c87e:c09c7a5d3b28686514f25514ca4adaff$ -->
+<!--Format:
+n  => name of the sprite
+x  => sprite x pos in texture
+y  => sprite y pos in texture
+w  => sprite width (may be trimmed)
+h  => sprite height (may be trimmed)
+pX => x pos of the pivot point (relative to sprite width)
+pY => y pos of the pivot point (relative to sprite height)
+oX => sprite's x-corner offset (only available if trimmed)
+oY => sprite's y-corner offset (only available if trimmed)
+oW => sprite's original width (only available if trimmed)
+oH => sprite's original height (only available if trimmed)
+r => 'y' only set if sprite is rotated
+with polygon mode enabled:
+vertices   => points in sprite coordinate system (x0,y0,x1,y1,x2,y2, ...)
+verticesUV => points in sheet coordinate system (x0,y0,x1,y1,x2,y2, ...)
+triangles  => sprite triangulation, 3 vertex indices per triangle
+-->
+<TextureAtlas imagePath="spr_shotgun.png" width="192" height="22">
+    <sprite n="spr_shotgun_normal_0.png" x="0" y="0" w="63" h="22" pX="0.5" pY="0.5"/>
+    <sprite n="spr_shotgun_highlight_0.png" x="64" y="0" w="64" h="22" pX="0.5" pY="0.5"/>
+    <sprite n="spr_shotgun_white_0.png" x="128" y="0" w="64" h="22" pX="0.5" pY="0.5"/>
+</TextureAtlas>

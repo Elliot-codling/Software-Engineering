@@ -1,0 +1,17 @@
+ROLES
+
+Anthony Hood    -  Core Developer
+Thomas Reed     -  Objects/Collectables 
+                   Developer
+                   Project Manager
+Elliot Codling  -  Character Developer
+Ethan Holden    -  Level Developer
+
+
+
+STUDENT IDS
+
+Anthony Hood    -  1124100
+Elliot Codling  -  1111547
+Ethan Holden    -  1120079
+Thomas Reed     -  1106832

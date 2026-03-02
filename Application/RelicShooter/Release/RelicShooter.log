@@ -1,0 +1,1151 @@
+﻿  GameEndScreenUIComponent.cpp
+  RayCastLine.cpp
+  EnemyWave.cpp
+  EnemyBullet.cpp
+  EnemyPistol.cpp
+  EnemyShotgun.cpp
+  EnemyBaseWeapon.cpp
+  GameEndHandler.cpp
+  level.cpp
+  EffectOverlay.cpp
+  PointsUIComponent.cpp
+  HealthUIComponent.cpp
+  UIElement.cpp
+  ReloadCharacter.cpp
+  AmmoCollectible.cpp
+  HealthCollectible.cpp
+  Item.cpp
+  ItemFactory.cpp
+C:\Users\Ellio\MyDocuments\Game Development\Perforce\Software Engineering\Application\RelicShooter\Source\Game\GameObjects\UI\HUD\HealthUIComponent.h(33,63): warning C4244: 'argument': conversion from 'float' to 'sf::Uint8', possible loss of data
+  (compiling source file 'Source/Game/GameObjects/UI/HUD/HealthUIComponent.cpp')
+  
+C:\Users\Ellio\MyDocuments\Game Development\Perforce\Software Engineering\Application\RelicShooter\Source\Game\GameObjects\UI\HUD\HealthUIComponent.h(33,56): warning C4244: 'argument': conversion from 'float' to 'sf::Uint8', possible loss of data
+  (compiling source file 'Source/Game/GameObjects/UI/HUD/HealthUIComponent.cpp')
+  
+C:\Users\Ellio\MyDocuments\Game Development\Perforce\Software Engineering\Application\RelicShooter\Source\Game\GameObjects\UI\HUD\HealthUIComponent.h(33,48): warning C4244: 'argument': conversion from 'float' to 'sf::Uint8', possible loss of data
+  (compiling source file 'Source/Game/GameObjects/UI/HUD/HealthUIComponent.cpp')
+  
+C:\Users\Ellio\MyDocuments\Game Development\Perforce\Software Engineering\Application\RelicShooter\Source\Game\GameObjects\UI\HUD\HealthUIComponent.h(34,62): warning C4244: 'argument': conversion from 'float' to 'sf::Uint8', possible loss of data
+  (compiling source file 'Source/Game/GameObjects/UI/HUD/HealthUIComponent.cpp')
+  
+C:\Users\Ellio\MyDocuments\Game Development\Perforce\Software Engineering\Application\RelicShooter\Source\Game\GameObjects\UI\HUD\HealthUIComponent.h(34,55): warning C4244: 'argument': conversion from 'float' to 'sf::Uint8', possible loss of data
+  (compiling source file 'Source/Game/GameObjects/UI/HUD/HealthUIComponent.cpp')
+  
+C:\Users\Ellio\MyDocuments\Game Development\Perforce\Software Engineering\Application\RelicShooter\Source\Game\GameObjects\UI\HUD\HealthUIComponent.h(34,48): warning C4244: 'argument': conversion from 'float' to 'sf::Uint8', possible loss of data
+  (compiling source file 'Source/Game/GameObjects/UI/HUD/HealthUIComponent.cpp')
+  
+C:\Users\Ellio\MyDocuments\Game Development\Perforce\Software Engineering\Application\RelicShooter\Source\Game\GameObjects\UI\HUD\GameEndScreenUIComponent.h(39,75): warning C4244: 'argument': conversion from 'float' to 'sf::Uint8', possible loss of data
+  (compiling source file 'Source/Game/GameObjects/UI/HUD/GameEndScreenUIComponent.cpp')
+  
+C:\Users\Ellio\MyDocuments\Game Development\Perforce\Software Engineering\Application\RelicShooter\Source\Game\GameObjects\UI\HUD\GameEndScreenUIComponent.h(39,69): warning C4244: 'argument': conversion from 'float' to 'sf::Uint8', possible loss of data
+  (compiling source file 'Source/Game/GameObjects/UI/HUD/GameEndScreenUIComponent.cpp')
+  
+C:\Users\Ellio\MyDocuments\Game Development\Perforce\Software Engineering\Application\RelicShooter\Source\Game\GameObjects\UI\HUD\GameEndScreenUIComponent.h(39,61): warning C4244: 'argument': conversion from 'float' to 'sf::Uint8', possible loss of data
+  (compiling source file 'Source/Game/GameObjects/UI/HUD/GameEndScreenUIComponent.cpp')
+  
+C:\Users\Ellio\MyDocuments\Game Development\Perforce\Software Engineering\Application\RelicShooter\Source\Game\GameObjects\UI\HUD\GameEndScreenUIComponent.h(39,55): warning C4244: 'argument': conversion from 'float' to 'sf::Uint8', possible loss of data
+  (compiling source file 'Source/Game/GameObjects/UI/HUD/GameEndScreenUIComponent.cpp')
+  
+C:\Users\Ellio\MyDocuments\Game Development\Perforce\Software Engineering\Application\RelicShooter\Source\Game\GameObjects\UI\HUD\GameEndScreenUIComponent.h(40,76): warning C4244: 'argument': conversion from 'float' to 'sf::Uint8', possible loss of data
+  (compiling source file 'Source/Game/GameObjects/UI/HUD/GameEndScreenUIComponent.cpp')
+  
+C:\Users\Ellio\MyDocuments\Game Development\Perforce\Software Engineering\Application\RelicShooter\Source\Game\GameObjects\UI\HUD\GameEndScreenUIComponent.h(40,70): warning C4244: 'argument': conversion from 'float' to 'sf::Uint8', possible loss of data
+  (compiling source file 'Source/Game/GameObjects/UI/HUD/GameEndScreenUIComponent.cpp')
+  
+C:\Users\Ellio\MyDocuments\Game Development\Perforce\Software Engineering\Application\RelicShooter\Source\Game\GameObjects\UI\HUD\GameEndScreenUIComponent.h(40,64): warning C4244: 'argument': conversion from 'float' to 'sf::Uint8', possible loss of data
+  (compiling source file 'Source/Game/GameObjects/UI/HUD/GameEndScreenUIComponent.cpp')
+  
+C:\Users\Ellio\MyDocuments\Game Development\Perforce\Software Engineering\Application\RelicShooter\Source\Game\GameObjects\UI\HUD\GameEndScreenUIComponent.h(40,56): warning C4244: 'argument': conversion from 'float' to 'sf::Uint8', possible loss of data
+  (compiling source file 'Source/Game/GameObjects/UI/HUD/GameEndScreenUIComponent.cpp')
+  
+C:\Users\Ellio\MyDocuments\Game Development\Perforce\Software Engineering\Application\RelicShooter\Source\Game\GameObjects\UI\HUD\GameEndScreenUIComponent.h(43,61): warning C4244: 'argument': conversion from 'float' to 'sf::Uint8', possible loss of data
+  (compiling source file 'Source/Game/GameObjects/UI/HUD/GameEndScreenUIComponent.cpp')
+  
+C:\Users\Ellio\MyDocuments\Game Development\Perforce\Software Engineering\Application\RelicShooter\Source\Game\GameObjects\Player\Player.h(26,27): warning C4244: 'initializing': conversion from 'float' to 'const int', possible loss of data
+  (compiling source file 'Source/Game/Handlers/GameEndHandler.cpp')
+  
+C:\Users\Ellio\MyDocuments\Game Development\Perforce\Software Engineering\Application\RelicShooter\Source\Game\GameObjects\Player\Player.h(43,16): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+  (compiling source file 'Source/Game/Handlers/GameEndHandler.cpp')
+  
+C:\Users\Ellio\MyDocuments\Game Development\Perforce\Software Engineering\Application\RelicShooter\Source\Game\GameObjects\Player\Player.h(44,19): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+  (compiling source file 'Source/Game/Handlers/GameEndHandler.cpp')
+  
+C:\Users\Ellio\MyDocuments\Game Development\Perforce\Software Engineering\Application\RelicShooter\Source\Game\GameObjects\UI\HUD\HealthUIComponent.h(33,63): warning C4244: 'argument': conversion from 'float' to 'sf::Uint8', possible loss of data
+  (compiling source file 'Source/Game/Handlers/GameEndHandler.cpp')
+  
+C:\Users\Ellio\MyDocuments\Game Development\Perforce\Software Engineering\Application\RelicShooter\Source\Game\GameObjects\UI\HUD\HealthUIComponent.h(33,56): warning C4244: 'argument': conversion from 'float' to 'sf::Uint8', possible loss of data
+  (compiling source file 'Source/Game/Handlers/GameEndHandler.cpp')
+  
+C:\Users\Ellio\MyDocuments\Game Development\Perforce\Software Engineering\Application\RelicShooter\Source\Game\GameObjects\UI\HUD\HealthUIComponent.h(33,48): warning C4244: 'argument': conversion from 'float' to 'sf::Uint8', possible loss of data
+  (compiling source file 'Source/Game/Handlers/GameEndHandler.cpp')
+  
+C:\Users\Ellio\MyDocuments\Game Development\Perforce\Software Engineering\Application\RelicShooter\Source\Game\GameObjects\UI\HUD\HealthUIComponent.h(34,62): warning C4244: 'argument': conversion from 'float' to 'sf::Uint8', possible loss of data
+  (compiling source file 'Source/Game/Handlers/GameEndHandler.cpp')
+  
+C:\Users\Ellio\MyDocuments\Game Development\Perforce\Software Engineering\Application\RelicShooter\Source\Game\GameObjects\UI\HUD\HealthUIComponent.h(34,55): warning C4244: 'argument': conversion from 'float' to 'sf::Uint8', possible loss of data
+  (compiling source file 'Source/Game/Handlers/GameEndHandler.cpp')
+  
+C:\Users\Ellio\MyDocuments\Game Development\Perforce\Software Engineering\Application\RelicShooter\Source\Game\GameObjects\UI\HUD\HealthUIComponent.h(34,48): warning C4244: 'argument': conversion from 'float' to 'sf::Uint8', possible loss of data
+  (compiling source file 'Source/Game/Handlers/GameEndHandler.cpp')
+  
+C:\Users\Ellio\MyDocuments\Game Development\Perforce\Software Engineering\Application\RelicShooter\Source\Game\GameObjects\Player\Player.h(26,27): warning C4244: 'initializing': conversion from 'float' to 'const int', possible loss of data
+  (compiling source file 'Source/Game/GameObjects/Weapons/EnemyWeapons/EnemyBullet.cpp')
+  
+C:\Users\Ellio\MyDocuments\Game Development\Perforce\Software Engineering\Application\RelicShooter\Source\Game\GameObjects\Player\Player.h(43,16): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+  (compiling source file 'Source/Game/GameObjects/Weapons/EnemyWeapons/EnemyBullet.cpp')
+  
+C:\Users\Ellio\MyDocuments\Game Development\Perforce\Software Engineering\Application\RelicShooter\Source\Game\GameObjects\Player\Player.h(44,19): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+  (compiling source file 'Source/Game/GameObjects/Weapons/EnemyWeapons/EnemyBullet.cpp')
+  
+C:\Users\Ellio\MyDocuments\Game Development\Perforce\Software Engineering\Application\RelicShooter\Source\Game\GameObjects\UI\HUD\StaminaUIComponent.h(27,67): warning C4244: 'argument': conversion from 'float' to 'sf::Uint8', possible loss of data
+  (compiling source file 'Source/Game/Handlers/GameEndHandler.cpp')
+  
+C:\Users\Ellio\MyDocuments\Game Development\Perforce\Software Engineering\Application\RelicShooter\Source\Game\GameObjects\UI\HUD\StaminaUIComponent.h(27,60): warning C4244: 'argument': conversion from 'float' to 'sf::Uint8', possible loss of data
+  (compiling source file 'Source/Game/Handlers/GameEndHandler.cpp')
+  
+C:\Users\Ellio\MyDocuments\Game Development\Perforce\Software Engineering\Application\RelicShooter\Source\Game\GameObjects\UI\HUD\StaminaUIComponent.h(27,53): warning C4244: 'argument': conversion from 'float' to 'sf::Uint8', possible loss of data
+  (compiling source file 'Source/Game/Handlers/GameEndHandler.cpp')
+  
+C:\Users\Ellio\MyDocuments\Game Development\Perforce\Software Engineering\Application\RelicShooter\Source\Game\GameObjects\UI\HUD\StaminaUIComponent.h(27,46): warning C4244: 'argument': conversion from 'float' to 'sf::Uint8', possible loss of data
+  (compiling source file 'Source/Game/Handlers/GameEndHandler.cpp')
+  
+C:\Users\Ellio\MyDocuments\Game Development\Perforce\Software Engineering\Application\RelicShooter\Source\Game\GameObjects\UI\HUD\WaveUIComponent.h(34,63): warning C4244: 'argument': conversion from 'float' to 'sf::Uint8', possible loss of data
+  (compiling source file 'Source/Game/Handlers/GameEndHandler.cpp')
+  
+C:\Users\Ellio\MyDocuments\Game Development\Perforce\Software Engineering\Application\RelicShooter\Source\Game\GameObjects\UI\HUD\HealthUIComponent.cpp(11,54): warning C4244: 'argument': conversion from 'float' to 'sf::Uint8', possible loss of data
+C:\Users\Ellio\MyDocuments\Game Development\Perforce\Software Engineering\Application\RelicShooter\Source\Game\GameObjects\UI\HUD\HealthUIComponent.cpp(11,47): warning C4244: 'argument': conversion from 'float' to 'sf::Uint8', possible loss of data
+C:\Users\Ellio\MyDocuments\Game Development\Perforce\Software Engineering\Application\RelicShooter\Source\Game\GameObjects\UI\HUD\HealthUIComponent.cpp(11,40): warning C4244: 'argument': conversion from 'float' to 'sf::Uint8', possible loss of data
+C:\Users\Ellio\MyDocuments\Game Development\Perforce\Software Engineering\Application\RelicShooter\Source\Game\GameObjects\UI\HUD\WeaponUIComponent.h(40,62): warning C4244: 'argument': conversion from 'float' to 'sf::Uint8', possible loss of data
+  (compiling source file 'Source/Game/Handlers/GameEndHandler.cpp')
+  
+C:\Users\Ellio\MyDocuments\Game Development\Perforce\Software Engineering\Application\RelicShooter\Source\Game\GameObjects\UI\HUD\WeaponUIComponent.h(40,55): warning C4244: 'argument': conversion from 'float' to 'sf::Uint8', possible loss of data
+  (compiling source file 'Source/Game/Handlers/GameEndHandler.cpp')
+  
+C:\Users\Ellio\MyDocuments\Game Development\Perforce\Software Engineering\Application\RelicShooter\Source\Game\GameObjects\UI\HUD\WeaponUIComponent.h(40,48): warning C4244: 'argument': conversion from 'float' to 'sf::Uint8', possible loss of data
+  (compiling source file 'Source/Game/Handlers/GameEndHandler.cpp')
+  
+C:\Users\Ellio\MyDocuments\Game Development\Perforce\Software Engineering\Application\RelicShooter\Source\Game\GameObjects\Player\Player.h(26,27): warning C4244: 'initializing': conversion from 'float' to 'const int', possible loss of data
+  (compiling source file 'Source/Game/GameObjects/Player/RayCastLine.cpp')
+  
+C:\Users\Ellio\MyDocuments\Game Development\Perforce\Software Engineering\Application\RelicShooter\Source\Game\GameObjects\Player\Player.h(43,16): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+  (compiling source file 'Source/Game/GameObjects/Player/RayCastLine.cpp')
+  
+C:\Users\Ellio\MyDocuments\Game Development\Perforce\Software Engineering\Application\RelicShooter\Source\Game\GameObjects\Player\Player.h(44,19): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+  (compiling source file 'Source/Game/GameObjects/Player/RayCastLine.cpp')
+  
+C:\Users\Ellio\MyDocuments\Game Development\Perforce\Software Engineering\Application\RelicShooter\Source\Game\GameObjects\UI\HUD\GameEndScreenUIComponent.h(39,75): warning C4244: 'argument': conversion from 'float' to 'sf::Uint8', possible loss of data
+  (compiling source file 'Source/Game/Handlers/GameEndHandler.cpp')
+  
+C:\Users\Ellio\MyDocuments\Game Development\Perforce\Software Engineering\Application\RelicShooter\Source\Game\GameObjects\UI\HUD\GameEndScreenUIComponent.h(39,69): warning C4244: 'argument': conversion from 'float' to 'sf::Uint8', possible loss of data
+  (compiling source file 'Source/Game/Handlers/GameEndHandler.cpp')
+  
+C:\Users\Ellio\MyDocuments\Game Development\Perforce\Software Engineering\Application\RelicShooter\Source\Game\GameObjects\UI\HUD\GameEndScreenUIComponent.h(39,61): warning C4244: 'argument': conversion from 'float' to 'sf::Uint8', possible loss of data
+  (compiling source file 'Source/Game/Handlers/GameEndHandler.cpp')
+  
+C:\Users\Ellio\MyDocuments\Game Development\Perforce\Software Engineering\Application\RelicShooter\Source\Game\GameObjects\UI\HUD\GameEndScreenUIComponent.h(39,55): warning C4244: 'argument': conversion from 'float' to 'sf::Uint8', possible loss of data
+  (compiling source file 'Source/Game/Handlers/GameEndHandler.cpp')
+  
+C:\Users\Ellio\MyDocuments\Game Development\Perforce\Software Engineering\Application\RelicShooter\Source\Game\GameObjects\UI\HUD\GameEndScreenUIComponent.h(40,76): warning C4244: 'argument': conversion from 'float' to 'sf::Uint8', possible loss of data
+  (compiling source file 'Source/Game/Handlers/GameEndHandler.cpp')
+  
+C:\Users\Ellio\MyDocuments\Game Development\Perforce\Software Engineering\Application\RelicShooter\Source\Game\GameObjects\UI\HUD\GameEndScreenUIComponent.h(40,70): warning C4244: 'argument': conversion from 'float' to 'sf::Uint8', possible loss of data
+  (compiling source file 'Source/Game/Handlers/GameEndHandler.cpp')
+  
+C:\Users\Ellio\MyDocuments\Game Development\Perforce\Software Engineering\Application\RelicShooter\Source\Game\GameObjects\UI\HUD\GameEndScreenUIComponent.h(40,64): warning C4244: 'argument': conversion from 'float' to 'sf::Uint8', possible loss of data
+  (compiling source file 'Source/Game/Handlers/GameEndHandler.cpp')
+  
+C:\Users\Ellio\MyDocuments\Game Development\Perforce\Software Engineering\Application\RelicShooter\Source\Game\GameObjects\Player\Player.h(26,27): warning C4244: 'initializing': conversion from 'float' to 'const int', possible loss of data
+  (compiling source file 'Source/Game/GameObjects/Collectables/AmmoCollectible.cpp')
+  
+C:\Users\Ellio\MyDocuments\Game Development\Perforce\Software Engineering\Application\RelicShooter\Source\Game\GameObjects\UI\HUD\GameEndScreenUIComponent.h(40,56): warning C4244: 'argument': conversion from 'float' to 'sf::Uint8', possible loss of data
+  (compiling source file 'Source/Game/Handlers/GameEndHandler.cpp')
+  
+C:\Users\Ellio\MyDocuments\Game Development\Perforce\Software Engineering\Application\RelicShooter\Source\Game\GameObjects\Player\Player.h(43,16): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+  (compiling source file 'Source/Game/GameObjects/Collectables/AmmoCollectible.cpp')
+  
+C:\Users\Ellio\MyDocuments\Game Development\Perforce\Software Engineering\Application\RelicShooter\Source\Game\GameObjects\UI\HUD\GameEndScreenUIComponent.h(43,61): warning C4244: 'argument': conversion from 'float' to 'sf::Uint8', possible loss of data
+  (compiling source file 'Source/Game/Handlers/GameEndHandler.cpp')
+  
+C:\Users\Ellio\MyDocuments\Game Development\Perforce\Software Engineering\Application\RelicShooter\Source\Game\GameObjects\Player\Player.h(44,19): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+  (compiling source file 'Source/Game/GameObjects/Collectables/AmmoCollectible.cpp')
+  
+C:\Users\Ellio\MyDocuments\Game Development\Perforce\Software Engineering\Application\RelicShooter\Source\Game\GameObjects\UI\HUD\HealthUIComponent.h(33,63): warning C4244: 'argument': conversion from 'float' to 'sf::Uint8', possible loss of data
+  (compiling source file 'Source/Game/GameObjects/UI/HUD/GameEndScreenUIComponent.cpp')
+  
+C:\Users\Ellio\MyDocuments\Game Development\Perforce\Software Engineering\Application\RelicShooter\Source\Game\GameObjects\UI\HUD\HealthUIComponent.h(33,56): warning C4244: 'argument': conversion from 'float' to 'sf::Uint8', possible loss of data
+  (compiling source file 'Source/Game/GameObjects/UI/HUD/GameEndScreenUIComponent.cpp')
+  
+C:\Users\Ellio\MyDocuments\Game Development\Perforce\Software Engineering\Application\RelicShooter\Source\Game\GameObjects\UI\HUD\HealthUIComponent.h(33,48): warning C4244: 'argument': conversion from 'float' to 'sf::Uint8', possible loss of data
+  (compiling source file 'Source/Game/GameObjects/UI/HUD/GameEndScreenUIComponent.cpp')
+  
+C:\Users\Ellio\MyDocuments\Game Development\Perforce\Software Engineering\Application\RelicShooter\Source\Game\GameObjects\UI\HUD\HealthUIComponent.h(34,62): warning C4244: 'argument': conversion from 'float' to 'sf::Uint8', possible loss of data
+  (compiling source file 'Source/Game/GameObjects/UI/HUD/GameEndScreenUIComponent.cpp')
+  
+C:\Users\Ellio\MyDocuments\Game Development\Perforce\Software Engineering\Application\RelicShooter\Source\Game\GameObjects\UI\HUD\HealthUIComponent.h(34,55): warning C4244: 'argument': conversion from 'float' to 'sf::Uint8', possible loss of data
+  (compiling source file 'Source/Game/GameObjects/UI/HUD/GameEndScreenUIComponent.cpp')
+  
+C:\Users\Ellio\MyDocuments\Game Development\Perforce\Software Engineering\Application\RelicShooter\Source\Game\GameObjects\UI\HUD\HealthUIComponent.h(34,48): warning C4244: 'argument': conversion from 'float' to 'sf::Uint8', possible loss of data
+  (compiling source file 'Source/Game/GameObjects/UI/HUD/GameEndScreenUIComponent.cpp')
+  
+C:\Users\Ellio\MyDocuments\Game Development\Perforce\Software Engineering\Application\RelicShooter\Source\Game\GameObjects\Player\Player.h(26,27): warning C4244: 'initializing': conversion from 'float' to 'const int', possible loss of data
+  (compiling source file 'Source/Game/GameObjects/Collectables/HealthCollectible.cpp')
+  
+C:\Users\Ellio\MyDocuments\Game Development\Perforce\Software Engineering\Application\RelicShooter\Source\Game\GameObjects\Player\Player.h(43,16): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+  (compiling source file 'Source/Game/GameObjects/Collectables/HealthCollectible.cpp')
+  
+C:\Users\Ellio\MyDocuments\Game Development\Perforce\Software Engineering\Application\RelicShooter\Source\Game\GameObjects\Player\Player.h(44,19): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+  (compiling source file 'Source/Game/GameObjects/Collectables/HealthCollectible.cpp')
+  
+C:\Users\Ellio\MyDocuments\Game Development\Perforce\Software Engineering\Application\RelicShooter\Source\Game\GameObjects\UI\HUD\StaminaUIComponent.h(27,67): warning C4244: 'argument': conversion from 'float' to 'sf::Uint8', possible loss of data
+  (compiling source file 'Source/Game/GameObjects/UI/HUD/GameEndScreenUIComponent.cpp')
+  
+C:\Users\Ellio\MyDocuments\Game Development\Perforce\Software Engineering\Application\RelicShooter\Source\Game\GameObjects\UI\HUD\StaminaUIComponent.h(27,60): warning C4244: 'argument': conversion from 'float' to 'sf::Uint8', possible loss of data
+  (compiling source file 'Source/Game/GameObjects/UI/HUD/GameEndScreenUIComponent.cpp')
+  
+C:\Users\Ellio\MyDocuments\Game Development\Perforce\Software Engineering\Application\RelicShooter\Source\Game\GameObjects\UI\HUD\StaminaUIComponent.h(27,53): warning C4244: 'argument': conversion from 'float' to 'sf::Uint8', possible loss of data
+  (compiling source file 'Source/Game/GameObjects/UI/HUD/GameEndScreenUIComponent.cpp')
+  
+C:\Users\Ellio\MyDocuments\Game Development\Perforce\Software Engineering\Application\RelicShooter\Source\Game\GameObjects\UI\HUD\StaminaUIComponent.h(27,46): warning C4244: 'argument': conversion from 'float' to 'sf::Uint8', possible loss of data
+  (compiling source file 'Source/Game/GameObjects/UI/HUD/GameEndScreenUIComponent.cpp')
+  
+C:\Users\Ellio\MyDocuments\Game Development\Perforce\Software Engineering\Application\RelicShooter\Source\Game\GameObjects\UI\HUD\WaveUIComponent.h(34,63): warning C4244: 'argument': conversion from 'float' to 'sf::Uint8', possible loss of data
+  (compiling source file 'Source/Game/GameObjects/UI/HUD/GameEndScreenUIComponent.cpp')
+  
+C:\Users\Ellio\MyDocuments\Game Development\Perforce\Software Engineering\Application\RelicShooter\Source\Game\GameObjects\UI\HUD\WeaponUIComponent.h(40,62): warning C4244: 'argument': conversion from 'float' to 'sf::Uint8', possible loss of data
+  (compiling source file 'Source/Game/GameObjects/UI/HUD/GameEndScreenUIComponent.cpp')
+  
+C:\Users\Ellio\MyDocuments\Game Development\Perforce\Software Engineering\Application\RelicShooter\Source\Game\GameObjects\UI\HUD\WeaponUIComponent.h(40,55): warning C4244: 'argument': conversion from 'float' to 'sf::Uint8', possible loss of data
+  (compiling source file 'Source/Game/GameObjects/UI/HUD/GameEndScreenUIComponent.cpp')
+  
+C:\Users\Ellio\MyDocuments\Game Development\Perforce\Software Engineering\Application\RelicShooter\Source\Game\GameObjects\UI\HUD\WeaponUIComponent.h(40,48): warning C4244: 'argument': conversion from 'float' to 'sf::Uint8', possible loss of data
+  (compiling source file 'Source/Game/GameObjects/UI/HUD/GameEndScreenUIComponent.cpp')
+  
+C:\Users\Ellio\MyDocuments\Game Development\Perforce\Software Engineering\Application\RelicShooter\Source\Game\GameObjects\Player\Player.h(26,27): warning C4244: 'initializing': conversion from 'float' to 'const int', possible loss of data
+  (compiling source file 'Source/Game/GameObjects/Collectables/Item.cpp')
+  
+C:\Users\Ellio\MyDocuments\Game Development\Perforce\Software Engineering\Application\RelicShooter\Source\Game\GameObjects\Player\Player.h(43,16): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+  (compiling source file 'Source/Game/GameObjects/Collectables/Item.cpp')
+  
+C:\Users\Ellio\MyDocuments\Game Development\Perforce\Software Engineering\Application\RelicShooter\Source\Game\GameObjects\Player\Player.h(44,19): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+  (compiling source file 'Source/Game/GameObjects/Collectables/Item.cpp')
+  
+C:\Users\Ellio\MyDocuments\Game Development\Perforce\Software Engineering\Application\RelicShooter\Source\Game\GameObjects\Player\Player.h(26,27): warning C4244: 'initializing': conversion from 'float' to 'const int', possible loss of data
+  (compiling source file 'Source/Game/GameObjects/UI/EffectOverlay.cpp')
+  
+C:\Users\Ellio\MyDocuments\Game Development\Perforce\Software Engineering\Application\RelicShooter\Source\Game\GameObjects\Player\Player.h(43,16): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+  (compiling source file 'Source/Game/GameObjects/UI/EffectOverlay.cpp')
+  
+C:\Users\Ellio\MyDocuments\Game Development\Perforce\Software Engineering\Application\RelicShooter\Source\Game\GameObjects\Player\Player.h(44,19): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+  (compiling source file 'Source/Game/GameObjects/UI/EffectOverlay.cpp')
+  
+  Kamikaze.cpp
+  Shooter.cpp
+  Enemy.cpp
+  Rifle.cpp
+  Shotgun.cpp
+  Bullet.cpp
+  GameStateLevel1.cpp
+  LayerManager.cpp
+  Crosshair.cpp
+  GamePad.cpp
+  ControllerInputDevice.cpp
+  BaseWeapon.cpp
+  GameplayState.cpp
+  Obstacle.cpp
+  InputWrapper.cpp
+C:\Users\Ellio\MyDocuments\Game Development\Perforce\Software Engineering\Application\RelicShooter\Source\Game\GameObjects\UI\HUD\GameEndScreenUIComponent.cpp(166,45): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Ellio\MyDocuments\Game Development\Perforce\Software Engineering\Application\RelicShooter\Source\Game\GameObjects\Enemies\Shooter.cpp(29,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  Layer.cpp
+C:\Users\Ellio\MyDocuments\Game Development\Perforce\Software Engineering\Application\RelicShooter\Source\Game\GameObjects\Player\Player.h(26,27): warning C4244: 'initializing': conversion from 'float' to 'const int', possible loss of data
+  (compiling source file 'Source/Game/GameObjects/Enemies/Kamikaze.cpp')
+  
+C:\Users\Ellio\MyDocuments\Game Development\Perforce\Software Engineering\Application\RelicShooter\Source\Game\GameObjects\Player\Player.h(43,16): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+  (compiling source file 'Source/Game/GameObjects/Enemies/Kamikaze.cpp')
+  
+C:\Users\Ellio\MyDocuments\Game Development\Perforce\Software Engineering\Application\RelicShooter\Source\Game\GameObjects\Player\Player.h(44,19): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+  (compiling source file 'Source/Game/GameObjects/Enemies/Kamikaze.cpp')
+  
+C:\Users\Ellio\MyDocuments\Game Development\Perforce\Software Engineering\Application\RelicShooter\Source\Game\GameObjects\Player\Player.h(26,27): warning C4244: 'initializing': conversion from 'float' to 'const int', possible loss of data
+  (compiling source file 'Source/Game/GameStates/GameStateLevel1.cpp')
+  
+C:\Users\Ellio\MyDocuments\Game Development\Perforce\Software Engineering\Application\RelicShooter\Source\Game\GameObjects\Player\Player.h(43,16): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+  (compiling source file 'Source/Game/GameStates/GameStateLevel1.cpp')
+  
+C:\Users\Ellio\MyDocuments\Game Development\Perforce\Software Engineering\Application\RelicShooter\Source\Game\GameObjects\Player\Player.h(44,19): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+  (compiling source file 'Source/Game/GameStates/GameStateLevel1.cpp')
+  
+C:\Users\Ellio\MyDocuments\Game Development\Perforce\Software Engineering\Application\RelicShooter\Source\Game\GameObjects\Player\Player.h(26,27): warning C4244: 'initializing': conversion from 'float' to 'const int', possible loss of data
+  (compiling source file 'Source/Game/GameStates/GameplayState.cpp')
+  
+C:\Users\Ellio\MyDocuments\Game Development\Perforce\Software Engineering\Application\RelicShooter\Source\Game\GameObjects\Player\Player.h(43,16): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+  (compiling source file 'Source/Game/GameStates/GameplayState.cpp')
+  
+C:\Users\Ellio\MyDocuments\Game Development\Perforce\Software Engineering\Application\RelicShooter\Source\Game\GameObjects\Player\Player.h(44,19): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+  (compiling source file 'Source/Game/GameStates/GameplayState.cpp')
+  
+C:\Users\Ellio\MyDocuments\Game Development\Perforce\Software Engineering\Application\RelicShooter\Source\Game\GameObjects\UI\HUD\HealthUIComponent.h(33,63): warning C4244: 'argument': conversion from 'float' to 'sf::Uint8', possible loss of data
+  (compiling source file 'Source/Game/GameStates/GameStateLevel1.cpp')
+  
+C:\Users\Ellio\MyDocuments\Game Development\Perforce\Software Engineering\Application\RelicShooter\Source\Game\GameObjects\UI\HUD\HealthUIComponent.h(33,56): warning C4244: 'argument': conversion from 'float' to 'sf::Uint8', possible loss of data
+  (compiling source file 'Source/Game/GameStates/GameStateLevel1.cpp')
+  
+C:\Users\Ellio\MyDocuments\Game Development\Perforce\Software Engineering\Application\RelicShooter\Source\Game\GameObjects\UI\HUD\HealthUIComponent.h(33,48): warning C4244: 'argument': conversion from 'float' to 'sf::Uint8', possible loss of data
+  (compiling source file 'Source/Game/GameStates/GameStateLevel1.cpp')
+  
+C:\Users\Ellio\MyDocuments\Game Development\Perforce\Software Engineering\Application\RelicShooter\Source\Game\GameObjects\UI\HUD\HealthUIComponent.h(34,62): warning C4244: 'argument': conversion from 'float' to 'sf::Uint8', possible loss of data
+  (compiling source file 'Source/Game/GameStates/GameStateLevel1.cpp')
+  
+C:\Users\Ellio\MyDocuments\Game Development\Perforce\Software Engineering\Application\RelicShooter\Source\Game\GameObjects\UI\HUD\HealthUIComponent.h(34,55): warning C4244: 'argument': conversion from 'float' to 'sf::Uint8', possible loss of data
+  (compiling source file 'Source/Game/GameStates/GameStateLevel1.cpp')
+  
+C:\Users\Ellio\MyDocuments\Game Development\Perforce\Software Engineering\Application\RelicShooter\Source\Game\GameObjects\UI\HUD\HealthUIComponent.h(34,48): warning C4244: 'argument': conversion from 'float' to 'sf::Uint8', possible loss of data
+  (compiling source file 'Source/Game/GameStates/GameStateLevel1.cpp')
+  
+C:\Users\Ellio\MyDocuments\Game Development\Perforce\Software Engineering\Application\RelicShooter\Source\Game\GameObjects\UI\HUD\HealthUIComponent.h(33,63): warning C4244: 'argument': conversion from 'float' to 'sf::Uint8', possible loss of data
+  (compiling source file 'Source/Game/GameStates/GameplayState.cpp')
+  
+C:\Users\Ellio\MyDocuments\Game Development\Perforce\Software Engineering\Application\RelicShooter\Source\Game\GameObjects\UI\HUD\HealthUIComponent.h(33,56): warning C4244: 'argument': conversion from 'float' to 'sf::Uint8', possible loss of data
+  (compiling source file 'Source/Game/GameStates/GameplayState.cpp')
+  
+C:\Users\Ellio\MyDocuments\Game Development\Perforce\Software Engineering\Application\RelicShooter\Source\Game\GameObjects\UI\HUD\HealthUIComponent.h(33,48): warning C4244: 'argument': conversion from 'float' to 'sf::Uint8', possible loss of data
+  (compiling source file 'Source/Game/GameStates/GameplayState.cpp')
+  
+C:\Users\Ellio\MyDocuments\Game Development\Perforce\Software Engineering\Application\RelicShooter\Source\Game\GameObjects\UI\HUD\HealthUIComponent.h(34,62): warning C4244: 'argument': conversion from 'float' to 'sf::Uint8', possible loss of data
+  (compiling source file 'Source/Game/GameStates/GameplayState.cpp')
+  
+C:\Users\Ellio\MyDocuments\Game Development\Perforce\Software Engineering\Application\RelicShooter\Source\Game\GameObjects\UI\HUD\HealthUIComponent.h(34,55): warning C4244: 'argument': conversion from 'float' to 'sf::Uint8', possible loss of data
+  (compiling source file 'Source/Game/GameStates/GameplayState.cpp')
+  
+C:\Users\Ellio\MyDocuments\Game Development\Perforce\Software Engineering\Application\RelicShooter\Source\Game\GameObjects\UI\HUD\HealthUIComponent.h(34,48): warning C4244: 'argument': conversion from 'float' to 'sf::Uint8', possible loss of data
+  (compiling source file 'Source/Game/GameStates/GameplayState.cpp')
+  
+C:\Users\Ellio\MyDocuments\Game Development\Perforce\Software Engineering\Application\RelicShooter\Source\Game\GameObjects\UI\HUD\StaminaUIComponent.h(27,67): warning C4244: 'argument': conversion from 'float' to 'sf::Uint8', possible loss of data
+  (compiling source file 'Source/Game/GameStates/GameStateLevel1.cpp')
+  
+C:\Users\Ellio\MyDocuments\Game Development\Perforce\Software Engineering\Application\RelicShooter\Source\Game\GameObjects\UI\HUD\StaminaUIComponent.h(27,60): warning C4244: 'argument': conversion from 'float' to 'sf::Uint8', possible loss of data
+  (compiling source file 'Source/Game/GameStates/GameStateLevel1.cpp')
+  
+C:\Users\Ellio\MyDocuments\Game Development\Perforce\Software Engineering\Application\RelicShooter\Source\Game\GameObjects\UI\HUD\StaminaUIComponent.h(27,53): warning C4244: 'argument': conversion from 'float' to 'sf::Uint8', possible loss of data
+  (compiling source file 'Source/Game/GameStates/GameStateLevel1.cpp')
+  
+C:\Users\Ellio\MyDocuments\Game Development\Perforce\Software Engineering\Application\RelicShooter\Source\Game\GameObjects\UI\HUD\StaminaUIComponent.h(27,46): warning C4244: 'argument': conversion from 'float' to 'sf::Uint8', possible loss of data
+  (compiling source file 'Source/Game/GameStates/GameStateLevel1.cpp')
+  
+C:\Users\Ellio\MyDocuments\Game Development\Perforce\Software Engineering\Application\RelicShooter\Source\Game\GameObjects\UI\HUD\WaveUIComponent.h(34,63): warning C4244: 'argument': conversion from 'float' to 'sf::Uint8', possible loss of data
+  (compiling source file 'Source/Game/GameStates/GameStateLevel1.cpp')
+  
+C:\Users\Ellio\MyDocuments\Game Development\Perforce\Software Engineering\Application\RelicShooter\Source\Game\GameObjects\UI\HUD\WeaponUIComponent.h(40,62): warning C4244: 'argument': conversion from 'float' to 'sf::Uint8', possible loss of data
+  (compiling source file 'Source/Game/GameStates/GameStateLevel1.cpp')
+  
+C:\Users\Ellio\MyDocuments\Game Development\Perforce\Software Engineering\Application\RelicShooter\Source\Game\GameObjects\UI\HUD\WeaponUIComponent.h(40,55): warning C4244: 'argument': conversion from 'float' to 'sf::Uint8', possible loss of data
+  (compiling source file 'Source/Game/GameStates/GameStateLevel1.cpp')
+  
+C:\Users\Ellio\MyDocuments\Game Development\Perforce\Software Engineering\Application\RelicShooter\Source\Game\GameObjects\UI\HUD\WeaponUIComponent.h(40,48): warning C4244: 'argument': conversion from 'float' to 'sf::Uint8', possible loss of data
+  (compiling source file 'Source/Game/GameStates/GameStateLevel1.cpp')
+  
+C:\Users\Ellio\MyDocuments\Game Development\Perforce\Software Engineering\Application\RelicShooter\Source\Game\GameObjects\UI\HUD\StaminaUIComponent.h(27,67): warning C4244: 'argument': conversion from 'float' to 'sf::Uint8', possible loss of data
+  (compiling source file 'Source/Game/GameStates/GameplayState.cpp')
+  
+C:\Users\Ellio\MyDocuments\Game Development\Perforce\Software Engineering\Application\RelicShooter\Source\Game\GameObjects\UI\HUD\StaminaUIComponent.h(27,60): warning C4244: 'argument': conversion from 'float' to 'sf::Uint8', possible loss of data
+  (compiling source file 'Source/Game/GameStates/GameplayState.cpp')
+  
+C:\Users\Ellio\MyDocuments\Game Development\Perforce\Software Engineering\Application\RelicShooter\Source\Game\GameObjects\UI\HUD\StaminaUIComponent.h(27,53): warning C4244: 'argument': conversion from 'float' to 'sf::Uint8', possible loss of data
+  (compiling source file 'Source/Game/GameStates/GameplayState.cpp')
+  
+C:\Users\Ellio\MyDocuments\Game Development\Perforce\Software Engineering\Application\RelicShooter\Source\Game\GameObjects\UI\HUD\StaminaUIComponent.h(27,46): warning C4244: 'argument': conversion from 'float' to 'sf::Uint8', possible loss of data
+  (compiling source file 'Source/Game/GameStates/GameplayState.cpp')
+  
+C:\Users\Ellio\MyDocuments\Game Development\Perforce\Software Engineering\Application\RelicShooter\Source\Game\GameObjects\UI\HUD\WaveUIComponent.h(34,63): warning C4244: 'argument': conversion from 'float' to 'sf::Uint8', possible loss of data
+  (compiling source file 'Source/Game/GameStates/GameplayState.cpp')
+  
+C:\Users\Ellio\MyDocuments\Game Development\Perforce\Software Engineering\Application\RelicShooter\Source\Game\GameObjects\UI\HUD\WeaponUIComponent.h(40,62): warning C4244: 'argument': conversion from 'float' to 'sf::Uint8', possible loss of data
+  (compiling source file 'Source/Game/GameStates/GameplayState.cpp')
+  
+C:\Users\Ellio\MyDocuments\Game Development\Perforce\Software Engineering\Application\RelicShooter\Source\Game\GameObjects\UI\HUD\WeaponUIComponent.h(40,55): warning C4244: 'argument': conversion from 'float' to 'sf::Uint8', possible loss of data
+  (compiling source file 'Source/Game/GameStates/GameplayState.cpp')
+  
+C:\Users\Ellio\MyDocuments\Game Development\Perforce\Software Engineering\Application\RelicShooter\Source\Game\GameObjects\UI\HUD\WeaponUIComponent.h(40,48): warning C4244: 'argument': conversion from 'float' to 'sf::Uint8', possible loss of data
+  (compiling source file 'Source/Game/GameStates/GameplayState.cpp')
+  
+C:\Users\Ellio\MyDocuments\Game Development\Perforce\Software Engineering\Application\RelicShooter\Source\Game\GameObjects\UI\HUD\GameEndScreenUIComponent.h(39,75): warning C4244: 'argument': conversion from 'float' to 'sf::Uint8', possible loss of data
+  (compiling source file 'Source/Game/GameStates/GameStateLevel1.cpp')
+  
+C:\Users\Ellio\MyDocuments\Game Development\Perforce\Software Engineering\Application\RelicShooter\Source\Game\GameObjects\UI\HUD\GameEndScreenUIComponent.h(39,69): warning C4244: 'argument': conversion from 'float' to 'sf::Uint8', possible loss of data
+  (compiling source file 'Source/Game/GameStates/GameStateLevel1.cpp')
+  
+C:\Users\Ellio\MyDocuments\Game Development\Perforce\Software Engineering\Application\RelicShooter\Source\Game\GameObjects\UI\HUD\GameEndScreenUIComponent.h(39,61): warning C4244: 'argument': conversion from 'float' to 'sf::Uint8', possible loss of data
+  (compiling source file 'Source/Game/GameStates/GameStateLevel1.cpp')
+  
+C:\Users\Ellio\MyDocuments\Game Development\Perforce\Software Engineering\Application\RelicShooter\Source\Game\GameObjects\UI\HUD\GameEndScreenUIComponent.h(39,55): warning C4244: 'argument': conversion from 'float' to 'sf::Uint8', possible loss of data
+  (compiling source file 'Source/Game/GameStates/GameStateLevel1.cpp')
+  
+C:\Users\Ellio\MyDocuments\Game Development\Perforce\Software Engineering\Application\RelicShooter\Source\Game\GameObjects\Weapons\Bullet.cpp(103,18): warning C4244: 'argument': conversion from 'float' to 'T', possible loss of data
+C:\Users\Ellio\MyDocuments\Game Development\Perforce\Software Engineering\Application\RelicShooter\Source\Game\GameObjects\Weapons\Bullet.cpp(103,18): warning C4244:         with
+C:\Users\Ellio\MyDocuments\Game Development\Perforce\Software Engineering\Application\RelicShooter\Source\Game\GameObjects\Weapons\Bullet.cpp(103,18): warning C4244:         [
+C:\Users\Ellio\MyDocuments\Game Development\Perforce\Software Engineering\Application\RelicShooter\Source\Game\GameObjects\Weapons\Bullet.cpp(103,18): warning C4244:             T=int
+C:\Users\Ellio\MyDocuments\Game Development\Perforce\Software Engineering\Application\RelicShooter\Source\Game\GameObjects\Weapons\Bullet.cpp(103,18): warning C4244:         ]
+C:\Users\Ellio\MyDocuments\Game Development\Perforce\Software Engineering\Application\RelicShooter\Source\Game\GameObjects\UI\HUD\GameEndScreenUIComponent.h(40,76): warning C4244: 'argument': conversion from 'float' to 'sf::Uint8', possible loss of data
+  (compiling source file 'Source/Game/GameStates/GameStateLevel1.cpp')
+  
+C:\Users\Ellio\MyDocuments\Game Development\Perforce\Software Engineering\Application\RelicShooter\Source\Game\GameObjects\Weapons\Bullet.cpp(102,18): warning C4244: 'argument': conversion from 'float' to 'T', possible loss of data
+C:\Users\Ellio\MyDocuments\Game Development\Perforce\Software Engineering\Application\RelicShooter\Source\Game\GameObjects\Weapons\Bullet.cpp(102,18): warning C4244:         with
+C:\Users\Ellio\MyDocuments\Game Development\Perforce\Software Engineering\Application\RelicShooter\Source\Game\GameObjects\Weapons\Bullet.cpp(102,18): warning C4244:         [
+C:\Users\Ellio\MyDocuments\Game Development\Perforce\Software Engineering\Application\RelicShooter\Source\Game\GameObjects\Weapons\Bullet.cpp(102,18): warning C4244:             T=int
+C:\Users\Ellio\MyDocuments\Game Development\Perforce\Software Engineering\Application\RelicShooter\Source\Game\GameObjects\Weapons\Bullet.cpp(102,18): warning C4244:         ]
+C:\Users\Ellio\MyDocuments\Game Development\Perforce\Software Engineering\Application\RelicShooter\Source\Game\GameObjects\Weapons\Bullet.cpp(101,18): warning C4244: 'argument': conversion from 'float' to 'T', possible loss of data
+C:\Users\Ellio\MyDocuments\Game Development\Perforce\Software Engineering\Application\RelicShooter\Source\Game\GameObjects\Weapons\Bullet.cpp(101,18): warning C4244:         with
+C:\Users\Ellio\MyDocuments\Game Development\Perforce\Software Engineering\Application\RelicShooter\Source\Game\GameObjects\Weapons\Bullet.cpp(101,18): warning C4244:         [
+C:\Users\Ellio\MyDocuments\Game Development\Perforce\Software Engineering\Application\RelicShooter\Source\Game\GameObjects\Weapons\Bullet.cpp(101,18): warning C4244:             T=int
+C:\Users\Ellio\MyDocuments\Game Development\Perforce\Software Engineering\Application\RelicShooter\Source\Game\GameObjects\Weapons\Bullet.cpp(101,18): warning C4244:         ]
+C:\Users\Ellio\MyDocuments\Game Development\Perforce\Software Engineering\Application\RelicShooter\Source\Game\GameObjects\Weapons\Bullet.cpp(100,45): warning C4244: 'argument': conversion from 'float' to 'T', possible loss of data
+C:\Users\Ellio\MyDocuments\Game Development\Perforce\Software Engineering\Application\RelicShooter\Source\Game\GameObjects\Weapons\Bullet.cpp(100,45): warning C4244:         with
+C:\Users\Ellio\MyDocuments\Game Development\Perforce\Software Engineering\Application\RelicShooter\Source\Game\GameObjects\Weapons\Bullet.cpp(100,45): warning C4244:         [
+C:\Users\Ellio\MyDocuments\Game Development\Perforce\Software Engineering\Application\RelicShooter\Source\Game\GameObjects\Weapons\Bullet.cpp(100,45): warning C4244:             T=int
+C:\Users\Ellio\MyDocuments\Game Development\Perforce\Software Engineering\Application\RelicShooter\Source\Game\GameObjects\Weapons\Bullet.cpp(100,45): warning C4244:         ]
+C:\Users\Ellio\MyDocuments\Game Development\Perforce\Software Engineering\Application\RelicShooter\Source\Game\GameObjects\UI\HUD\GameEndScreenUIComponent.h(40,70): warning C4244: 'argument': conversion from 'float' to 'sf::Uint8', possible loss of data
+  (compiling source file 'Source/Game/GameStates/GameStateLevel1.cpp')
+  
+C:\Users\Ellio\MyDocuments\Game Development\Perforce\Software Engineering\Application\RelicShooter\Source\Game\GameObjects\UI\HUD\GameEndScreenUIComponent.h(40,64): warning C4244: 'argument': conversion from 'float' to 'sf::Uint8', possible loss of data
+  (compiling source file 'Source/Game/GameStates/GameStateLevel1.cpp')
+  
+C:\Users\Ellio\MyDocuments\Game Development\Perforce\Software Engineering\Application\RelicShooter\Source\Game\GameObjects\UI\HUD\GameEndScreenUIComponent.h(40,56): warning C4244: 'argument': conversion from 'float' to 'sf::Uint8', possible loss of data
+  (compiling source file 'Source/Game/GameStates/GameStateLevel1.cpp')
+  
+C:\Users\Ellio\MyDocuments\Game Development\Perforce\Software Engineering\Application\RelicShooter\Source\Game\GameObjects\UI\HUD\GameEndScreenUIComponent.h(43,61): warning C4244: 'argument': conversion from 'float' to 'sf::Uint8', possible loss of data
+  (compiling source file 'Source/Game/GameStates/GameStateLevel1.cpp')
+  
+C:\Users\Ellio\MyDocuments\Game Development\Perforce\Software Engineering\Application\RelicShooter\Source\Game\GameObjects\UI\HUD\GameEndScreenUIComponent.h(39,75): warning C4244: 'argument': conversion from 'float' to 'sf::Uint8', possible loss of data
+  (compiling source file 'Source/Game/GameStates/GameplayState.cpp')
+  
+C:\Users\Ellio\MyDocuments\Game Development\Perforce\Software Engineering\Application\RelicShooter\Source\Game\GameObjects\UI\HUD\GameEndScreenUIComponent.h(39,69): warning C4244: 'argument': conversion from 'float' to 'sf::Uint8', possible loss of data
+  (compiling source file 'Source/Game/GameStates/GameplayState.cpp')
+  
+C:\Users\Ellio\MyDocuments\Game Development\Perforce\Software Engineering\Application\RelicShooter\Source\Game\GameObjects\UI\HUD\GameEndScreenUIComponent.h(39,61): warning C4244: 'argument': conversion from 'float' to 'sf::Uint8', possible loss of data
+  (compiling source file 'Source/Game/GameStates/GameplayState.cpp')
+  
+C:\Users\Ellio\MyDocuments\Game Development\Perforce\Software Engineering\Application\RelicShooter\Source\Game\GameObjects\UI\HUD\GameEndScreenUIComponent.h(39,55): warning C4244: 'argument': conversion from 'float' to 'sf::Uint8', possible loss of data
+  (compiling source file 'Source/Game/GameStates/GameplayState.cpp')
+  
+C:\Users\Ellio\MyDocuments\Game Development\Perforce\Software Engineering\Application\RelicShooter\Source\Game\GameObjects\UI\HUD\GameEndScreenUIComponent.h(40,76): warning C4244: 'argument': conversion from 'float' to 'sf::Uint8', possible loss of data
+  (compiling source file 'Source/Game/GameStates/GameplayState.cpp')
+  
+C:\Users\Ellio\MyDocuments\Game Development\Perforce\Software Engineering\Application\RelicShooter\Source\Game\GameObjects\UI\HUD\GameEndScreenUIComponent.h(40,70): warning C4244: 'argument': conversion from 'float' to 'sf::Uint8', possible loss of data
+  (compiling source file 'Source/Game/GameStates/GameplayState.cpp')
+  
+C:\Users\Ellio\MyDocuments\Game Development\Perforce\Software Engineering\Application\RelicShooter\Source\Game\GameObjects\UI\HUD\GameEndScreenUIComponent.h(40,64): warning C4244: 'argument': conversion from 'float' to 'sf::Uint8', possible loss of data
+  (compiling source file 'Source/Game/GameStates/GameplayState.cpp')
+  
+C:\Users\Ellio\MyDocuments\Game Development\Perforce\Software Engineering\Application\RelicShooter\Source\Game\GameObjects\UI\HUD\GameEndScreenUIComponent.h(40,56): warning C4244: 'argument': conversion from 'float' to 'sf::Uint8', possible loss of data
+  (compiling source file 'Source/Game/GameStates/GameplayState.cpp')
+  
+C:\Users\Ellio\MyDocuments\Game Development\Perforce\Software Engineering\Application\RelicShooter\Source\Game\GameObjects\UI\HUD\GameEndScreenUIComponent.h(43,61): warning C4244: 'argument': conversion from 'float' to 'sf::Uint8', possible loss of data
+  (compiling source file 'Source/Game/GameStates/GameplayState.cpp')
+  
+C:\Users\Ellio\MyDocuments\Game Development\Perforce\Software Engineering\Application\RelicShooter\Source\Game\Input\GamePad.cpp(87,1): warning C4715: 'GamePad::GetAnalogueInput': not all control paths return a value
+  Player.cpp
+  Button.cpp
+  MainMenuState.cpp
+  GameObjectWithAnimatedSprite.cpp
+C:\Users\Ellio\MyDocuments\Game Development\Perforce\Software Engineering\Application\RelicShooter\Source\Engine\Renderer\FrameTimer.h(25,10): warning C4244: 'return': conversion from 'const double' to 'float', possible loss of data
+  (compiling source file 'Source/Game/Input/ControllerInputDevice.cpp')
+  
+  GameObjectWithSprite.cpp
+  GameObjectWithText.cpp
+  GameStateTest.cpp
+  Audio.cpp
+  AudioManager.cpp
+  SoundEffect.cpp
+  StreamedAudio.cpp
+  Types.cpp
+  InputManager.cpp
+C:\Users\Ellio\MyDocuments\Game Development\Perforce\Software Engineering\Application\RelicShooter\Source\Game\GameObjects\UI\HUD\HealthUIComponent.h(33,63): warning C4244: 'argument': conversion from 'float' to 'sf::Uint8', possible loss of data
+  (compiling source file 'Source/Game/GameStates/MainMenuState.cpp')
+  
+C:\Users\Ellio\MyDocuments\Game Development\Perforce\Software Engineering\Application\RelicShooter\Source\Game\GameObjects\UI\HUD\HealthUIComponent.h(33,56): warning C4244: 'argument': conversion from 'float' to 'sf::Uint8', possible loss of data
+  (compiling source file 'Source/Game/GameStates/MainMenuState.cpp')
+  
+C:\Users\Ellio\MyDocuments\Game Development\Perforce\Software Engineering\Application\RelicShooter\Source\Game\GameObjects\UI\HUD\HealthUIComponent.h(33,48): warning C4244: 'argument': conversion from 'float' to 'sf::Uint8', possible loss of data
+  (compiling source file 'Source/Game/GameStates/MainMenuState.cpp')
+  
+C:\Users\Ellio\MyDocuments\Game Development\Perforce\Software Engineering\Application\RelicShooter\Source\Game\GameObjects\UI\HUD\HealthUIComponent.h(34,62): warning C4244: 'argument': conversion from 'float' to 'sf::Uint8', possible loss of data
+  (compiling source file 'Source/Game/GameStates/MainMenuState.cpp')
+  
+C:\Users\Ellio\MyDocuments\Game Development\Perforce\Software Engineering\Application\RelicShooter\Source\Game\GameObjects\UI\HUD\HealthUIComponent.h(34,55): warning C4244: 'argument': conversion from 'float' to 'sf::Uint8', possible loss of data
+  (compiling source file 'Source/Game/GameStates/MainMenuState.cpp')
+  
+C:\Users\Ellio\MyDocuments\Game Development\Perforce\Software Engineering\Application\RelicShooter\Source\Game\GameObjects\UI\HUD\HealthUIComponent.h(34,48): warning C4244: 'argument': conversion from 'float' to 'sf::Uint8', possible loss of data
+  (compiling source file 'Source/Game/GameStates/MainMenuState.cpp')
+  
+  BoxCollider2D.cpp
+  CircleCollider2D.cpp
+C:\Users\Ellio\MyDocuments\Game Development\Perforce\Software Engineering\Application\RelicShooter\Source\Engine\Renderer\FrameTimer.h(25,10): warning C4244: 'return': conversion from 'const double' to 'float', possible loss of data
+  (compiling source file 'Source/Game/GameObjects/Enemies/Enemy.cpp')
+  
+  Collider2D.cpp
+C:\Users\Ellio\MyDocuments\Game Development\Perforce\Software Engineering\Application\RelicShooter\Source\Game\GameObjects\Player\Player.h(26,27): warning C4244: 'initializing': conversion from 'float' to 'const int', possible loss of data
+  (compiling source file 'Source/Game/GameObjects/Enemies/Enemy.cpp')
+  
+C:\Users\Ellio\MyDocuments\Game Development\Perforce\Software Engineering\Application\RelicShooter\Source\Game\GameObjects\Player\Player.h(43,16): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+  (compiling source file 'Source/Game/GameObjects/Enemies/Enemy.cpp')
+  
+C:\Users\Ellio\MyDocuments\Game Development\Perforce\Software Engineering\Application\RelicShooter\Source\Game\GameObjects\Player\Player.h(44,19): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+  (compiling source file 'Source/Game/GameObjects/Enemies/Enemy.cpp')
+  
+C:\Users\Ellio\MyDocuments\Game Development\Perforce\Software Engineering\Application\RelicShooter\Source\Engine\Renderer\FrameTimer.h(25,10): warning C4244: 'return': conversion from 'const double' to 'float', possible loss of data
+  (compiling source file 'Source/Game/GameStates/GameStateLevel1.cpp')
+  
+C:\Users\Ellio\MyDocuments\Game Development\Perforce\Software Engineering\Application\RelicShooter\Source\Game\GameStates\GameStateLevel1.cpp(84,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\Users\Ellio\MyDocuments\Game Development\Perforce\Software Engineering\Application\RelicShooter\Source\Game\GameStates\GameStateLevel1.cpp(276,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Ellio\MyDocuments\Game Development\Perforce\Software Engineering\Application\RelicShooter\Source\Game\GameStates\GameStateLevel1.cpp(281,47): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+C:\Users\Ellio\MyDocuments\Game Development\Perforce\Software Engineering\Application\RelicShooter\Source\Game\GameStates\GameStateLevel1.cpp(281,47): warning C4244:         with
+C:\Users\Ellio\MyDocuments\Game Development\Perforce\Software Engineering\Application\RelicShooter\Source\Game\GameStates\GameStateLevel1.cpp(281,47): warning C4244:         [
+C:\Users\Ellio\MyDocuments\Game Development\Perforce\Software Engineering\Application\RelicShooter\Source\Game\GameStates\GameStateLevel1.cpp(281,47): warning C4244:             T=float
+C:\Users\Ellio\MyDocuments\Game Development\Perforce\Software Engineering\Application\RelicShooter\Source\Game\GameStates\GameStateLevel1.cpp(281,47): warning C4244:         ]
+C:\Users\Ellio\MyDocuments\Game Development\Perforce\Software Engineering\Application\RelicShooter\Source\Game\GameStates\GameStateLevel1.cpp(281,32): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+C:\Users\Ellio\MyDocuments\Game Development\Perforce\Software Engineering\Application\RelicShooter\Source\Game\GameStates\GameStateLevel1.cpp(281,32): warning C4244:         with
+C:\Users\Ellio\MyDocuments\Game Development\Perforce\Software Engineering\Application\RelicShooter\Source\Game\GameStates\GameStateLevel1.cpp(281,32): warning C4244:         [
+C:\Users\Ellio\MyDocuments\Game Development\Perforce\Software Engineering\Application\RelicShooter\Source\Game\GameStates\GameStateLevel1.cpp(281,32): warning C4244:             T=float
+C:\Users\Ellio\MyDocuments\Game Development\Perforce\Software Engineering\Application\RelicShooter\Source\Game\GameStates\GameStateLevel1.cpp(281,32): warning C4244:         ]
+C:\Users\Ellio\MyDocuments\Game Development\Perforce\Software Engineering\Application\RelicShooter\Source\Game\GameStates\GameStateLevel1.cpp(295,47): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+C:\Users\Ellio\MyDocuments\Game Development\Perforce\Software Engineering\Application\RelicShooter\Source\Game\GameStates\GameStateLevel1.cpp(295,47): warning C4244:         with
+C:\Users\Ellio\MyDocuments\Game Development\Perforce\Software Engineering\Application\RelicShooter\Source\Game\GameStates\GameStateLevel1.cpp(295,47): warning C4244:         [
+C:\Users\Ellio\MyDocuments\Game Development\Perforce\Software Engineering\Application\RelicShooter\Source\Game\GameStates\GameStateLevel1.cpp(295,47): warning C4244:             T=float
+C:\Users\Ellio\MyDocuments\Game Development\Perforce\Software Engineering\Application\RelicShooter\Source\Game\GameStates\GameStateLevel1.cpp(295,47): warning C4244:         ]
+C:\Users\Ellio\MyDocuments\Game Development\Perforce\Software Engineering\Application\RelicShooter\Source\Game\GameStates\GameStateLevel1.cpp(295,32): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+C:\Users\Ellio\MyDocuments\Game Development\Perforce\Software Engineering\Application\RelicShooter\Source\Game\GameStates\GameStateLevel1.cpp(295,32): warning C4244:         with
+C:\Users\Ellio\MyDocuments\Game Development\Perforce\Software Engineering\Application\RelicShooter\Source\Game\GameStates\GameStateLevel1.cpp(295,32): warning C4244:         [
+C:\Users\Ellio\MyDocuments\Game Development\Perforce\Software Engineering\Application\RelicShooter\Source\Game\GameStates\GameStateLevel1.cpp(295,32): warning C4244:             T=float
+C:\Users\Ellio\MyDocuments\Game Development\Perforce\Software Engineering\Application\RelicShooter\Source\Game\GameStates\GameStateLevel1.cpp(295,32): warning C4244:         ]
+C:\Users\Ellio\MyDocuments\Game Development\Perforce\Software Engineering\Application\RelicShooter\Source\Game\GameStates\GameStateLevel1.cpp(309,47): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+C:\Users\Ellio\MyDocuments\Game Development\Perforce\Software Engineering\Application\RelicShooter\Source\Game\GameStates\GameStateLevel1.cpp(309,47): warning C4244:         with
+C:\Users\Ellio\MyDocuments\Game Development\Perforce\Software Engineering\Application\RelicShooter\Source\Game\GameStates\GameStateLevel1.cpp(309,47): warning C4244:         [
+C:\Users\Ellio\MyDocuments\Game Development\Perforce\Software Engineering\Application\RelicShooter\Source\Game\GameStates\GameStateLevel1.cpp(309,47): warning C4244:             T=float
+C:\Users\Ellio\MyDocuments\Game Development\Perforce\Software Engineering\Application\RelicShooter\Source\Game\GameStates\GameStateLevel1.cpp(309,47): warning C4244:         ]
+C:\Users\Ellio\MyDocuments\Game Development\Perforce\Software Engineering\Application\RelicShooter\Source\Game\GameStates\GameStateLevel1.cpp(309,32): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+C:\Users\Ellio\MyDocuments\Game Development\Perforce\Software Engineering\Application\RelicShooter\Source\Game\GameStates\GameStateLevel1.cpp(309,32): warning C4244:         with
+C:\Users\Ellio\MyDocuments\Game Development\Perforce\Software Engineering\Application\RelicShooter\Source\Game\GameStates\GameStateLevel1.cpp(309,32): warning C4244:         [
+C:\Users\Ellio\MyDocuments\Game Development\Perforce\Software Engineering\Application\RelicShooter\Source\Game\GameStates\GameStateLevel1.cpp(309,32): warning C4244:             T=float
+C:\Users\Ellio\MyDocuments\Game Development\Perforce\Software Engineering\Application\RelicShooter\Source\Game\GameStates\GameStateLevel1.cpp(309,32): warning C4244:         ]
+C:\Users\Ellio\MyDocuments\Game Development\Perforce\Software Engineering\Application\RelicShooter\Source\Game\GameObjects\Player\Player.h(26,27): warning C4244: 'initializing': conversion from 'float' to 'const int', possible loss of data
+  (compiling source file 'Source/Game/GameObjects/Player/Player.cpp')
+  
+C:\Users\Ellio\MyDocuments\Game Development\Perforce\Software Engineering\Application\RelicShooter\Source\Game\GameObjects\Player\Player.h(43,16): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+  (compiling source file 'Source/Game/GameObjects/Player/Player.cpp')
+  
+C:\Users\Ellio\MyDocuments\Game Development\Perforce\Software Engineering\Application\RelicShooter\Source\Game\GameObjects\Player\Player.h(44,19): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+  (compiling source file 'Source/Game/GameObjects/Player/Player.cpp')
+  
+  AnimatedSprite.cpp
+C:\Users\Ellio\MyDocuments\Game Development\Perforce\Software Engineering\Application\RelicShooter\Source\Game\GameObjects\Player\Player.cpp(179,45): warning C4244: 'return': conversion from 'float' to 'int', possible loss of data
+C:\Users\Ellio\MyDocuments\Game Development\Perforce\Software Engineering\Application\RelicShooter\Source\Game\GameObjects\Player\Player.cpp(209,25): warning C4244: 'return': conversion from 'const float' to 'int', possible loss of data
+C:\Users\Ellio\MyDocuments\Game Development\Perforce\Software Engineering\Application\RelicShooter\Source\Game\GameObjects\Player\Player.cpp(503,34): warning C4244: 'argument': conversion from 'const float' to 'int', possible loss of data
+C:\Users\Ellio\MyDocuments\Game Development\Perforce\Software Engineering\Application\RelicShooter\Source\Game\GameObjects\Player\Player.cpp(504,34): warning C4244: 'argument': conversion from 'const float' to 'int', possible loss of data
+C:\Users\Ellio\MyDocuments\Game Development\Perforce\Software Engineering\Application\RelicShooter\Source\Game\GameObjects\UI\HUD\StaminaUIComponent.h(27,67): warning C4244: 'argument': conversion from 'float' to 'sf::Uint8', possible loss of data
+  (compiling source file 'Source/Game/GameStates/MainMenuState.cpp')
+  
+C:\Users\Ellio\MyDocuments\Game Development\Perforce\Software Engineering\Application\RelicShooter\Source\Game\GameObjects\UI\HUD\StaminaUIComponent.h(27,60): warning C4244: 'argument': conversion from 'float' to 'sf::Uint8', possible loss of data
+  (compiling source file 'Source/Game/GameStates/MainMenuState.cpp')
+  
+C:\Users\Ellio\MyDocuments\Game Development\Perforce\Software Engineering\Application\RelicShooter\Source\Game\GameObjects\UI\HUD\StaminaUIComponent.h(27,53): warning C4244: 'argument': conversion from 'float' to 'sf::Uint8', possible loss of data
+  (compiling source file 'Source/Game/GameStates/MainMenuState.cpp')
+  
+C:\Users\Ellio\MyDocuments\Game Development\Perforce\Software Engineering\Application\RelicShooter\Source\Game\GameObjects\UI\HUD\StaminaUIComponent.h(27,46): warning C4244: 'argument': conversion from 'float' to 'sf::Uint8', possible loss of data
+  (compiling source file 'Source/Game/GameStates/MainMenuState.cpp')
+  
+C:\Users\Ellio\MyDocuments\Game Development\Perforce\Software Engineering\Application\RelicShooter\Source\Game\GameObjects\BaseGameObjects\GameObjectWithText.cpp(32,50): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\Ellio\MyDocuments\Game Development\Perforce\Software Engineering\Application\RelicShooter\Source\Game\GameObjects\BaseGameObjects\GameObjectWithText.cpp(33,50): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\Ellio\MyDocuments\Game Development\Perforce\Software Engineering\Application\RelicShooter\Source\Game\GameObjects\UI\HUD\WaveUIComponent.h(34,63): warning C4244: 'argument': conversion from 'float' to 'sf::Uint8', possible loss of data
+  (compiling source file 'Source/Game/GameStates/MainMenuState.cpp')
+  
+C:\Users\Ellio\MyDocuments\Game Development\Perforce\Software Engineering\Application\RelicShooter\Source\Game\GameObjects\UI\HUD\WeaponUIComponent.h(40,62): warning C4244: 'argument': conversion from 'float' to 'sf::Uint8', possible loss of data
+  (compiling source file 'Source/Game/GameStates/MainMenuState.cpp')
+  
+C:\Users\Ellio\MyDocuments\Game Development\Perforce\Software Engineering\Application\RelicShooter\Source\Game\GameObjects\UI\HUD\WeaponUIComponent.h(40,55): warning C4244: 'argument': conversion from 'float' to 'sf::Uint8', possible loss of data
+  (compiling source file 'Source/Game/GameStates/MainMenuState.cpp')
+  
+C:\Users\Ellio\MyDocuments\Game Development\Perforce\Software Engineering\Application\RelicShooter\Source\Game\GameObjects\UI\HUD\WeaponUIComponent.h(40,48): warning C4244: 'argument': conversion from 'float' to 'sf::Uint8', possible loss of data
+  (compiling source file 'Source/Game/GameStates/MainMenuState.cpp')
+  
+C:\Users\Ellio\MyDocuments\Game Development\Perforce\Software Engineering\Application\RelicShooter\Source\Game\GameObjects\UI\HUD\GameEndScreenUIComponent.h(39,75): warning C4244: 'argument': conversion from 'float' to 'sf::Uint8', possible loss of data
+  (compiling source file 'Source/Game/GameStates/MainMenuState.cpp')
+  
+C:\Users\Ellio\MyDocuments\Game Development\Perforce\Software Engineering\Application\RelicShooter\Source\Game\GameObjects\UI\HUD\GameEndScreenUIComponent.h(39,69): warning C4244: 'argument': conversion from 'float' to 'sf::Uint8', possible loss of data
+  (compiling source file 'Source/Game/GameStates/MainMenuState.cpp')
+  
+C:\Users\Ellio\MyDocuments\Game Development\Perforce\Software Engineering\Application\RelicShooter\Source\Game\GameObjects\UI\HUD\GameEndScreenUIComponent.h(39,61): warning C4244: 'argument': conversion from 'float' to 'sf::Uint8', possible loss of data
+  (compiling source file 'Source/Game/GameStates/MainMenuState.cpp')
+  
+C:\Users\Ellio\MyDocuments\Game Development\Perforce\Software Engineering\Application\RelicShooter\Source\Game\GameObjects\UI\HUD\GameEndScreenUIComponent.h(39,55): warning C4244: 'argument': conversion from 'float' to 'sf::Uint8', possible loss of data
+  (compiling source file 'Source/Game/GameStates/MainMenuState.cpp')
+  
+C:\Users\Ellio\MyDocuments\Game Development\Perforce\Software Engineering\Application\RelicShooter\Source\Game\GameObjects\UI\HUD\GameEndScreenUIComponent.h(40,76): warning C4244: 'argument': conversion from 'float' to 'sf::Uint8', possible loss of data
+  (compiling source file 'Source/Game/GameStates/MainMenuState.cpp')
+  
+C:\Users\Ellio\MyDocuments\Game Development\Perforce\Software Engineering\Application\RelicShooter\Source\Game\GameObjects\UI\HUD\GameEndScreenUIComponent.h(40,70): warning C4244: 'argument': conversion from 'float' to 'sf::Uint8', possible loss of data
+  (compiling source file 'Source/Game/GameStates/MainMenuState.cpp')
+  
+C:\Users\Ellio\MyDocuments\Game Development\Perforce\Software Engineering\Application\RelicShooter\Source\Game\GameObjects\UI\HUD\GameEndScreenUIComponent.h(40,64): warning C4244: 'argument': conversion from 'float' to 'sf::Uint8', possible loss of data
+  (compiling source file 'Source/Game/GameStates/MainMenuState.cpp')
+  
+C:\Users\Ellio\MyDocuments\Game Development\Perforce\Software Engineering\Application\RelicShooter\Source\Game\GameObjects\UI\HUD\GameEndScreenUIComponent.h(40,56): warning C4244: 'argument': conversion from 'float' to 'sf::Uint8', possible loss of data
+  (compiling source file 'Source/Game/GameStates/MainMenuState.cpp')
+  
+C:\Users\Ellio\MyDocuments\Game Development\Perforce\Software Engineering\Application\RelicShooter\Source\Game\GameObjects\UI\HUD\GameEndScreenUIComponent.h(43,61): warning C4244: 'argument': conversion from 'float' to 'sf::Uint8', possible loss of data
+  (compiling source file 'Source/Game/GameStates/MainMenuState.cpp')
+  
+C:\Users\Ellio\MyDocuments\Game Development\Perforce\Software Engineering\Application\RelicShooter\Source\Game\GameObjects\Player\Player.h(26,27): warning C4244: 'initializing': conversion from 'float' to 'const int', possible loss of data
+  (compiling source file 'Source/Game/GameStates/GameStateTest.cpp')
+  
+C:\Users\Ellio\MyDocuments\Game Development\Perforce\Software Engineering\Application\RelicShooter\Source\Game\GameObjects\Player\Player.h(43,16): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+  (compiling source file 'Source/Game/GameStates/GameStateTest.cpp')
+  
+C:\Users\Ellio\MyDocuments\Game Development\Perforce\Software Engineering\Application\RelicShooter\Source\Game\GameObjects\Player\Player.h(44,19): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+  (compiling source file 'Source/Game/GameStates/GameStateTest.cpp')
+  
+  FrameTimer.cpp
+C:\Users\Ellio\MyDocuments\Game Development\Perforce\Software Engineering\Application\RelicShooter\Source\Game\GameObjects\UI\HUD\HealthUIComponent.h(33,63): warning C4244: 'argument': conversion from 'float' to 'sf::Uint8', possible loss of data
+  (compiling source file 'Source/Game/GameStates/GameStateTest.cpp')
+  
+C:\Users\Ellio\MyDocuments\Game Development\Perforce\Software Engineering\Application\RelicShooter\Source\Game\GameObjects\UI\HUD\HealthUIComponent.h(33,56): warning C4244: 'argument': conversion from 'float' to 'sf::Uint8', possible loss of data
+  (compiling source file 'Source/Game/GameStates/GameStateTest.cpp')
+  
+C:\Users\Ellio\MyDocuments\Game Development\Perforce\Software Engineering\Application\RelicShooter\Source\Game\GameObjects\UI\HUD\HealthUIComponent.h(33,48): warning C4244: 'argument': conversion from 'float' to 'sf::Uint8', possible loss of data
+  (compiling source file 'Source/Game/GameStates/GameStateTest.cpp')
+  
+C:\Users\Ellio\MyDocuments\Game Development\Perforce\Software Engineering\Application\RelicShooter\Source\Game\GameObjects\UI\HUD\HealthUIComponent.h(34,62): warning C4244: 'argument': conversion from 'float' to 'sf::Uint8', possible loss of data
+  (compiling source file 'Source/Game/GameStates/GameStateTest.cpp')
+  
+C:\Users\Ellio\MyDocuments\Game Development\Perforce\Software Engineering\Application\RelicShooter\Source\Game\GameObjects\UI\HUD\HealthUIComponent.h(34,55): warning C4244: 'argument': conversion from 'float' to 'sf::Uint8', possible loss of data
+  (compiling source file 'Source/Game/GameStates/GameStateTest.cpp')
+  
+C:\Users\Ellio\MyDocuments\Game Development\Perforce\Software Engineering\Application\RelicShooter\Source\Game\GameObjects\UI\HUD\HealthUIComponent.h(34,48): warning C4244: 'argument': conversion from 'float' to 'sf::Uint8', possible loss of data
+  (compiling source file 'Source/Game/GameStates/GameStateTest.cpp')
+  
+C:\Users\Ellio\MyDocuments\Game Development\Perforce\Software Engineering\Application\RelicShooter\Source\Game\GameObjects\UI\HUD\StaminaUIComponent.h(27,67): warning C4244: 'argument': conversion from 'float' to 'sf::Uint8', possible loss of data
+  (compiling source file 'Source/Game/GameStates/GameStateTest.cpp')
+  
+C:\Users\Ellio\MyDocuments\Game Development\Perforce\Software Engineering\Application\RelicShooter\Source\Game\GameObjects\UI\HUD\StaminaUIComponent.h(27,60): warning C4244: 'argument': conversion from 'float' to 'sf::Uint8', possible loss of data
+  (compiling source file 'Source/Game/GameStates/GameStateTest.cpp')
+  
+C:\Users\Ellio\MyDocuments\Game Development\Perforce\Software Engineering\Application\RelicShooter\Source\Game\GameObjects\UI\HUD\StaminaUIComponent.h(27,53): warning C4244: 'argument': conversion from 'float' to 'sf::Uint8', possible loss of data
+  (compiling source file 'Source/Game/GameStates/GameStateTest.cpp')
+  
+C:\Users\Ellio\MyDocuments\Game Development\Perforce\Software Engineering\Application\RelicShooter\Source\Game\GameObjects\UI\HUD\StaminaUIComponent.h(27,46): warning C4244: 'argument': conversion from 'float' to 'sf::Uint8', possible loss of data
+  (compiling source file 'Source/Game/GameStates/GameStateTest.cpp')
+  
+C:\Users\Ellio\MyDocuments\Game Development\Perforce\Software Engineering\Application\RelicShooter\Source\Game\GameObjects\UI\HUD\WaveUIComponent.h(34,63): warning C4244: 'argument': conversion from 'float' to 'sf::Uint8', possible loss of data
+  (compiling source file 'Source/Game/GameStates/GameStateTest.cpp')
+  
+C:\Users\Ellio\MyDocuments\Game Development\Perforce\Software Engineering\Application\RelicShooter\Source\Game\GameObjects\UI\HUD\WeaponUIComponent.h(40,62): warning C4244: 'argument': conversion from 'float' to 'sf::Uint8', possible loss of data
+  (compiling source file 'Source/Game/GameStates/GameStateTest.cpp')
+  
+C:\Users\Ellio\MyDocuments\Game Development\Perforce\Software Engineering\Application\RelicShooter\Source\Game\GameObjects\UI\HUD\WeaponUIComponent.h(40,55): warning C4244: 'argument': conversion from 'float' to 'sf::Uint8', possible loss of data
+  (compiling source file 'Source/Game/GameStates/GameStateTest.cpp')
+  
+C:\Users\Ellio\MyDocuments\Game Development\Perforce\Software Engineering\Application\RelicShooter\Source\Game\GameObjects\UI\HUD\WeaponUIComponent.h(40,48): warning C4244: 'argument': conversion from 'float' to 'sf::Uint8', possible loss of data
+  (compiling source file 'Source/Game/GameStates/GameStateTest.cpp')
+  
+C:\Users\Ellio\MyDocuments\Game Development\Perforce\Software Engineering\Application\RelicShooter\Source\Game\GameObjects\Player\Player.h(26,27): warning C4244: 'initializing': conversion from 'float' to 'const int', possible loss of data
+  (compiling source file 'Source/Game/GameStates/MainMenuState.cpp')
+  
+C:\Users\Ellio\MyDocuments\Game Development\Perforce\Software Engineering\Application\RelicShooter\Source\Game\GameObjects\Player\Player.h(43,16): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+  (compiling source file 'Source/Game/GameStates/MainMenuState.cpp')
+  
+C:\Users\Ellio\MyDocuments\Game Development\Perforce\Software Engineering\Application\RelicShooter\Source\Game\GameObjects\Player\Player.h(44,19): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+  (compiling source file 'Source/Game/GameStates/MainMenuState.cpp')
+  
+C:\Users\Ellio\MyDocuments\Game Development\Perforce\Software Engineering\Application\RelicShooter\Source\Game\GameObjects\UI\HUD\GameEndScreenUIComponent.h(39,75): warning C4244: 'argument': conversion from 'float' to 'sf::Uint8', possible loss of data
+  (compiling source file 'Source/Game/GameStates/GameStateTest.cpp')
+  
+C:\Users\Ellio\MyDocuments\Game Development\Perforce\Software Engineering\Application\RelicShooter\Source\Game\GameObjects\UI\HUD\GameEndScreenUIComponent.h(39,69): warning C4244: 'argument': conversion from 'float' to 'sf::Uint8', possible loss of data
+  (compiling source file 'Source/Game/GameStates/GameStateTest.cpp')
+  
+C:\Users\Ellio\MyDocuments\Game Development\Perforce\Software Engineering\Application\RelicShooter\Source\Game\GameObjects\UI\HUD\GameEndScreenUIComponent.h(39,61): warning C4244: 'argument': conversion from 'float' to 'sf::Uint8', possible loss of data
+  (compiling source file 'Source/Game/GameStates/GameStateTest.cpp')
+  
+C:\Users\Ellio\MyDocuments\Game Development\Perforce\Software Engineering\Application\RelicShooter\Source\Game\GameObjects\UI\HUD\GameEndScreenUIComponent.h(39,55): warning C4244: 'argument': conversion from 'float' to 'sf::Uint8', possible loss of data
+  (compiling source file 'Source/Game/GameStates/GameStateTest.cpp')
+  
+C:\Users\Ellio\MyDocuments\Game Development\Perforce\Software Engineering\Application\RelicShooter\Source\Game\GameObjects\UI\HUD\GameEndScreenUIComponent.h(40,76): warning C4244: 'argument': conversion from 'float' to 'sf::Uint8', possible loss of data
+  (compiling source file 'Source/Game/GameStates/GameStateTest.cpp')
+  
+C:\Users\Ellio\MyDocuments\Game Development\Perforce\Software Engineering\Application\RelicShooter\Source\Game\GameObjects\UI\HUD\GameEndScreenUIComponent.h(40,70): warning C4244: 'argument': conversion from 'float' to 'sf::Uint8', possible loss of data
+  (compiling source file 'Source/Game/GameStates/GameStateTest.cpp')
+  
+C:\Users\Ellio\MyDocuments\Game Development\Perforce\Software Engineering\Application\RelicShooter\Source\Game\GameObjects\UI\HUD\GameEndScreenUIComponent.h(40,64): warning C4244: 'argument': conversion from 'float' to 'sf::Uint8', possible loss of data
+  (compiling source file 'Source/Game/GameStates/GameStateTest.cpp')
+  
+C:\Users\Ellio\MyDocuments\Game Development\Perforce\Software Engineering\Application\RelicShooter\Source\Game\GameObjects\UI\HUD\GameEndScreenUIComponent.h(40,56): warning C4244: 'argument': conversion from 'float' to 'sf::Uint8', possible loss of data
+  (compiling source file 'Source/Game/GameStates/GameStateTest.cpp')
+  
+C:\Users\Ellio\MyDocuments\Game Development\Perforce\Software Engineering\Application\RelicShooter\Source\Game\GameObjects\UI\HUD\GameEndScreenUIComponent.h(43,61): warning C4244: 'argument': conversion from 'float' to 'sf::Uint8', possible loss of data
+  (compiling source file 'Source/Game/GameStates/GameStateTest.cpp')
+  
+C:\Users\Ellio\MyDocuments\Game Development\Perforce\Software Engineering\Application\RelicShooter\Source\Game\GameStates\MainMenuState.cpp(94,47): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Ellio\MyDocuments\Game Development\Perforce\Software Engineering\Application\RelicShooter\Source\Game\GameStates\MainMenuState.cpp(111,47): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Ellio\MyDocuments\Game Development\Perforce\Software Engineering\Application\RelicShooter\Source\Game\GameStates\MainMenuState.cpp(130,47): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Ellio\MyDocuments\Game Development\Perforce\Software Engineering\Application\RelicShooter\Source\Game\GameStates\MainMenuState.cpp(149,47): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Ellio\MyDocuments\Game Development\Perforce\Software Engineering\Application\RelicShooter\Source\Game\GameStates\MainMenuState.cpp(246,37): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Ellio\MyDocuments\Game Development\Perforce\Software Engineering\Application\RelicShooter\Source\Game\GameStates\MainMenuState.cpp(283,62): warning C4244: 'argument': conversion from 'float' to 'sf::Uint8', possible loss of data
+C:\Users\Ellio\MyDocuments\Game Development\Perforce\Software Engineering\Application\RelicShooter\Source\Game\GameStates\MainMenuState.cpp(351,37): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Ellio\MyDocuments\Game Development\Perforce\Software Engineering\Application\RelicShooter\Source\Game\GameStates\MainMenuState.cpp(389,62): warning C4244: 'argument': conversion from 'float' to 'sf::Uint8', possible loss of data
+  RenderManager.cpp
+  Sprite.cpp
+  WindowManager.cpp
+  AnimationStateMachine.cpp
+  AssetManager.cpp
+  ContextProvider.cpp
+  SysContextProvider.cpp
+  GameState.cpp
+C:\Users\Ellio\MyDocuments\Game Development\Perforce\Software Engineering\Application\RelicShooter\Source\Engine\Renderer\FrameTimer.h(25,10): warning C4244: 'return': conversion from 'const double' to 'float', possible loss of data
+  (compiling source file 'Source/Game/GameObjects/UI/Button.cpp')
+  
+  GameStateManager.cpp
+C:\Users\Ellio\MyDocuments\Game Development\Perforce\Software Engineering\Application\RelicShooter\Source\Engine\Renderer\FrameTimer.h(25,10): warning C4244: 'return': conversion from 'const double' to 'float', possible loss of data
+  (compiling source file 'Source/Engine/Renderer/FrameTimer.cpp')
+  
+  Text.cpp
+  Game.cpp
+C:\Users\Ellio\MyDocuments\Game Development\Perforce\Software Engineering\Application\RelicShooter\Source\Engine\Renderer\FrameTimer.h(25,10): warning C4244: 'return': conversion from 'const double' to 'float', possible loss of data
+  (compiling source file 'Source/Game/GameStates/GameStateTest.cpp')
+  
+  GameDataManager.cpp
+C:\Users\Ellio\MyDocuments\Game Development\Perforce\Software Engineering\Application\RelicShooter\Source\Game\GameStates\GameStateTest.cpp(105,22): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\Ellio\MyDocuments\Game Development\Perforce\Software Engineering\Application\RelicShooter\Source\Game\GameStates\GameStateTest.cpp(139,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  KeyboardAndMouseInputDevice.cpp
+  GameStateLevel2.cpp
+C:\Users\Ellio\MyDocuments\Game Development\Perforce\Software Engineering\Application\RelicShooter\Source\Engine\Renderer\FrameTimer.cpp(49,22): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  Main.cpp
+  Walker.cpp
+  ScrollableBackground.cpp
+  TileMap.cpp
+  SpeedCollectible.cpp
+  UIManager.cpp
+  StaminaUIComponent.cpp
+  WeaponUIComponent.cpp
+C:\Users\Ellio\MyDocuments\Game Development\Perforce\Software Engineering\Application\RelicShooter\Source\Engine\Renderer\FrameTimer.h(25,10): warning C4244: 'return': conversion from 'const double' to 'float', possible loss of data
+  (compiling source file 'Source/Engine/Renderer/AnimatedSprite.cpp')
+  
+C:\Users\Ellio\MyDocuments\Game Development\Perforce\Software Engineering\Application\RelicShooter\Source\Engine\Renderer\AnimatedSprite.cpp(44,16): warning C4018: '>': signed/unsigned mismatch
+  WaveUIComponent.cpp
+C:\Users\Ellio\MyDocuments\Game Development\Perforce\Software Engineering\Application\RelicShooter\Source\Game\GameObjects\Player\Player.h(26,27): warning C4244: 'initializing': conversion from 'float' to 'const int', possible loss of data
+  (compiling source file 'Source/Game/GameStates/GameStateLevel2.cpp')
+  
+C:\Users\Ellio\MyDocuments\Game Development\Perforce\Software Engineering\Application\RelicShooter\Source\Game\GameObjects\Player\Player.h(43,16): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+  (compiling source file 'Source/Game/GameStates/GameStateLevel2.cpp')
+  
+C:\Users\Ellio\MyDocuments\Game Development\Perforce\Software Engineering\Application\RelicShooter\Source\Game\GameObjects\Player\Player.h(44,19): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+  (compiling source file 'Source/Game/GameStates/GameStateLevel2.cpp')
+  
+C:\Users\Ellio\MyDocuments\Game Development\Perforce\Software Engineering\Application\RelicShooter\Source\Game\GameObjects\UI\HUD\HealthUIComponent.h(33,63): warning C4244: 'argument': conversion from 'float' to 'sf::Uint8', possible loss of data
+  (compiling source file 'Source/Game/GameStates/GameStateLevel2.cpp')
+  
+C:\Users\Ellio\MyDocuments\Game Development\Perforce\Software Engineering\Application\RelicShooter\Source\Game\GameObjects\UI\HUD\HealthUIComponent.h(33,56): warning C4244: 'argument': conversion from 'float' to 'sf::Uint8', possible loss of data
+  (compiling source file 'Source/Game/GameStates/GameStateLevel2.cpp')
+  
+C:\Users\Ellio\MyDocuments\Game Development\Perforce\Software Engineering\Application\RelicShooter\Source\Game\GameObjects\UI\HUD\HealthUIComponent.h(33,48): warning C4244: 'argument': conversion from 'float' to 'sf::Uint8', possible loss of data
+  (compiling source file 'Source/Game/GameStates/GameStateLevel2.cpp')
+  
+C:\Users\Ellio\MyDocuments\Game Development\Perforce\Software Engineering\Application\RelicShooter\Source\Game\GameObjects\UI\HUD\HealthUIComponent.h(34,62): warning C4244: 'argument': conversion from 'float' to 'sf::Uint8', possible loss of data
+  (compiling source file 'Source/Game/GameStates/GameStateLevel2.cpp')
+  
+C:\Users\Ellio\MyDocuments\Game Development\Perforce\Software Engineering\Application\RelicShooter\Source\Game\GameObjects\UI\HUD\HealthUIComponent.h(34,55): warning C4244: 'argument': conversion from 'float' to 'sf::Uint8', possible loss of data
+  (compiling source file 'Source/Game/GameStates/GameStateLevel2.cpp')
+  
+C:\Users\Ellio\MyDocuments\Game Development\Perforce\Software Engineering\Application\RelicShooter\Source\Game\GameObjects\UI\HUD\HealthUIComponent.h(34,48): warning C4244: 'argument': conversion from 'float' to 'sf::Uint8', possible loss of data
+  (compiling source file 'Source/Game/GameStates/GameStateLevel2.cpp')
+  
+C:\Users\Ellio\MyDocuments\Game Development\Perforce\Software Engineering\Application\RelicShooter\Source\Game\GameObjects\UI\HUD\StaminaUIComponent.h(27,67): warning C4244: 'argument': conversion from 'float' to 'sf::Uint8', possible loss of data
+  (compiling source file 'Source/Game/GameStates/GameStateLevel2.cpp')
+  
+C:\Users\Ellio\MyDocuments\Game Development\Perforce\Software Engineering\Application\RelicShooter\Source\Game\GameObjects\UI\HUD\StaminaUIComponent.h(27,60): warning C4244: 'argument': conversion from 'float' to 'sf::Uint8', possible loss of data
+  (compiling source file 'Source/Game/GameStates/GameStateLevel2.cpp')
+  
+C:\Users\Ellio\MyDocuments\Game Development\Perforce\Software Engineering\Application\RelicShooter\Source\Game\GameObjects\UI\HUD\StaminaUIComponent.h(27,53): warning C4244: 'argument': conversion from 'float' to 'sf::Uint8', possible loss of data
+  (compiling source file 'Source/Game/GameStates/GameStateLevel2.cpp')
+  
+C:\Users\Ellio\MyDocuments\Game Development\Perforce\Software Engineering\Application\RelicShooter\Source\Game\GameObjects\UI\HUD\StaminaUIComponent.h(27,46): warning C4244: 'argument': conversion from 'float' to 'sf::Uint8', possible loss of data
+  (compiling source file 'Source/Game/GameStates/GameStateLevel2.cpp')
+  
+C:\Users\Ellio\MyDocuments\Game Development\Perforce\Software Engineering\Application\RelicShooter\Source\Game\GameObjects\UI\HUD\WaveUIComponent.h(34,63): warning C4244: 'argument': conversion from 'float' to 'sf::Uint8', possible loss of data
+  (compiling source file 'Source/Game/GameStates/GameStateLevel2.cpp')
+  
+C:\Users\Ellio\MyDocuments\Game Development\Perforce\Software Engineering\Application\RelicShooter\Source\Game\GameObjects\UI\HUD\WeaponUIComponent.h(40,62): warning C4244: 'argument': conversion from 'float' to 'sf::Uint8', possible loss of data
+  (compiling source file 'Source/Game/GameStates/GameStateLevel2.cpp')
+  
+C:\Users\Ellio\MyDocuments\Game Development\Perforce\Software Engineering\Application\RelicShooter\Source\Game\GameObjects\UI\HUD\WeaponUIComponent.h(40,55): warning C4244: 'argument': conversion from 'float' to 'sf::Uint8', possible loss of data
+  (compiling source file 'Source/Game/GameStates/GameStateLevel2.cpp')
+  
+C:\Users\Ellio\MyDocuments\Game Development\Perforce\Software Engineering\Application\RelicShooter\Source\Game\GameObjects\UI\HUD\WeaponUIComponent.h(40,48): warning C4244: 'argument': conversion from 'float' to 'sf::Uint8', possible loss of data
+  (compiling source file 'Source/Game/GameStates/GameStateLevel2.cpp')
+  
+C:\Users\Ellio\MyDocuments\Game Development\Perforce\Software Engineering\Application\RelicShooter\Source\Game\GameObjects\UI\HUD\GameEndScreenUIComponent.h(39,75): warning C4244: 'argument': conversion from 'float' to 'sf::Uint8', possible loss of data
+  (compiling source file 'Source/Game/GameStates/GameStateLevel2.cpp')
+  
+C:\Users\Ellio\MyDocuments\Game Development\Perforce\Software Engineering\Application\RelicShooter\Source\Game\GameObjects\UI\HUD\GameEndScreenUIComponent.h(39,69): warning C4244: 'argument': conversion from 'float' to 'sf::Uint8', possible loss of data
+  (compiling source file 'Source/Game/GameStates/GameStateLevel2.cpp')
+  
+C:\Users\Ellio\MyDocuments\Game Development\Perforce\Software Engineering\Application\RelicShooter\Source\Game\GameObjects\UI\HUD\GameEndScreenUIComponent.h(39,61): warning C4244: 'argument': conversion from 'float' to 'sf::Uint8', possible loss of data
+  (compiling source file 'Source/Game/GameStates/GameStateLevel2.cpp')
+  
+C:\Users\Ellio\MyDocuments\Game Development\Perforce\Software Engineering\Application\RelicShooter\Source\Game\GameObjects\UI\HUD\GameEndScreenUIComponent.h(39,55): warning C4244: 'argument': conversion from 'float' to 'sf::Uint8', possible loss of data
+  (compiling source file 'Source/Game/GameStates/GameStateLevel2.cpp')
+  
+C:\Users\Ellio\MyDocuments\Game Development\Perforce\Software Engineering\Application\RelicShooter\Source\Game\GameObjects\UI\HUD\GameEndScreenUIComponent.h(40,76): warning C4244: 'argument': conversion from 'float' to 'sf::Uint8', possible loss of data
+  (compiling source file 'Source/Game/GameStates/GameStateLevel2.cpp')
+  
+C:\Users\Ellio\MyDocuments\Game Development\Perforce\Software Engineering\Application\RelicShooter\Source\Game\GameObjects\UI\HUD\GameEndScreenUIComponent.h(40,70): warning C4244: 'argument': conversion from 'float' to 'sf::Uint8', possible loss of data
+  (compiling source file 'Source/Game/GameStates/GameStateLevel2.cpp')
+  
+C:\Users\Ellio\MyDocuments\Game Development\Perforce\Software Engineering\Application\RelicShooter\Source\Game\GameObjects\UI\HUD\GameEndScreenUIComponent.h(40,64): warning C4244: 'argument': conversion from 'float' to 'sf::Uint8', possible loss of data
+  (compiling source file 'Source/Game/GameStates/GameStateLevel2.cpp')
+  
+C:\Users\Ellio\MyDocuments\Game Development\Perforce\Software Engineering\Application\RelicShooter\Source\Game\GameObjects\UI\HUD\GameEndScreenUIComponent.h(40,56): warning C4244: 'argument': conversion from 'float' to 'sf::Uint8', possible loss of data
+  (compiling source file 'Source/Game/GameStates/GameStateLevel2.cpp')
+  
+C:\Users\Ellio\MyDocuments\Game Development\Perforce\Software Engineering\Application\RelicShooter\Source\Game\GameObjects\UI\HUD\GameEndScreenUIComponent.h(43,61): warning C4244: 'argument': conversion from 'float' to 'sf::Uint8', possible loss of data
+  (compiling source file 'Source/Game/GameStates/GameStateLevel2.cpp')
+  
+C:\Users\Ellio\MyDocuments\Game Development\Perforce\Software Engineering\Application\RelicShooter\Source\Game\GameObjects\UI\HUD\HealthUIComponent.h(33,63): warning C4244: 'argument': conversion from 'float' to 'sf::Uint8', possible loss of data
+  (compiling source file 'Source/Game/GameObjects/UI/HUD/UIManager.cpp')
+  
+C:\Users\Ellio\MyDocuments\Game Development\Perforce\Software Engineering\Application\RelicShooter\Source\Game\GameObjects\UI\HUD\HealthUIComponent.h(33,56): warning C4244: 'argument': conversion from 'float' to 'sf::Uint8', possible loss of data
+  (compiling source file 'Source/Game/GameObjects/UI/HUD/UIManager.cpp')
+  
+C:\Users\Ellio\MyDocuments\Game Development\Perforce\Software Engineering\Application\RelicShooter\Source\Game\GameObjects\UI\HUD\HealthUIComponent.h(33,48): warning C4244: 'argument': conversion from 'float' to 'sf::Uint8', possible loss of data
+  (compiling source file 'Source/Game/GameObjects/UI/HUD/UIManager.cpp')
+  
+C:\Users\Ellio\MyDocuments\Game Development\Perforce\Software Engineering\Application\RelicShooter\Source\Game\GameObjects\UI\HUD\HealthUIComponent.h(34,62): warning C4244: 'argument': conversion from 'float' to 'sf::Uint8', possible loss of data
+  (compiling source file 'Source/Game/GameObjects/UI/HUD/UIManager.cpp')
+  
+C:\Users\Ellio\MyDocuments\Game Development\Perforce\Software Engineering\Application\RelicShooter\Source\Game\GameObjects\UI\HUD\HealthUIComponent.h(34,55): warning C4244: 'argument': conversion from 'float' to 'sf::Uint8', possible loss of data
+  (compiling source file 'Source/Game/GameObjects/UI/HUD/UIManager.cpp')
+  
+C:\Users\Ellio\MyDocuments\Game Development\Perforce\Software Engineering\Application\RelicShooter\Source\Game\GameObjects\UI\HUD\HealthUIComponent.h(34,48): warning C4244: 'argument': conversion from 'float' to 'sf::Uint8', possible loss of data
+  (compiling source file 'Source/Game/GameObjects/UI/HUD/UIManager.cpp')
+  
+C:\Users\Ellio\MyDocuments\Game Development\Perforce\Software Engineering\Application\RelicShooter\Source\Game\GameObjects\UI\HUD\StaminaUIComponent.h(27,67): warning C4244: 'argument': conversion from 'float' to 'sf::Uint8', possible loss of data
+  (compiling source file 'Source/Game/GameObjects/UI/HUD/StaminaUIComponent.cpp')
+  
+C:\Users\Ellio\MyDocuments\Game Development\Perforce\Software Engineering\Application\RelicShooter\Source\Game\GameObjects\UI\HUD\StaminaUIComponent.h(27,60): warning C4244: 'argument': conversion from 'float' to 'sf::Uint8', possible loss of data
+  (compiling source file 'Source/Game/GameObjects/UI/HUD/StaminaUIComponent.cpp')
+  
+C:\Users\Ellio\MyDocuments\Game Development\Perforce\Software Engineering\Application\RelicShooter\Source\Game\GameObjects\UI\HUD\StaminaUIComponent.h(27,53): warning C4244: 'argument': conversion from 'float' to 'sf::Uint8', possible loss of data
+  (compiling source file 'Source/Game/GameObjects/UI/HUD/StaminaUIComponent.cpp')
+  
+C:\Users\Ellio\MyDocuments\Game Development\Perforce\Software Engineering\Application\RelicShooter\Source\Game\GameObjects\UI\HUD\StaminaUIComponent.h(27,46): warning C4244: 'argument': conversion from 'float' to 'sf::Uint8', possible loss of data
+  (compiling source file 'Source/Game/GameObjects/UI/HUD/StaminaUIComponent.cpp')
+  
+C:\Users\Ellio\MyDocuments\Game Development\Perforce\Software Engineering\Application\RelicShooter\Source\Engine\Renderer\AnimatedSprite.cpp(55,1): warning C4172: returning address of local variable or temporary : sprite
+C:\Users\Ellio\MyDocuments\Game Development\Perforce\Software Engineering\Application\RelicShooter\Source\Game\GameObjects\UI\ScrollableBackground.cpp(14,30): warning C4244: 'argument': conversion from 'float' to 'T', possible loss of data
+C:\Users\Ellio\MyDocuments\Game Development\Perforce\Software Engineering\Application\RelicShooter\Source\Game\GameObjects\UI\ScrollableBackground.cpp(14,30): warning C4244:         with
+C:\Users\Ellio\MyDocuments\Game Development\Perforce\Software Engineering\Application\RelicShooter\Source\Game\GameObjects\UI\ScrollableBackground.cpp(14,30): warning C4244:         [
+C:\Users\Ellio\MyDocuments\Game Development\Perforce\Software Engineering\Application\RelicShooter\Source\Game\GameObjects\UI\ScrollableBackground.cpp(14,30): warning C4244:             T=int
+C:\Users\Ellio\MyDocuments\Game Development\Perforce\Software Engineering\Application\RelicShooter\Source\Game\GameObjects\UI\ScrollableBackground.cpp(14,30): warning C4244:         ]
+C:\Users\Ellio\MyDocuments\Game Development\Perforce\Software Engineering\Application\RelicShooter\Source\Game\GameObjects\UI\ScrollableBackground.cpp(14,25): warning C4244: 'argument': conversion from 'float' to 'T', possible loss of data
+C:\Users\Ellio\MyDocuments\Game Development\Perforce\Software Engineering\Application\RelicShooter\Source\Game\GameObjects\UI\ScrollableBackground.cpp(14,25): warning C4244:         with
+C:\Users\Ellio\MyDocuments\Game Development\Perforce\Software Engineering\Application\RelicShooter\Source\Game\GameObjects\UI\ScrollableBackground.cpp(14,25): warning C4244:         [
+C:\Users\Ellio\MyDocuments\Game Development\Perforce\Software Engineering\Application\RelicShooter\Source\Game\GameObjects\UI\ScrollableBackground.cpp(14,25): warning C4244:             T=int
+C:\Users\Ellio\MyDocuments\Game Development\Perforce\Software Engineering\Application\RelicShooter\Source\Game\GameObjects\UI\ScrollableBackground.cpp(14,25): warning C4244:         ]
+C:\Users\Ellio\MyDocuments\Game Development\Perforce\Software Engineering\Application\RelicShooter\Source\Game\GameObjects\UI\ScrollableBackground.cpp(15,70): warning C4244: 'argument': conversion from 'float' to 'sf::Uint8', possible loss of data
+C:\Users\Ellio\MyDocuments\Game Development\Perforce\Software Engineering\Application\RelicShooter\Source\Game\GameObjects\UI\ScrollableBackground.cpp(15,55): warning C4244: 'argument': conversion from 'float' to 'sf::Uint8', possible loss of data
+C:\Users\Ellio\MyDocuments\Game Development\Perforce\Software Engineering\Application\RelicShooter\Source\Game\GameObjects\UI\ScrollableBackground.cpp(15,47): warning C4244: 'argument': conversion from 'float' to 'sf::Uint8', possible loss of data
+C:\Users\Ellio\MyDocuments\Game Development\Perforce\Software Engineering\Application\RelicShooter\Source\Game\GameObjects\UI\ScrollableBackground.cpp(15,39): warning C4244: 'argument': conversion from 'float' to 'sf::Uint8', possible loss of data
+C:\Users\Ellio\MyDocuments\Game Development\Perforce\Software Engineering\Application\RelicShooter\Source\Game\GameObjects\UI\ScrollableBackground.cpp(19,38): warning C4244: 'argument': conversion from 'T' to 'float', possible loss of data
+C:\Users\Ellio\MyDocuments\Game Development\Perforce\Software Engineering\Application\RelicShooter\Source\Game\GameObjects\UI\ScrollableBackground.cpp(19,38): warning C4244:         with
+C:\Users\Ellio\MyDocuments\Game Development\Perforce\Software Engineering\Application\RelicShooter\Source\Game\GameObjects\UI\ScrollableBackground.cpp(19,38): warning C4244:         [
+C:\Users\Ellio\MyDocuments\Game Development\Perforce\Software Engineering\Application\RelicShooter\Source\Game\GameObjects\UI\ScrollableBackground.cpp(19,38): warning C4244:             T=int
+C:\Users\Ellio\MyDocuments\Game Development\Perforce\Software Engineering\Application\RelicShooter\Source\Game\GameObjects\UI\ScrollableBackground.cpp(19,38): warning C4244:         ]
+C:\Users\Ellio\MyDocuments\Game Development\Perforce\Software Engineering\Application\RelicShooter\Source\Game\GameObjects\UI\ScrollableBackground.cpp(19,24): warning C4244: 'argument': conversion from 'T' to 'float', possible loss of data
+C:\Users\Ellio\MyDocuments\Game Development\Perforce\Software Engineering\Application\RelicShooter\Source\Game\GameObjects\UI\ScrollableBackground.cpp(19,24): warning C4244:         with
+C:\Users\Ellio\MyDocuments\Game Development\Perforce\Software Engineering\Application\RelicShooter\Source\Game\GameObjects\UI\ScrollableBackground.cpp(19,24): warning C4244:         [
+C:\Users\Ellio\MyDocuments\Game Development\Perforce\Software Engineering\Application\RelicShooter\Source\Game\GameObjects\UI\ScrollableBackground.cpp(19,24): warning C4244:             T=int
+C:\Users\Ellio\MyDocuments\Game Development\Perforce\Software Engineering\Application\RelicShooter\Source\Game\GameObjects\UI\ScrollableBackground.cpp(19,24): warning C4244:         ]
+C:\Users\Ellio\MyDocuments\Game Development\Perforce\Software Engineering\Application\RelicShooter\Source\Engine\Renderer\FrameTimer.h(25,10): warning C4244: 'return': conversion from 'const double' to 'float', possible loss of data
+  (compiling source file 'Source/Game/Game.cpp')
+  
+C:\Users\Ellio\MyDocuments\Game Development\Perforce\Software Engineering\Application\RelicShooter\Source\Game\GameObjects\UI\HUD\HealthUIComponent.h(33,63): warning C4244: 'argument': conversion from 'float' to 'sf::Uint8', possible loss of data
+  (compiling source file 'Source/Game/Game.cpp')
+  
+C:\Users\Ellio\MyDocuments\Game Development\Perforce\Software Engineering\Application\RelicShooter\Source\Game\GameObjects\UI\HUD\HealthUIComponent.h(33,56): warning C4244: 'argument': conversion from 'float' to 'sf::Uint8', possible loss of data
+  (compiling source file 'Source/Game/Game.cpp')
+  
+C:\Users\Ellio\MyDocuments\Game Development\Perforce\Software Engineering\Application\RelicShooter\Source\Game\GameObjects\UI\HUD\HealthUIComponent.h(33,48): warning C4244: 'argument': conversion from 'float' to 'sf::Uint8', possible loss of data
+  (compiling source file 'Source/Game/Game.cpp')
+  
+C:\Users\Ellio\MyDocuments\Game Development\Perforce\Software Engineering\Application\RelicShooter\Source\Game\GameObjects\UI\HUD\HealthUIComponent.h(34,62): warning C4244: 'argument': conversion from 'float' to 'sf::Uint8', possible loss of data
+  (compiling source file 'Source/Game/Game.cpp')
+  
+C:\Users\Ellio\MyDocuments\Game Development\Perforce\Software Engineering\Application\RelicShooter\Source\Game\GameObjects\UI\HUD\HealthUIComponent.h(34,55): warning C4244: 'argument': conversion from 'float' to 'sf::Uint8', possible loss of data
+  (compiling source file 'Source/Game/Game.cpp')
+  
+C:\Users\Ellio\MyDocuments\Game Development\Perforce\Software Engineering\Application\RelicShooter\Source\Game\GameObjects\UI\HUD\HealthUIComponent.h(34,48): warning C4244: 'argument': conversion from 'float' to 'sf::Uint8', possible loss of data
+  (compiling source file 'Source/Game/Game.cpp')
+  
+C:\Users\Ellio\MyDocuments\Game Development\Perforce\Software Engineering\Application\RelicShooter\Source\Game\GameObjects\UI\HUD\StaminaUIComponent.h(27,67): warning C4244: 'argument': conversion from 'float' to 'sf::Uint8', possible loss of data
+  (compiling source file 'Source/Game/Game.cpp')
+  
+C:\Users\Ellio\MyDocuments\Game Development\Perforce\Software Engineering\Application\RelicShooter\Source\Game\GameObjects\UI\HUD\StaminaUIComponent.h(27,60): warning C4244: 'argument': conversion from 'float' to 'sf::Uint8', possible loss of data
+  (compiling source file 'Source/Game/Game.cpp')
+  
+C:\Users\Ellio\MyDocuments\Game Development\Perforce\Software Engineering\Application\RelicShooter\Source\Game\GameObjects\UI\HUD\StaminaUIComponent.h(27,53): warning C4244: 'argument': conversion from 'float' to 'sf::Uint8', possible loss of data
+  (compiling source file 'Source/Game/Game.cpp')
+  
+C:\Users\Ellio\MyDocuments\Game Development\Perforce\Software Engineering\Application\RelicShooter\Source\Game\GameObjects\UI\HUD\StaminaUIComponent.h(27,46): warning C4244: 'argument': conversion from 'float' to 'sf::Uint8', possible loss of data
+  (compiling source file 'Source/Game/Game.cpp')
+  
+C:\Users\Ellio\MyDocuments\Game Development\Perforce\Software Engineering\Application\RelicShooter\Source\Game\GameObjects\UI\HUD\WaveUIComponent.h(34,63): warning C4244: 'argument': conversion from 'float' to 'sf::Uint8', possible loss of data
+  (compiling source file 'Source/Game/Game.cpp')
+  
+C:\Users\Ellio\MyDocuments\Game Development\Perforce\Software Engineering\Application\RelicShooter\Source\Game\GameObjects\UI\HUD\StaminaUIComponent.h(27,67): warning C4244: 'argument': conversion from 'float' to 'sf::Uint8', possible loss of data
+  (compiling source file 'Source/Game/GameObjects/UI/HUD/UIManager.cpp')
+  
+C:\Users\Ellio\MyDocuments\Game Development\Perforce\Software Engineering\Application\RelicShooter\Source\Game\GameObjects\UI\HUD\StaminaUIComponent.h(27,60): warning C4244: 'argument': conversion from 'float' to 'sf::Uint8', possible loss of data
+  (compiling source file 'Source/Game/GameObjects/UI/HUD/UIManager.cpp')
+  
+C:\Users\Ellio\MyDocuments\Game Development\Perforce\Software Engineering\Application\RelicShooter\Source\Game\GameObjects\UI\HUD\StaminaUIComponent.h(27,53): warning C4244: 'argument': conversion from 'float' to 'sf::Uint8', possible loss of data
+  (compiling source file 'Source/Game/GameObjects/UI/HUD/UIManager.cpp')
+  
+C:\Users\Ellio\MyDocuments\Game Development\Perforce\Software Engineering\Application\RelicShooter\Source\Game\GameObjects\UI\HUD\StaminaUIComponent.h(27,46): warning C4244: 'argument': conversion from 'float' to 'sf::Uint8', possible loss of data
+  (compiling source file 'Source/Game/GameObjects/UI/HUD/UIManager.cpp')
+  
+C:\Users\Ellio\MyDocuments\Game Development\Perforce\Software Engineering\Application\RelicShooter\Source\Game\GameObjects\UI\HUD\WaveUIComponent.h(34,63): warning C4244: 'argument': conversion from 'float' to 'sf::Uint8', possible loss of data
+  (compiling source file 'Source/Game/GameObjects/UI/HUD/UIManager.cpp')
+  
+C:\Users\Ellio\MyDocuments\Game Development\Perforce\Software Engineering\Application\RelicShooter\Source\Game\GameObjects\UI\HUD\WeaponUIComponent.h(40,62): warning C4244: 'argument': conversion from 'float' to 'sf::Uint8', possible loss of data
+  (compiling source file 'Source/Game/GameObjects/UI/HUD/WeaponUIComponent.cpp')
+  
+C:\Users\Ellio\MyDocuments\Game Development\Perforce\Software Engineering\Application\RelicShooter\Source\Game\GameObjects\UI\HUD\WeaponUIComponent.h(40,55): warning C4244: 'argument': conversion from 'float' to 'sf::Uint8', possible loss of data
+  (compiling source file 'Source/Game/GameObjects/UI/HUD/WeaponUIComponent.cpp')
+  
+C:\Users\Ellio\MyDocuments\Game Development\Perforce\Software Engineering\Application\RelicShooter\Source\Game\GameObjects\UI\HUD\WeaponUIComponent.h(40,48): warning C4244: 'argument': conversion from 'float' to 'sf::Uint8', possible loss of data
+  (compiling source file 'Source/Game/GameObjects/UI/HUD/WeaponUIComponent.cpp')
+  
+C:\Users\Ellio\MyDocuments\Game Development\Perforce\Software Engineering\Application\RelicShooter\Source\Game\GameObjects\UI\HUD\WeaponUIComponent.h(40,62): warning C4244: 'argument': conversion from 'float' to 'sf::Uint8', possible loss of data
+  (compiling source file 'Source/Game/Game.cpp')
+  
+C:\Users\Ellio\MyDocuments\Game Development\Perforce\Software Engineering\Application\RelicShooter\Source\Game\GameObjects\UI\HUD\WeaponUIComponent.h(40,55): warning C4244: 'argument': conversion from 'float' to 'sf::Uint8', possible loss of data
+  (compiling source file 'Source/Game/Game.cpp')
+  
+C:\Users\Ellio\MyDocuments\Game Development\Perforce\Software Engineering\Application\RelicShooter\Source\Game\GameObjects\UI\HUD\WeaponUIComponent.h(40,48): warning C4244: 'argument': conversion from 'float' to 'sf::Uint8', possible loss of data
+  (compiling source file 'Source/Game/Game.cpp')
+  
+C:\Users\Ellio\MyDocuments\Game Development\Perforce\Software Engineering\Application\RelicShooter\Source\Game\GameObjects\UI\HUD\WeaponUIComponent.h(40,62): warning C4244: 'argument': conversion from 'float' to 'sf::Uint8', possible loss of data
+  (compiling source file 'Source/Game/GameObjects/UI/HUD/UIManager.cpp')
+  
+C:\Users\Ellio\MyDocuments\Game Development\Perforce\Software Engineering\Application\RelicShooter\Source\Game\GameObjects\UI\HUD\WeaponUIComponent.h(40,55): warning C4244: 'argument': conversion from 'float' to 'sf::Uint8', possible loss of data
+  (compiling source file 'Source/Game/GameObjects/UI/HUD/UIManager.cpp')
+  
+C:\Users\Ellio\MyDocuments\Game Development\Perforce\Software Engineering\Application\RelicShooter\Source\Game\GameObjects\UI\HUD\WeaponUIComponent.h(40,48): warning C4244: 'argument': conversion from 'float' to 'sf::Uint8', possible loss of data
+  (compiling source file 'Source/Game/GameObjects/UI/HUD/UIManager.cpp')
+  
+C:\Users\Ellio\MyDocuments\Game Development\Perforce\Software Engineering\Application\RelicShooter\Source\Game\GameObjects\UI\HUD\GameEndScreenUIComponent.h(39,75): warning C4244: 'argument': conversion from 'float' to 'sf::Uint8', possible loss of data
+  (compiling source file 'Source/Game/Game.cpp')
+  
+C:\Users\Ellio\MyDocuments\Game Development\Perforce\Software Engineering\Application\RelicShooter\Source\Game\GameObjects\UI\HUD\GameEndScreenUIComponent.h(39,69): warning C4244: 'argument': conversion from 'float' to 'sf::Uint8', possible loss of data
+  (compiling source file 'Source/Game/Game.cpp')
+  
+C:\Users\Ellio\MyDocuments\Game Development\Perforce\Software Engineering\Application\RelicShooter\Source\Game\GameObjects\UI\HUD\GameEndScreenUIComponent.h(39,61): warning C4244: 'argument': conversion from 'float' to 'sf::Uint8', possible loss of data
+  (compiling source file 'Source/Game/Game.cpp')
+  
+C:\Users\Ellio\MyDocuments\Game Development\Perforce\Software Engineering\Application\RelicShooter\Source\Game\GameObjects\UI\HUD\GameEndScreenUIComponent.h(39,55): warning C4244: 'argument': conversion from 'float' to 'sf::Uint8', possible loss of data
+  (compiling source file 'Source/Game/Game.cpp')
+  
+C:\Users\Ellio\MyDocuments\Game Development\Perforce\Software Engineering\Application\RelicShooter\Source\Game\GameObjects\UI\HUD\GameEndScreenUIComponent.h(40,76): warning C4244: 'argument': conversion from 'float' to 'sf::Uint8', possible loss of data
+  (compiling source file 'Source/Game/Game.cpp')
+  
+C:\Users\Ellio\MyDocuments\Game Development\Perforce\Software Engineering\Application\RelicShooter\Source\Game\GameObjects\UI\HUD\GameEndScreenUIComponent.h(40,70): warning C4244: 'argument': conversion from 'float' to 'sf::Uint8', possible loss of data
+  (compiling source file 'Source/Game/Game.cpp')
+  
+C:\Users\Ellio\MyDocuments\Game Development\Perforce\Software Engineering\Application\RelicShooter\Source\Game\GameObjects\UI\HUD\GameEndScreenUIComponent.h(40,64): warning C4244: 'argument': conversion from 'float' to 'sf::Uint8', possible loss of data
+  (compiling source file 'Source/Game/Game.cpp')
+  
+C:\Users\Ellio\MyDocuments\Game Development\Perforce\Software Engineering\Application\RelicShooter\Source\Game\GameObjects\UI\HUD\GameEndScreenUIComponent.h(40,56): warning C4244: 'argument': conversion from 'float' to 'sf::Uint8', possible loss of data
+  (compiling source file 'Source/Game/Game.cpp')
+  
+C:\Users\Ellio\MyDocuments\Game Development\Perforce\Software Engineering\Application\RelicShooter\Source\Game\GameObjects\UI\HUD\GameEndScreenUIComponent.h(43,61): warning C4244: 'argument': conversion from 'float' to 'sf::Uint8', possible loss of data
+  (compiling source file 'Source/Game/Game.cpp')
+  
+C:\Users\Ellio\MyDocuments\Game Development\Perforce\Software Engineering\Application\RelicShooter\Source\Game\GameObjects\UI\HUD\GameEndScreenUIComponent.h(39,75): warning C4244: 'argument': conversion from 'float' to 'sf::Uint8', possible loss of data
+  (compiling source file 'Source/Game/GameObjects/UI/HUD/UIManager.cpp')
+  
+C:\Users\Ellio\MyDocuments\Game Development\Perforce\Software Engineering\Application\RelicShooter\Source\Game\GameObjects\Player\Player.h(26,27): warning C4244: 'initializing': conversion from 'float' to 'const int', possible loss of data
+  (compiling source file 'Source/Game/GameObjects/Collectables/SpeedCollectible.cpp')
+  
+C:\Users\Ellio\MyDocuments\Game Development\Perforce\Software Engineering\Application\RelicShooter\Source\Game\GameObjects\UI\HUD\GameEndScreenUIComponent.h(39,69): warning C4244: 'argument': conversion from 'float' to 'sf::Uint8', possible loss of data
+  (compiling source file 'Source/Game/GameObjects/UI/HUD/UIManager.cpp')
+  
+C:\Users\Ellio\MyDocuments\Game Development\Perforce\Software Engineering\Application\RelicShooter\Source\Game\GameObjects\Player\Player.h(43,16): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+  (compiling source file 'Source/Game/GameObjects/Collectables/SpeedCollectible.cpp')
+  
+C:\Users\Ellio\MyDocuments\Game Development\Perforce\Software Engineering\Application\RelicShooter\Source\Game\GameObjects\UI\HUD\GameEndScreenUIComponent.h(39,61): warning C4244: 'argument': conversion from 'float' to 'sf::Uint8', possible loss of data
+  (compiling source file 'Source/Game/GameObjects/UI/HUD/UIManager.cpp')
+  
+C:\Users\Ellio\MyDocuments\Game Development\Perforce\Software Engineering\Application\RelicShooter\Source\Game\GameObjects\UI\HUD\GameEndScreenUIComponent.h(39,55): warning C4244: 'argument': conversion from 'float' to 'sf::Uint8', possible loss of data
+  (compiling source file 'Source/Game/GameObjects/UI/HUD/UIManager.cpp')
+  
+C:\Users\Ellio\MyDocuments\Game Development\Perforce\Software Engineering\Application\RelicShooter\Source\Game\GameObjects\Player\Player.h(44,19): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+  (compiling source file 'Source/Game/GameObjects/Collectables/SpeedCollectible.cpp')
+  
+C:\Users\Ellio\MyDocuments\Game Development\Perforce\Software Engineering\Application\RelicShooter\Source\Game\GameObjects\UI\HUD\GameEndScreenUIComponent.h(40,76): warning C4244: 'argument': conversion from 'float' to 'sf::Uint8', possible loss of data
+  (compiling source file 'Source/Game/GameObjects/UI/HUD/UIManager.cpp')
+  
+C:\Users\Ellio\MyDocuments\Game Development\Perforce\Software Engineering\Application\RelicShooter\Source\Game\GameObjects\UI\HUD\GameEndScreenUIComponent.h(40,70): warning C4244: 'argument': conversion from 'float' to 'sf::Uint8', possible loss of data
+  (compiling source file 'Source/Game/GameObjects/UI/HUD/UIManager.cpp')
+  
+C:\Users\Ellio\MyDocuments\Game Development\Perforce\Software Engineering\Application\RelicShooter\Source\Game\GameObjects\UI\HUD\GameEndScreenUIComponent.h(40,64): warning C4244: 'argument': conversion from 'float' to 'sf::Uint8', possible loss of data
+  (compiling source file 'Source/Game/GameObjects/UI/HUD/UIManager.cpp')
+  
+C:\Users\Ellio\MyDocuments\Game Development\Perforce\Software Engineering\Application\RelicShooter\Source\Game\GameObjects\UI\HUD\GameEndScreenUIComponent.h(40,56): warning C4244: 'argument': conversion from 'float' to 'sf::Uint8', possible loss of data
+  (compiling source file 'Source/Game/GameObjects/UI/HUD/UIManager.cpp')
+  
+C:\Users\Ellio\MyDocuments\Game Development\Perforce\Software Engineering\Application\RelicShooter\Source\Game\GameObjects\UI\HUD\GameEndScreenUIComponent.h(43,61): warning C4244: 'argument': conversion from 'float' to 'sf::Uint8', possible loss of data
+  (compiling source file 'Source/Game/GameObjects/UI/HUD/UIManager.cpp')
+  
+C:\Users\Ellio\MyDocuments\Game Development\Perforce\Software Engineering\Application\RelicShooter\Source\Game\GameObjects\UI\HUD\WaveUIComponent.h(34,63): warning C4244: 'argument': conversion from 'float' to 'sf::Uint8', possible loss of data
+  (compiling source file 'Source/Game/GameObjects/UI/HUD/WaveUIComponent.cpp')
+  
+C:\Users\Ellio\MyDocuments\Game Development\Perforce\Software Engineering\Application\RelicShooter\Source\Game\GameObjects\Player\Player.h(26,27): warning C4244: 'initializing': conversion from 'float' to 'const int', possible loss of data
+  (compiling source file 'Source/Game/Game.cpp')
+  
+C:\Users\Ellio\MyDocuments\Game Development\Perforce\Software Engineering\Application\RelicShooter\Source\Game\GameObjects\Player\Player.h(43,16): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+  (compiling source file 'Source/Game/Game.cpp')
+  
+C:\Users\Ellio\MyDocuments\Game Development\Perforce\Software Engineering\Application\RelicShooter\Source\Game\GameObjects\Player\Player.h(44,19): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+  (compiling source file 'Source/Game/Game.cpp')
+  
+C:\Users\Ellio\MyDocuments\Game Development\Perforce\Software Engineering\Application\RelicShooter\Source\Game\GameObjects\Player\Player.h(26,27): warning C4244: 'initializing': conversion from 'float' to 'const int', possible loss of data
+  (compiling source file 'Source/Game/GameObjects/UI/HUD/UIManager.cpp')
+  
+C:\Users\Ellio\MyDocuments\Game Development\Perforce\Software Engineering\Application\RelicShooter\Source\Game\GameObjects\Player\Player.h(43,16): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+  (compiling source file 'Source/Game/GameObjects/UI/HUD/UIManager.cpp')
+  
+C:\Users\Ellio\MyDocuments\Game Development\Perforce\Software Engineering\Application\RelicShooter\Source\Game\GameObjects\Player\Player.h(44,19): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+  (compiling source file 'Source/Game/GameObjects/UI/HUD/UIManager.cpp')
+  
+C:\Users\Ellio\MyDocuments\Game Development\Perforce\Software Engineering\Application\RelicShooter\Source\Game\GameData\TileMap.cpp(202,65): warning C4244: 'argument': conversion from 'const size_t' to 'T', possible loss of data
+C:\Users\Ellio\MyDocuments\Game Development\Perforce\Software Engineering\Application\RelicShooter\Source\Game\GameData\TileMap.cpp(202,65): warning C4244:         with
+C:\Users\Ellio\MyDocuments\Game Development\Perforce\Software Engineering\Application\RelicShooter\Source\Game\GameData\TileMap.cpp(202,65): warning C4244:         [
+C:\Users\Ellio\MyDocuments\Game Development\Perforce\Software Engineering\Application\RelicShooter\Source\Game\GameData\TileMap.cpp(202,65): warning C4244:             T=float
+C:\Users\Ellio\MyDocuments\Game Development\Perforce\Software Engineering\Application\RelicShooter\Source\Game\GameData\TileMap.cpp(202,65): warning C4244:         ]
+C:\Users\Ellio\MyDocuments\Game Development\Perforce\Software Engineering\Application\RelicShooter\Source\Game\GameData\TileMap.cpp(202,52): warning C4244: 'argument': conversion from 'const size_t' to 'T', possible loss of data
+C:\Users\Ellio\MyDocuments\Game Development\Perforce\Software Engineering\Application\RelicShooter\Source\Game\GameData\TileMap.cpp(202,52): warning C4244:         with
+C:\Users\Ellio\MyDocuments\Game Development\Perforce\Software Engineering\Application\RelicShooter\Source\Game\GameData\TileMap.cpp(202,52): warning C4244:         [
+C:\Users\Ellio\MyDocuments\Game Development\Perforce\Software Engineering\Application\RelicShooter\Source\Game\GameData\TileMap.cpp(202,52): warning C4244:             T=float
+C:\Users\Ellio\MyDocuments\Game Development\Perforce\Software Engineering\Application\RelicShooter\Source\Game\GameData\TileMap.cpp(202,52): warning C4244:         ]
+C:\Users\Ellio\MyDocuments\Game Development\Perforce\Software Engineering\Application\RelicShooter\Source\Game\GameObjects\UI\HUD\WaveUIComponent.cpp(10,54): warning C4244: 'argument': conversion from 'float' to 'sf::Uint8', possible loss of data
+C:\Users\Ellio\MyDocuments\Game Development\Perforce\Software Engineering\Application\RelicShooter\Source\Game\GameObjects\UI\HUD\WaveUIComponent.cpp(10,47): warning C4244: 'argument': conversion from 'float' to 'sf::Uint8', possible loss of data
+C:\Users\Ellio\MyDocuments\Game Development\Perforce\Software Engineering\Application\RelicShooter\Source\Game\GameObjects\UI\HUD\WaveUIComponent.cpp(10,40): warning C4244: 'argument': conversion from 'float' to 'sf::Uint8', possible loss of data
+C:\Users\Ellio\MyDocuments\Game Development\Perforce\Software Engineering\Application\RelicShooter\Source\Engine\Renderer\FrameTimer.h(25,10): warning C4244: 'return': conversion from 'const double' to 'float', possible loss of data
+  (compiling source file 'Source/Game/GameStates/GameStateLevel2.cpp')
+  
+C:\Users\Ellio\MyDocuments\Game Development\Perforce\Software Engineering\Application\RelicShooter\Source\Game\GameStates\GameStateLevel2.cpp(82,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\Users\Ellio\MyDocuments\Game Development\Perforce\Software Engineering\Application\RelicShooter\Source\Game\GameStates\GameStateLevel2.cpp(264,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Ellio\MyDocuments\Game Development\Perforce\Software Engineering\Application\RelicShooter\Source\Game\GameStates\GameStateLevel2.cpp(269,47): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+C:\Users\Ellio\MyDocuments\Game Development\Perforce\Software Engineering\Application\RelicShooter\Source\Game\GameStates\GameStateLevel2.cpp(269,47): warning C4244:         with
+C:\Users\Ellio\MyDocuments\Game Development\Perforce\Software Engineering\Application\RelicShooter\Source\Game\GameStates\GameStateLevel2.cpp(269,47): warning C4244:         [
+C:\Users\Ellio\MyDocuments\Game Development\Perforce\Software Engineering\Application\RelicShooter\Source\Game\GameStates\GameStateLevel2.cpp(269,47): warning C4244:             T=float
+C:\Users\Ellio\MyDocuments\Game Development\Perforce\Software Engineering\Application\RelicShooter\Source\Game\GameStates\GameStateLevel2.cpp(269,47): warning C4244:         ]
+C:\Users\Ellio\MyDocuments\Game Development\Perforce\Software Engineering\Application\RelicShooter\Source\Game\GameStates\GameStateLevel2.cpp(269,32): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+C:\Users\Ellio\MyDocuments\Game Development\Perforce\Software Engineering\Application\RelicShooter\Source\Game\GameStates\GameStateLevel2.cpp(269,32): warning C4244:         with
+C:\Users\Ellio\MyDocuments\Game Development\Perforce\Software Engineering\Application\RelicShooter\Source\Game\GameStates\GameStateLevel2.cpp(269,32): warning C4244:         [
+C:\Users\Ellio\MyDocuments\Game Development\Perforce\Software Engineering\Application\RelicShooter\Source\Game\GameStates\GameStateLevel2.cpp(269,32): warning C4244:             T=float
+C:\Users\Ellio\MyDocuments\Game Development\Perforce\Software Engineering\Application\RelicShooter\Source\Game\GameStates\GameStateLevel2.cpp(269,32): warning C4244:         ]
+C:\Users\Ellio\MyDocuments\Game Development\Perforce\Software Engineering\Application\RelicShooter\Source\Game\GameStates\GameStateLevel2.cpp(280,47): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+C:\Users\Ellio\MyDocuments\Game Development\Perforce\Software Engineering\Application\RelicShooter\Source\Game\GameStates\GameStateLevel2.cpp(280,47): warning C4244:         with
+C:\Users\Ellio\MyDocuments\Game Development\Perforce\Software Engineering\Application\RelicShooter\Source\Game\GameStates\GameStateLevel2.cpp(280,47): warning C4244:         [
+C:\Users\Ellio\MyDocuments\Game Development\Perforce\Software Engineering\Application\RelicShooter\Source\Game\GameStates\GameStateLevel2.cpp(280,47): warning C4244:             T=float
+C:\Users\Ellio\MyDocuments\Game Development\Perforce\Software Engineering\Application\RelicShooter\Source\Game\GameStates\GameStateLevel2.cpp(280,47): warning C4244:         ]
+C:\Users\Ellio\MyDocuments\Game Development\Perforce\Software Engineering\Application\RelicShooter\Source\Game\GameStates\GameStateLevel2.cpp(280,32): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+C:\Users\Ellio\MyDocuments\Game Development\Perforce\Software Engineering\Application\RelicShooter\Source\Game\GameStates\GameStateLevel2.cpp(280,32): warning C4244:         with
+C:\Users\Ellio\MyDocuments\Game Development\Perforce\Software Engineering\Application\RelicShooter\Source\Game\GameStates\GameStateLevel2.cpp(280,32): warning C4244:         [
+C:\Users\Ellio\MyDocuments\Game Development\Perforce\Software Engineering\Application\RelicShooter\Source\Game\GameStates\GameStateLevel2.cpp(280,32): warning C4244:             T=float
+C:\Users\Ellio\MyDocuments\Game Development\Perforce\Software Engineering\Application\RelicShooter\Source\Game\GameStates\GameStateLevel2.cpp(280,32): warning C4244:         ]
+C:\Users\Ellio\MyDocuments\Game Development\Perforce\Software Engineering\Application\RelicShooter\Source\Game\GameStates\GameStateLevel2.cpp(291,47): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+C:\Users\Ellio\MyDocuments\Game Development\Perforce\Software Engineering\Application\RelicShooter\Source\Game\GameStates\GameStateLevel2.cpp(291,47): warning C4244:         with
+C:\Users\Ellio\MyDocuments\Game Development\Perforce\Software Engineering\Application\RelicShooter\Source\Game\GameStates\GameStateLevel2.cpp(291,47): warning C4244:         [
+C:\Users\Ellio\MyDocuments\Game Development\Perforce\Software Engineering\Application\RelicShooter\Source\Game\GameStates\GameStateLevel2.cpp(291,47): warning C4244:             T=float
+C:\Users\Ellio\MyDocuments\Game Development\Perforce\Software Engineering\Application\RelicShooter\Source\Game\GameStates\GameStateLevel2.cpp(291,47): warning C4244:         ]
+C:\Users\Ellio\MyDocuments\Game Development\Perforce\Software Engineering\Application\RelicShooter\Source\Game\GameStates\GameStateLevel2.cpp(291,32): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+C:\Users\Ellio\MyDocuments\Game Development\Perforce\Software Engineering\Application\RelicShooter\Source\Game\GameStates\GameStateLevel2.cpp(291,32): warning C4244:         with
+C:\Users\Ellio\MyDocuments\Game Development\Perforce\Software Engineering\Application\RelicShooter\Source\Game\GameStates\GameStateLevel2.cpp(291,32): warning C4244:         [
+C:\Users\Ellio\MyDocuments\Game Development\Perforce\Software Engineering\Application\RelicShooter\Source\Game\GameStates\GameStateLevel2.cpp(291,32): warning C4244:             T=float
+C:\Users\Ellio\MyDocuments\Game Development\Perforce\Software Engineering\Application\RelicShooter\Source\Game\GameStates\GameStateLevel2.cpp(291,32): warning C4244:         ]
+C:\Users\Ellio\MyDocuments\Game Development\Perforce\Software Engineering\Application\RelicShooter\Source\Engine\Renderer\FrameTimer.h(25,10): warning C4244: 'return': conversion from 'const double' to 'float', possible loss of data
+  (compiling source file 'Source/Main.cpp')
+  
+C:\Users\Ellio\MyDocuments\Game Development\Perforce\Software Engineering\Application\RelicShooter\Source\Game\GameObjects\UI\HUD\HealthUIComponent.h(33,63): warning C4244: 'argument': conversion from 'float' to 'sf::Uint8', possible loss of data
+  (compiling source file 'Source/Main.cpp')
+  
+C:\Users\Ellio\MyDocuments\Game Development\Perforce\Software Engineering\Application\RelicShooter\Source\Game\GameObjects\UI\HUD\HealthUIComponent.h(33,56): warning C4244: 'argument': conversion from 'float' to 'sf::Uint8', possible loss of data
+  (compiling source file 'Source/Main.cpp')
+  
+C:\Users\Ellio\MyDocuments\Game Development\Perforce\Software Engineering\Application\RelicShooter\Source\Game\GameObjects\UI\HUD\HealthUIComponent.h(33,48): warning C4244: 'argument': conversion from 'float' to 'sf::Uint8', possible loss of data
+  (compiling source file 'Source/Main.cpp')
+  
+C:\Users\Ellio\MyDocuments\Game Development\Perforce\Software Engineering\Application\RelicShooter\Source\Game\GameObjects\UI\HUD\HealthUIComponent.h(34,62): warning C4244: 'argument': conversion from 'float' to 'sf::Uint8', possible loss of data
+  (compiling source file 'Source/Main.cpp')
+  
+C:\Users\Ellio\MyDocuments\Game Development\Perforce\Software Engineering\Application\RelicShooter\Source\Game\GameObjects\UI\HUD\HealthUIComponent.h(34,55): warning C4244: 'argument': conversion from 'float' to 'sf::Uint8', possible loss of data
+  (compiling source file 'Source/Main.cpp')
+  
+C:\Users\Ellio\MyDocuments\Game Development\Perforce\Software Engineering\Application\RelicShooter\Source\Game\GameObjects\UI\HUD\HealthUIComponent.h(34,48): warning C4244: 'argument': conversion from 'float' to 'sf::Uint8', possible loss of data
+  (compiling source file 'Source/Main.cpp')
+  
+C:\Users\Ellio\MyDocuments\Game Development\Perforce\Software Engineering\Application\RelicShooter\Source\Game\GameObjects\UI\HUD\StaminaUIComponent.h(27,67): warning C4244: 'argument': conversion from 'float' to 'sf::Uint8', possible loss of data
+  (compiling source file 'Source/Main.cpp')
+  
+C:\Users\Ellio\MyDocuments\Game Development\Perforce\Software Engineering\Application\RelicShooter\Source\Game\GameObjects\UI\HUD\StaminaUIComponent.h(27,60): warning C4244: 'argument': conversion from 'float' to 'sf::Uint8', possible loss of data
+  (compiling source file 'Source/Main.cpp')
+  
+C:\Users\Ellio\MyDocuments\Game Development\Perforce\Software Engineering\Application\RelicShooter\Source\Game\GameObjects\UI\HUD\StaminaUIComponent.h(27,53): warning C4244: 'argument': conversion from 'float' to 'sf::Uint8', possible loss of data
+  (compiling source file 'Source/Main.cpp')
+  
+C:\Users\Ellio\MyDocuments\Game Development\Perforce\Software Engineering\Application\RelicShooter\Source\Game\GameObjects\UI\HUD\StaminaUIComponent.h(27,46): warning C4244: 'argument': conversion from 'float' to 'sf::Uint8', possible loss of data
+  (compiling source file 'Source/Main.cpp')
+  
+C:\Users\Ellio\MyDocuments\Game Development\Perforce\Software Engineering\Application\RelicShooter\Source\Game\GameObjects\UI\HUD\WaveUIComponent.h(34,63): warning C4244: 'argument': conversion from 'float' to 'sf::Uint8', possible loss of data
+  (compiling source file 'Source/Main.cpp')
+  
+C:\Users\Ellio\MyDocuments\Game Development\Perforce\Software Engineering\Application\RelicShooter\Source\Game\GameObjects\UI\HUD\WeaponUIComponent.h(40,62): warning C4244: 'argument': conversion from 'float' to 'sf::Uint8', possible loss of data
+  (compiling source file 'Source/Main.cpp')
+  
+C:\Users\Ellio\MyDocuments\Game Development\Perforce\Software Engineering\Application\RelicShooter\Source\Game\GameObjects\UI\HUD\WeaponUIComponent.h(40,55): warning C4244: 'argument': conversion from 'float' to 'sf::Uint8', possible loss of data
+  (compiling source file 'Source/Main.cpp')
+  
+C:\Users\Ellio\MyDocuments\Game Development\Perforce\Software Engineering\Application\RelicShooter\Source\Game\GameObjects\UI\HUD\WeaponUIComponent.h(40,48): warning C4244: 'argument': conversion from 'float' to 'sf::Uint8', possible loss of data
+  (compiling source file 'Source/Main.cpp')
+  
+C:\Users\Ellio\MyDocuments\Game Development\Perforce\Software Engineering\Application\RelicShooter\Source\Game\GameObjects\UI\HUD\GameEndScreenUIComponent.h(39,75): warning C4244: 'argument': conversion from 'float' to 'sf::Uint8', possible loss of data
+  (compiling source file 'Source/Main.cpp')
+  
+C:\Users\Ellio\MyDocuments\Game Development\Perforce\Software Engineering\Application\RelicShooter\Source\Game\GameObjects\UI\HUD\GameEndScreenUIComponent.h(39,69): warning C4244: 'argument': conversion from 'float' to 'sf::Uint8', possible loss of data
+  (compiling source file 'Source/Main.cpp')
+  
+C:\Users\Ellio\MyDocuments\Game Development\Perforce\Software Engineering\Application\RelicShooter\Source\Game\GameObjects\UI\HUD\GameEndScreenUIComponent.h(39,61): warning C4244: 'argument': conversion from 'float' to 'sf::Uint8', possible loss of data
+  (compiling source file 'Source/Main.cpp')
+  
+C:\Users\Ellio\MyDocuments\Game Development\Perforce\Software Engineering\Application\RelicShooter\Source\Game\GameObjects\UI\HUD\GameEndScreenUIComponent.h(39,55): warning C4244: 'argument': conversion from 'float' to 'sf::Uint8', possible loss of data
+  (compiling source file 'Source/Main.cpp')
+  
+C:\Users\Ellio\MyDocuments\Game Development\Perforce\Software Engineering\Application\RelicShooter\Source\Game\GameObjects\UI\HUD\GameEndScreenUIComponent.h(40,76): warning C4244: 'argument': conversion from 'float' to 'sf::Uint8', possible loss of data
+  (compiling source file 'Source/Main.cpp')
+  
+C:\Users\Ellio\MyDocuments\Game Development\Perforce\Software Engineering\Application\RelicShooter\Source\Game\GameObjects\UI\HUD\GameEndScreenUIComponent.h(40,70): warning C4244: 'argument': conversion from 'float' to 'sf::Uint8', possible loss of data
+  (compiling source file 'Source/Main.cpp')
+  
+C:\Users\Ellio\MyDocuments\Game Development\Perforce\Software Engineering\Application\RelicShooter\Source\Game\GameObjects\UI\HUD\GameEndScreenUIComponent.h(40,64): warning C4244: 'argument': conversion from 'float' to 'sf::Uint8', possible loss of data
+  (compiling source file 'Source/Main.cpp')
+  
+C:\Users\Ellio\MyDocuments\Game Development\Perforce\Software Engineering\Application\RelicShooter\Source\Game\GameObjects\UI\HUD\GameEndScreenUIComponent.h(40,56): warning C4244: 'argument': conversion from 'float' to 'sf::Uint8', possible loss of data
+  (compiling source file 'Source/Main.cpp')
+  
+C:\Users\Ellio\MyDocuments\Game Development\Perforce\Software Engineering\Application\RelicShooter\Source\Game\GameObjects\UI\HUD\GameEndScreenUIComponent.h(43,61): warning C4244: 'argument': conversion from 'float' to 'sf::Uint8', possible loss of data
+  (compiling source file 'Source/Main.cpp')
+  
+  Generating code
+  Previous IPDB not found, fall back to full compilation.
+  All 278 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Finished generating code
+tinyxml2.lib(tinyxml2.obj) : warning LNK4099: PDB 'tinyxml2.pdb' was not found with 'tinyxml2.lib(tinyxml2.obj)' or at 'C:\Users\Ellio\MyDocuments\Game Development\Perforce\Software Engineering\Application\Release\tinyxml2.pdb'; linking object as if no debug info
+  RelicShooter.vcxproj -> C:\Users\Ellio\MyDocuments\Game Development\Perforce\Software Engineering\Application\Release\RelicShooter.exe

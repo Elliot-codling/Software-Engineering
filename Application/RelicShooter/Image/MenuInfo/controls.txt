@@ -1,0 +1,16 @@
+W                       -  Walk Up
+A                       -  Walk Left
+S                       -  Walk Down
+D                       -  Walk Right
+Shift or Space (Hold)   -  Run
+Shift or Space (Press)  -  Dash
+
+Left Click              -  Shoot
+Right Click             -  Aim Down Sight
+R                       -  Reload
+
+E                       -  Pick Up Weapon
+Q or Tab                -  Switch Weapon
+
+Gamepad only available during gameplay
+Menus REQUIRE mouse control
